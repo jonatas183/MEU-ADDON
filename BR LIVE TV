@@ -1,0 +1,839 @@
+#EXTM3U
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37130
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40263
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36929
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41087
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40262
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36928
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37128
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38392
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36992
+#EXTINF:-1,Arte 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37133
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41467
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37132
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41468
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36991
+#EXTINF:-1,BabyTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36993
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37127
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38429
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36990
+#EXTINF:-1,BandNews
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37126
+#EXTINF:-1,BandNews FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38391
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41514
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41530
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42900
+#EXTINF:-1,BandNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42411
+#EXTINF:-1,BandSports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37125
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36989
+#EXTINF:-1,Bis
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37131
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38403
+#EXTINF:-1,Bis HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36988
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37123
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38390
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37122
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41517
+#EXTINF:-1,Canção Nova HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37023
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37121
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41471
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36927
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37120
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40261
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36926
+#EXTINF:-1,Combate
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37119
+#EXTINF:-1,Combate [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42635
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38428
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36986
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37118
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36925
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40260
+#EXTINF:-1,Cultura
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40073
+#EXTINF:-1,Cultura FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42903
+#EXTINF:-1,Curta!
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37117
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41472
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37116
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38404
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36985
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40259
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36924
+#EXTINF:-1,Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36984
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38389
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37115
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37113
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41473
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36923
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41474
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36922
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41475
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36983
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37112
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38388
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36982
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38387
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36981
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37111
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38402
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36921
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37110
+#EXTINF:-1,Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41512
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40517
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37109
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37108
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41476
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36920
+#EXTINF:-1,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40248
+#EXTINF:-1,Globo EPTV Ribeirão
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40514
+#EXTINF:-1,Globo EPTV Ribeirão HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38640
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37105
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41477
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36976
+#EXTINF:-1,Globo 
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/43430
+#EXTINF:-1,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37104
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38413
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36978
+#EXTINF:-1,ESPN Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41977
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38380
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42910
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38401
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36977
+#EXTINF:-1,FILM&Arts
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41374
+#EXTINF:-1,Fish TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37103
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41478
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42911
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37102
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40257
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36919
+#EXTINF:-1,Fox Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37101
+#EXTINF:-1,Fox Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36972
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38427
+#EXTINF:-1,Fox Premium 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37335
+#EXTINF:-1,Fox Premium 1  HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36974
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41480
+#EXTINF:-1,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37336
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38386
+#EXTINF:-1,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36973
+#EXTINF:-1,FoxLife
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37100
+#EXTINF:-1,FoxLife FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41479
+#EXTINF:-1,FoxLife HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36918
+#EXTINF:-1,FoxSports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37099
+#EXTINF:-1,FoxSports 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37098
+#EXTINF:-1,FoxSports 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38398
+#EXTINF:-1,FoxSports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36971
+#EXTINF:-1,FoxSports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36970
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40074
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41481
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37097
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41482
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36969
+#EXTINF:-1,Gazeta HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40120
+#EXTINF:-1,Globo Anhanguera
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38966
+#EXTINF:-1,Globo Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37096
+#EXTINF:-1,Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42987
+#EXTINF:-1,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41402
+#EXTINF:-1,Globo Brasília
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37095
+#EXTINF:-1,Globo Brasília HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40513
+#EXTINF:-1,Globo EPTV Araraquara
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42950
+#EXTINF:-1,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42951
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42983
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42952
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42954
+#EXTINF:-1,EPTV Ribeirão FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42999
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42953
+#EXTINF:-1,Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42955
+#EXTINF:-1,Globo NSC TV Florianópolis
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38641
+#EXTINF:-1,Globo NSC TV Florianópolis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42985
+#EXTINF:-1,Globo Inter TV Natal
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42956
+#EXTINF:-1,Globo Minas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40250
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41515
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40251
+#EXTINF:-1,Globo Nordeste
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37092
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42984
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38971
+#EXTINF:-1,Globo NSC TV Chapecó
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42971
+#EXTINF:-1,NSC TV Chapecó FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42969
+#EXTINF:-1,Globo NSC TV Chapecó HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42970
+#EXTINF:-1,Globo NSC TV Florianópolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42958
+#EXTINF:-1,Globo RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42959
+#EXTINF:-1,Globo Rio
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37091
+#EXTINF:-1,Globo Rio HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36968
+#EXTINF:-1,Globo Rio FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38425
+#EXTINF:-1,Globo RPC Curitiba
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37366
+#EXTINF:-1,RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38381
+#EXTINF:-1,Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42961
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42972
+#EXTINF:-1,RPC Fox do Iguaçu FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42973
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42974
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37090
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38424
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37361
+#EXTINF:-1,Globo TV Anhanguera
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42962
+#EXTINF:-1,Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42986
+#EXTINF:-1,Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38967
+#EXTINF:-1,Globo TV Centro América
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42963
+#EXTINF:-1,Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42975
+#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42976
+#EXTINF:-1,Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42977
+#EXTINF:-1,Globo TV Gazeta Alagoas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42994
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42995
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42996
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42997
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42998
+#EXTINF:-1,Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42978
+#EXTINF:-1,GLOBO TV GAZETA VITORIA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42979
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42980
+#EXTINF:-1,Globo TV Liberal Belem
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42964
+#EXTINF:-1,Globo TV Mirante São Luis
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42990
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42988
+#EXTINF:-1,Globo TV Mirante São Luis HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42989
+#EXTINF:-1,Globo TV Morena Campo Grande
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42992
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42991
+#EXTINF:-1,Globo TV Sergipe
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42908
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42981
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42982
+#EXTINF:-1,Globo TV TEM São José do Rio Preto
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40516
+#EXTINF:-1,TV TEM SJRP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42993
+#EXTINF:-1,Globo TV TEM São José do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40515
+#EXTINF:-1,Globo TV Tribuna Santos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42966
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42967
+#EXTINF:-1,GloboNews
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37093
+#EXTINF:-1,GloboNews FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38397
+#EXTINF:-1,GloboNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36917
+#EXTINF:-1,Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36916
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37089
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38396
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36915
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41483
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38969
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37088
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41484
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36967
+#EXTINF:-1,History 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41485
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37087
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37086
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38423
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36966
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37085
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41486
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36965
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36964
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37084
+#EXTINF:-1,HBO Plus E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37083
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41487
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36963
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37082
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41488
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36962
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37081
+#EXTINF:-1,History 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42915
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36961
+#EXTINF:-1,History FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38383
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36960
+#EXTINF:-1,ID: Investigação Discovery
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37114
+#EXTINF:-1,ID: Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36959
+#EXTINF:-1,IMPD TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40080
+#EXTINF:-1,ID: Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41489
+#EXTINF:-1,[SHOW] João Neto e Frederico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/39790
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40265
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37077
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36914
+#EXTINF:-1,Mais GloboSat FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42902
+#EXTINF:-1,HBO Mundi
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37076
+#EXTINF:-1,HBO Mundi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40268
+#EXTINF:-1,HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36913
+#EXTINF:-1,HBO Xtreme E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37074
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42901
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36912
+#EXTINF:-1,HBO POP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37073
+#EXTINF:-1,HBO POP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40270
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36911
+#EXTINF:-1,HBO Xtreme
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37075
+#EXTINF:-1,MegaPix
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37072
+#EXTINF:-1,MegaPix FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41491
+#EXTINF:-1,MegaPix HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36958
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37071
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40266
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36910
+#EXTINF:-1,MTV Live
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40519
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41492
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40518
+#EXTINF:-1,Multishow
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37070
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41493
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36957
+#EXTINF:-1,Music Box Brazil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37069
+#EXTINF:-1,Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41494
+#EXTINF:-1,Naha Airport
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40109
+#EXTINF:-1,NatGeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37067
+#EXTINF:-1,NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41496
+#EXTINF:-1,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36909
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37066
+#EXTINF:-1,National Geographic Wild FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41497
+#EXTINF:-1,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36955
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37068
+#EXTINF:-1,National Geographic FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41280
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36956
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37021
+#EXTINF:-1,Nick
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37064
+#EXTINF:-1,Nick FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40039
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36907
+#EXTINF:-1,Nick Jr.
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37065
+#EXTINF:-1,Nick Jr. FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41498
+#EXTINF:-1,Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36908
+#EXTINF:-1,Novo Tempo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/39793
+#EXTINF:-1,Off
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37063
+#EXTINF:-1,Off FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41499
+#EXTINF:-1,Off HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36954
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37062
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41500
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36953
+#EXTINF:-1,PLAYKIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41522
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41359
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37060
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38410
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36952
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37059
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38409
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36951
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37058
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38408
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36950
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37057
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38407
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36949
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37056
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38406
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36906
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37017
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38405
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36905
+#EXTINF:-1,Premiere Clubes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37016
+#EXTINF:-1,Premiere Clubes 
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40783
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38411
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36948
+#EXTINF:-1,Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37053
+#EXTINF:-1,Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41501
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40252
+#EXTINF:-1,RecordTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36947
+#EXTINF:-1,RecordTV Minas 
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41362
+#EXTINF:-1,Record News
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41529
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41502
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37050
+#EXTINF:-1,RecordTV Paulista FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41516
+#EXTINF:-1,RecordTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37051
+#EXTINF:-1,RecordTV Bahia FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42905
+#EXTINF:-1,RecordTV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42624
+#EXTINF:-1,RecordTV Brasilia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42627
+#EXTINF:-1,RecordTV Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42626
+#EXTINF:-1,RecordTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38421
+#EXTINF:-1,RecordTV Minas FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42904
+#EXTINF:-1,RecordTV Rio
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42637
+#EXTINF:-1,RecordTV Rio FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41521
+#EXTINF:-1,RecordTV RS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42907
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42628
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37013
+#EXTINF:-1,Rede Minas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40183
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37011
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41519
+#EXTINF:-1,RedeTV!
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37012
+#EXTINF:-1,RedeTV! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41518
+#EXTINF:-1,RedeTV! HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36946
+#EXTINF:-1,SBT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37048
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36945
+#EXTINF:-1,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/42912
+#EXTINF:-1,Sony Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37007
+#EXTINF:-1,Sony Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41470
+#EXTINF:-1,Sony Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36987
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37046
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41503
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36944
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37256
+#EXTINF:-1,SporTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37044
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38395
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36943
+#EXTINF:-1,SporTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37006
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38394
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36942
+#EXTINF:-1,SporTV 
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40785
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38419
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37255
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37043
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36904
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37042
+#EXTINF:-1,Syfy FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41504
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36903
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37041
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41505
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36940
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37037
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37040
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38418
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36939
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37039
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41506
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36901
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37005
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38417
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36938
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37038
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38416
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36937
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36994
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38415
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36936
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36995
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38414
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36935
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37004
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36902
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37036
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37035
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41507
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36934
+#EXTINF:-1,TNT Séries
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37034
+#EXTINF:-1,TNT Séries FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41508
+#EXTINF:-1,TNT Séries HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36933
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37033
+#EXTINF:-1,TruTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37032
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41509
+#EXTINF:-1,TV Aparecida
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37003
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41341
+#EXTINF:-1,TV Câmara
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40189
+#EXTINF:-1,TV Escola
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36999
+#EXTINF:-1,TV Evangelizar
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40072
+#EXTINF:-1,TV Jornal SBT 
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41371
+#EXTINF:-1,TV Ra Tim Bum
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37015
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41510
+#EXTINF:-1,TV Rede Gospel SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40247
+#EXTINF:-1,TV Século 21
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40098
+#EXTINF:-1,TV TEM Bauru
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37030
+#EXTINF:-1,TV TEM Sorocaba
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37029
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37027
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/41511
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36932
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40271
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36900
+#EXTINF:-1,Viva
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36997
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38393
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36931
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36996
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/38384
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/36930
+#EXTINF:-1,Woohoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/37025
+#EXTINF:-1,Woohoo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/Marcelo/Marcelo/40267
