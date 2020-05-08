@@ -25,7 +25,16 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | COMÉDIA[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | CRIME[/B][/COLOR]</name>
+<thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
+<externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/FILMES%20CRIME</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | COMÉDIA[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/FILMES%20COM%C3%89DIA</externallink>
 <fanart></fanart>
@@ -34,7 +43,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | DRAMA[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | DRAMA[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/FILMES%20DRAMA</externallink>
 <fanart></fanart>
@@ -42,7 +51,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | SUSPENSE[/B][/COLOR]</name>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | SUSPENSE[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/FILMES%20SUSPENSE</externallink>
 <fanart></fanart>
@@ -50,7 +59,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | TERROR[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] FILMES | TERROR[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/FILMES%20DE%20TERROR</externallink>
 <fanart></fanart>
