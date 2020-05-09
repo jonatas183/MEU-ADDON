@@ -222,3 +222,75 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>FOX SPORTS ¹</title>
+<link>https://stream2.canais.info/a/hls1/foxsports1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/foxsports1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FOX SPORTS ²</title>
+<link>https://stream2.canais.info/a/hls1/foxsports2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/foxsports2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>FX</title>
+<link>https://stream2.canais.info/a/hls1/fx.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/fx.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO</title>
+<link>https://stream2.canais.info/a/hls1/hbo.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/hbo.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link>https://stream2.canais.info/a/hls1/hbofamily.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/hbofamily.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO PLUS</title>
+<link>https://stream2.canais.info/a/hls1/hboplus.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/hboplus.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>https://stream2.canais.info/a/hls1/hbosignature.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/hbosignature.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>HISTORY CHANNEL</title>
+<link>https://stream2.canais.info/a/hls1/history.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/history.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<thumbnail>https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
