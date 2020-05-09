@@ -1,7 +1,7 @@
 <item>
 <title>A&E</title>
-<link>https://stream2.canais.info/hls1/aie.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/aie.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/aie.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/aie.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -9,8 +9,8 @@
 
 <item>
 <title>AMC</title>
-<link>https://stream2.canais.info/hls1/amc.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/amc.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/amc.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/amc.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -18,8 +18,8 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>https://stream2.canais.info/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -27,8 +27,8 @@
 
 <item>
 <title>AXN</title>
-<link>https://stream2.canais.info/hls1/axn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/axn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/axn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/axn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -36,8 +36,8 @@
 
 <item>
 <title>BAND SPORTS</title>
-<link>https://stream2.canais.info/hls1/bandsports.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/bandsports.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/bandsports.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/bandsports.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.abcdacomunicacao.com.br/wp-content/uploads/BandSports_logo-baixa.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -45,8 +45,8 @@
 
 <item>
 <title>BOOMERANG</title>
-<link>https://stream2.canais.info/hls1/boomegang.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/boomerang.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/boomegang.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/boomerang.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -54,8 +54,8 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>https://stream2.canais.info/hls1/cartoon.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/cartoon.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/cartoon.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/cartoon.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -63,8 +63,8 @@
 
 <item>
 <title>CINEMAX</title>
-<link>https://stream2.canais.info/hls1/cinemax.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/cinemax.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/cinemax.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/cinemax.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -72,8 +72,8 @@
 
 <item>
 <title>COMBATE</title>
-<link>https://stream2.canais.info/hls1/combate.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/combate.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/combate.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/combate.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -81,8 +81,8 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>https://stream2.canais.info/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yd4lucdw</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -90,8 +90,8 @@
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>https://stream2.canais.info/hls1/discovery.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/discovery.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/discovery.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/discovery.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -99,8 +99,8 @@
 
 <item>
 <title>DISCOVERY HOME & HEALTH</title>
-<link>https://stream2.canais.info/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -108,8 +108,8 @@
 
 <item>
 <title>DISCOVERY THEATER</title>
-<link>https://stream2.canais.info/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y7z7owdo</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -117,8 +117,8 @@
 
 <item>
 <title>DISCOVERY KIDS</title>
-<link>https://stream2.canais.info/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -126,8 +126,8 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>https://stream2.canais.info/hls1/disney.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/disney.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/disney.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/disney.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yapvu7nv</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -135,8 +135,8 @@
 
 <item>
 <title>DISNEY JUNIOR</title>
-<link>https://stream2.canais.info/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y3cdnrdu</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -144,8 +144,8 @@
 
 <item>
 <title>DISNEY XD</title>
-<link>https://stream2.canais.info/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yyqhw5qu</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -153,8 +153,8 @@
 
 <item>
 <title>ESPN</title>
-<link>https://stream2.canais.info/hls1/espn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/espn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/espn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/espn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -162,8 +162,8 @@
 
 <item>
 <title>ESPN ²</title>
-<link>https://stream2.canais.info/hls1/espn2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/espn2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/espn2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/espn2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -171,8 +171,8 @@
 
 <item>
 <title>ESPN BRASIL</title>
-<link>https://stream2.canais.info/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -180,8 +180,8 @@
 
 <item>
 <title>ESPN EXTRA</title>
-<link>https://stream2.canais.info/hls1/espnextra.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/espnextra.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/espnextra.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/espnextra.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -189,8 +189,8 @@
 
 <item>
 <title>FOX</title>
-<link>https://stream2.canais.info/hls1/fox.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/fox.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/fox.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/fox.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yasvg6lg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -198,8 +198,8 @@
 
 <item>
 <title>FOX LIFE</title>
-<link>https://stream2.canais.info/hls1/foxlife.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/foxlife.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/foxlife.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/foxlife.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y72zyp65</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -207,8 +207,8 @@
 
 <item>
 <title>FOX PREMIUM ¹</title>
-<link>https://stream2.canais.info/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yccfuyqx</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -216,8 +216,8 @@
 
 <item>
 <title>FOX PREMIUM ²</title>
-<link>https://stream2.canais.info/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://stream2.canais.info/a/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=https://stream2.canais.info/a/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yccfuyqx</thumbnail>
 <fanart></fanart>
 <info></info>
