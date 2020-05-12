@@ -56,7 +56,7 @@
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:d258e1cdad2ba6b78eac9f73c96891b4f168804e&dn$$lsname=THE FLASH | T06 x EP14 -[COLOR yellow][B] HD[/B][/COLOR]</link>
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:cd4476b17d86558e3ebe427ce10e7743b10700b7&dn$$lsname=THE FLASH | T06 x EP15 -[COLOR yellow][B] HD[/B][/COLOR]</link>
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:da5368b42cd089d0d6142a2abc2f91e9347c6f89&dn$$lsname=THE FLASH | T06 x EP16 -[COLOR yellow][B] HD[/B][/COLOR][COLOR yellow][B] [LEG][/B][/COLOR]</link>
-<link>http://pairing:720DF08C3DFC7CFA3BBEFA5341454F5F32AA0F95@127.0.0.1:12325/proxy?sid=5&file=0&token=720DF08C3DFC7CFA3BBEFA5341454F5F32AA0F95&pairing=720DF08C3DFC7CFA3BBEFA5341454F5F32AA0F95&service=STREAMING$$lsname=THE FLASH | T06 x EP17 -[COLOR yellow][B] HD[/B][/COLOR][COLOR yellow][B] [LEG][/B][/COLOR][COLOR green][B] [GDRIVE][/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1nN8J-1hmJfvh2kxyVlVbsRsTBbJJ3uhC?usp=drivesdk$$lsname=THE FLASH | T06 x EP17 -[COLOR yellow][B] HD[/B][/COLOR][COLOR yellow][B] [LEG][/B][/COLOR][COLOR green][B] [GDRIVE][/B][/COLOR]</link>
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:37AF9D5F8172C7FC7037E7BE8409403EEA7C7562&dn$$lsname=THE FLASH | T06 x EP18 -[COLOR yellow][B] HD[/B][/COLOR][COLOR yellow][B] [LEG][/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/2e/The_Flash_season_6.jpg</thumbnail>
 <fanart></fanart>
