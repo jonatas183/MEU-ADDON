@@ -476,15 +476,6 @@
 </item>
 
 <item>
-<title></title>
-<link>http://proxyts2.canais.vip:9090/a/hls1/.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=http://proxyts2.canais.vip:9090/a/hls1/.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>TC ACTION</title>
 <link>http://proxyts2.canais.vip:9090/a/hls1/telecineaction.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?name=*;streamtype=HLSRETRY&amp;url=http://proxyts2.canais.vip:9090/a/hls1/telecineaction.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
