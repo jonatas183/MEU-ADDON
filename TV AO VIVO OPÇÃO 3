@@ -1,858 +1,858 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e SÃ©ries",A&E
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/898
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/898
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e SÃ©ries",A&E HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4203
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4203
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e SÃ©ries",A&E [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4167
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4167
 #EXTINF:-1 tvg-ID="MGH" tvg-name="AMC" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e SÃ©ries",AMC
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5077
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5077
 #EXTINF:-1 tvg-ID="MGM" tvg-name="AMC HD" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e SÃ©ries",AMC HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5076
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5076
 #EXTINF:-1 tvg-ID="MGH" tvg-name="AMC [PLUS]" tvg-logo="http://img.miptv.ws/AMC_HD.png" group-title="Filmes e SÃ©ries",AMC [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4644
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4644
 #EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e SÃ©ries",AXN
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/893
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/893
 #EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e SÃ©ries",AXN HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/892
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/892
 #EXTINF:-1 tvg-ID="AXN" tvg-name="AXN HD [PLUS]" tvg-logo="http://img.miptv.ws/AXN_HD.png" group-title="Filmes e SÃ©ries",AXN HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4165
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4165
 #EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="DocumentÃ¡rios",Animal Planet
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/897
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/897
 #EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet HD" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="DocumentÃ¡rios",Animal Planet HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/896
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/896
 #EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet Full HD" tvg-logo="http://img.miptv.ws/Animal_Planet.png" group-title="DocumentÃ¡rios",Animal Planet Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5436
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5436
 #EXTINF:-1 tvg-ID="APL" tvg-name="Animal Planet [PLUS]" tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png" group-title="DocumentÃ¡rios",Animal Planet [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4166
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4166
 #EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="DocumentÃ¡rios",Arte 1
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/894
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/894
 #EXTINF:-1 tvg-ID="BQ5" tvg-name="Arte 1 HD" tvg-logo="http://img.miptv.ws/Arte_1.png" group-title="DocumentÃ¡rios",Arte 1 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5329
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5329
 #EXTINF:-1 tvg-ID="BAB" tvg-name="Baby TV" tvg-logo="http://img.miptv.ws/Baby_TV.png" group-title="Infantil",Baby TV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5078
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5078
 #EXTINF:-1 tvg-ID="MSH" tvg-name="BIS" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/886
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/886
 #EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/885
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/885
 #EXTINF:-1 tvg-ID="MSH" tvg-name="BIS Full HD" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5447
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5447
 #EXTINF:-1 tvg-ID="MSH" tvg-name="BIS HD [PLUS]" tvg-logo="http://img.miptv.ws/BIS.png" group-title="Variedades",BIS HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4162
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4162
 #EXTINF:-1 tvg-ID="BAN" tvg-name="Band" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/887
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/887
 #EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/891
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/891
 #EXTINF:-1 tvg-ID="BAN" tvg-name="Band Full HD" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5475
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5475
 #EXTINF:-1 tvg-ID="BAN" tvg-name="Band HD [PLUS]" tvg-logo="http://img.miptv.ws/Band_HD.png" group-title="TV Aberta",Band HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4164
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4164
 #EXTINF:-1 tvg-ID="NEW" tvg-name="Band News" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="NotÃ­cias",Band News
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/890
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/890
 #EXTINF:-1 tvg-ID="NEW" tvg-name="Band News HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="NotÃ­cias",Band News HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5162
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5162
 #EXTINF:-1 tvg-ID="NEW" tvg-name="Band News Full HD" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="NotÃ­cias",Band News Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5435
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5435
 #EXTINF:-1 tvg-ID="NEW" tvg-name="Band News [PLUS]" tvg-logo="http://img.miptv.ws/BandNews.png" group-title="NotÃ­cias",Band News [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4163
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4163
 #EXTINF:-1 tvg-ID="BSU" tvg-name="Band Sports" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/889
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/889
 #EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports HD" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/888
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/888
 #EXTINF:-1 tvg-ID="BSP" tvg-name="Band Sports [PLUS]" tvg-logo="http://img.miptv.ws/BandSports.png" group-title="Esportes",Band Sports [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1831
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1831
 #EXTINF:-1 tvg-ID="CBR" tvg-name="Canal Brasil" tvg-logo="http://img.miptv.ws/Canal_Brasil.png" group-title="Filmes e SÃ©ries",Canal Brasil
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/883
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/883
 #EXTINF:-1 tvg-ID="LBV" tvg-name="Rede Boa Vontade" tvg-logo="http://img.miptv.ws/lbv.png" group-title="Religiosos",Rede Boa Vontade
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5328
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5328
 #EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang" tvg-logo="http://img.miptv.ws/Boomerang_HD.png" group-title="Infantil",Boomerang
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/884
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/884
 #EXTINF:-1 tvg-ID="BMF" tvg-name="Boomerang HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5327
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5327
 #EXTINF:-1 tvg-ID="BMG" tvg-name="Boomerang Full HD" tvg-logo="http://img.miptv.ws/Boomerang.png" group-title="Infantil",Boomerang Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5434
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5434
 #EXTINF:-1 tvg-ID="CNV" tvg-name="CanÃ§Ã£o Nova" tvg-logo="http://img.miptv.ws/Cancao_Nova.png" group-title="Religiosos",CanÃ§Ã£o Nova
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/879
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/879
 #EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/878
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/878
 #EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network HD" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/877
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/877
 #EXTINF:-1 tvg-ID="CAR" tvg-name="Cartoon Network [PLUS]" tvg-logo="http://img.miptv.ws/Cartoon_Network.png" group-title="Infantil",Cartoon Network [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4159
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4159
 #EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e SÃ©ries",Cinemax
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/876
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/876
 #EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e SÃ©ries",Cinemax HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1495
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1495
 #EXTINF:-1 tvg-ID="MNX" tvg-name="Cinemax HD [PLUS]" tvg-logo="http://img.miptv.ws/Cinemax.png" group-title="Filmes e SÃ©ries",Cinemax HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5124
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5124
 #EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/873
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/873
 #EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5326
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5326
 #EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central HD [PLUS]" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1833
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1833
 #EXTINF:-1 tvg-ID="135" tvg-name="Combate" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/875
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/875
 #EXTINF:-1 tvg-ID="135" tvg-name="Combate HD" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/874
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/874
 #EXTINF:-1 tvg-ID="135" tvg-name="Combate Full HD" tvg-logo="http://img.miptv.ws/Combate_HD.png" group-title="Esportes",Combate Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5474
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5474
 #EXTINF:-1 tvg-ID="135" tvg-name="Combate HD [PLUS]" tvg-logo="http://img.miptv.ws/Combate.png" group-title="Esportes",Combate HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1832
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1832
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="COPA LIBERTADORES HD" tvg-logo="https://img.miptv.ws/1552071549m.jpg" group-title="ESPECIAL / ESPORTES",COPA LIBERTADORES HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11444
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11444
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="DAZN HD" tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg" group-title="ESPECIAL / ESPORTES",DAZN HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11443
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11443
 #EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta!" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta!
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/872
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/872
 #EXTINF:-1 tvg-ID="BQ4" tvg-name="Curta! HD" tvg-logo="http://img.miptv.ws/Curta!.png" group-title="Variedades",Curta! HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5325
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5325
 #EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/868
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/868
 #EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/867
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/867
 #EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health Full HD" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5433
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5433
 #EXTINF:-1 tvg-ID="HEA" tvg-name="Discovery Home & Health [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png" group-title="Variedades",Discovery Home & Health [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4156
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4156
 #EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="DocumentÃ¡rios",Discovery Civilization
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/869
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/869
 #EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization HD" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="DocumentÃ¡rios",Discovery Civilization HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5324
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5324
 #EXTINF:-1 tvg-ID="DCI" tvg-name="Discovery Civilization [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Civilization.png" group-title="DocumentÃ¡rios",Discovery Civilization [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4157
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4157
 #EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="DocumentÃ¡rios",Discovery Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/871
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/871
 #EXTINF:-1 tvg-ID="DIS" tvg-name="Discovery Channel HD" tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png" group-title="DocumentÃ¡rios",Discovery Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/870
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/870
 #EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel Full HD" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="DocumentÃ¡rios",Discovery Channel Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5448
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5448
 #EXTINF:-1 tvg-ID="DIH" tvg-name="Discovery Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Channel.png" group-title="DocumentÃ¡rios",Discovery Channel HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1834
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1834
 #EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/866
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/866
 #EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1494
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1494
 #EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery kids Full HD" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery kids Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5432
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5432
 #EXTINF:-1 tvg-ID="DIK" tvg-name="Discovery Kids HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1835
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1835
 #EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="DocumentÃ¡rios",Discovery Science
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/865
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/865
 #EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science HD" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="DocumentÃ¡rios",Discovery Science HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5075
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5075
 #EXTINF:-1 tvg-ID="DSC" tvg-name="Discovery Science [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Science.png" group-title="DocumentÃ¡rios",Discovery Science [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4154
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4154
 #EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="DocumentÃ¡rios",Discovery Theater
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5323
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5323
 #EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="DocumentÃ¡rios",Discovery Theater HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/864
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/864
 #EXTINF:-1 tvg-ID="DHD" tvg-name="Discovery Theater HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Theater.png" group-title="DocumentÃ¡rios",Discovery Theater HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4153
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4153
 #EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="DocumentÃ¡rios",Discovery World
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5322
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5322
 #EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="DocumentÃ¡rios",Discovery World HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/861
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/861
 #EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World Full HD" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="DocumentÃ¡rios",Discovery World Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5430
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5430
 #EXTINF:-1 tvg-ID="DIW" tvg-name="Discovery World [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_World.png" group-title="DocumentÃ¡rios",Discovery World [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4151
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4151
 #EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/860
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/860
 #EXTINF:-1 tvg-ID="DIH" tvg-name="Disney Channel HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1493
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1493
 #EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel Full HD" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5446
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5446
 #EXTINF:-1 tvg-ID="DNY" tvg-name="Disney Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_Channel.png" group-title="Infantil",Disney Channel HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4150
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4150
 #EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/859
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/859
 #EXTINF:-1 tvg-ID="PHD" tvg-name="Disney Junior HD" tvg-logo="http://img.miptv.ws/Disney_Junior.png" group-title="Infantil",Disney Junior HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5562
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5562
 #EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/858
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/858
 #EXTINF:-1 tvg-ID="DXD" tvg-name="Disney XD [PLUS]" tvg-logo="http://img.miptv.ws/Disney_XD.png" group-title="Infantil",Disney XD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4149
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4149
 #EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/863
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/863
 #EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/862
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/862
 #EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo Full HD" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5431
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5431
 #EXTINF:-1 tvg-ID="DTU" tvg-name="Discovery Turbo HD [PLUS]" tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png" group-title="Variedades",Discovery Turbo HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4152
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4152
 #EXTINF:-1 tvg-ID="EET" tvg-name="E!" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E!
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/857
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/857
 #EXTINF:-1 tvg-ID="EET" tvg-name="E! HD" tvg-logo="http://img.miptv.ws/E!.png" group-title="Variedades",E! HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4204
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4204
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS SD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS SD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11483
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11483
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="EI PLUS HD" tvg-logo="http://img.miptv.ws/eiplus.png" group-title="ESPECIAL / ESPORTES",EI PLUS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11484
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11484
 #EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4643
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4643
 #EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/848
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/848
 #EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN Full HD" tvg-logo="http://img.miptv.ws/ESPN.png" group-title="Esportes",ESPN Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5458
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5458
 #EXTINF:-1 tvg-ID="ESQ" tvg-name="ESPN HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1839
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1839
 #EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN +  HD" tvg-logo="http://img.miptv.ws/ESPN_Mais.png" group-title="Esportes",ESPN +  HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/851
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/851
 #EXTINF:-1 tvg-ID="ESH" tvg-name="ESPN EXTRA HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_HD.png" group-title="Esportes",ESPN EXTRA HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1837
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1837
 #EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/850
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/850
 #EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/849
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/849
 #EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil Full HD" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5459
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5459
 #EXTINF:-1 tvg-ID="ESB" tvg-name="ESPN Brasil HD [PLUS]" tvg-logo="http://img.miptv.ws/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1838
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1838
 #EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5321
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5321
 #EXTINF:-1 tvg-ID="ESR" tvg-name="Espn Extra HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",Espn Extra HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5320
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5320
 #EXTINF:-1 tvg-ID="ESR" tvg-name="ESPN Extra Full HD" tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png" group-title="Esportes",ESPN Extra Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5457
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5457
 #EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/846
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/846
 #EXTINF:-1 tvg-ID="BQ6" tvg-name="Fish TV HD" tvg-logo="http://img.miptv.ws/FishTV.png" group-title="Esportes",Fish TV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5319
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5319
 #EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/845
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/845
 #EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network HD" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1491
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1491
 #EXTINF:-1 tvg-ID="FOD" tvg-name="Food Network [PLUS]" tvg-logo="http://img.miptv.ws/Food_Network.png" group-title="Variedades",Food Network [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4145
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4145
 #EXTINF:-1 tvg-ID="FOX" tvg-name="FOX" tvg-logo="http://img.miptv.ws/FOX.png" group-title="Filmes e SÃ©ries",FOX
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/844
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/844
 #EXTINF:-1 tvg-ID="FOX" tvg-name="FOX HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e SÃ©ries",FOX HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/841
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/841
 #EXTINF:-1 tvg-ID="FOX" tvg-name="Fox Full HD" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e SÃ©ries",Fox Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5473
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5473
 #EXTINF:-1 tvg-ID="FOX" tvg-name="FOX [PLUS]" tvg-logo="http://img.miptv.ws/FOX_HD.png" group-title="Filmes e SÃ©ries",FOX [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1842
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1842
 #EXTINF:-1 tvg-ID="FO1" tvg-name="Fox Premium" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e SÃ©ries",Fox Premium
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5318
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5318
 #EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e SÃ©ries",FOX Premium HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/843
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/843
 #EXTINF:-1 tvg-ID="FO1" tvg-name="FOX Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png" group-title="Filmes e SÃ©ries",FOX Premium HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4144
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4144
 #EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e SÃ©ries",Fox Premium 2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5317
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5317
 #EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e SÃ©ries",FOX Premium 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/842
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/842
 #EXTINF:-1 tvg-ID="FOA" tvg-name="Fox Premium 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e SÃ©ries",Fox Premium 2 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5429
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5429
 #EXTINF:-1 tvg-ID="FOA" tvg-name="FOX Premium 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png" group-title="Filmes e SÃ©ries",FOX Premium 2 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4143
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4143
 #EXTINF:-1 tvg-ID="FLI" tvg-name="Fox Life" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e SÃ©ries",Fox Life
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/840
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/840
 #EXTINF:-1 tvg-ID="FLI" tvg-name="FOX Life HD" tvg-logo="http://img.miptv.ws/FOX_Life.png" group-title="Filmes e SÃ©ries",FOX Life HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/839
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/839
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/837
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/837
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/838
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/838
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports Full HD" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="Esportes",Fox Sports Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5418
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5418
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports.png" group-title="Esportes",Fox Sports HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1844
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1844
 #EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",Fox Sports 2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/836
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/836
 #EXTINF:-1 tvg-ID="FS2" tvg-name="FOX Sports 2 HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png" group-title="Esportes",FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/835
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/835
 #EXTINF:-1 tvg-ID="FS2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",Fox Sports 2 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5456
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5456
 #EXTINF:-1 tvg-ID="FS1" tvg-name="FOX Sports 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/FOX_Sports_2.png" group-title="Esportes",FOX Sports 2 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1843
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1843
 #EXTINF:-1 tvg-ID="FUT" tvg-name="Futura" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/834
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/834
 #EXTINF:-1 tvg-ID="FUT" tvg-name="Futura HD" tvg-logo="http://img.miptv.ws/Futura.png" group-title="TV Aberta",Futura HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5316
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5316
 #EXTINF:-1 tvg-ID="CFX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e SÃ©ries",FX
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/833
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/833
 #EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e SÃ©ries",FX HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/832
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/832
 #EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD [PLUS]" tvg-logo="http://img.miptv.ws/FX_HD.png" group-title="Filmes e SÃ©ries",FX HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1845
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1845
 #EXTINF:-1 tvg-ID="GAZ" tvg-name="Gazeta HD" tvg-logo="http://img.miptv.ws/Gazeta_HD.png" group-title="TV Aberta",Gazeta HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/400
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/400
 #EXTINF:-1 tvg-ID="GLB" tvg-name="Globo BrasÃ­lia" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo BrasÃ­lia
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/831
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/831
 #EXTINF:-1 tvg-ID="GLB" tvg-name="Globo Brasilia HD" tvg-logo="http://img.miptv.ws/Globo_Brasilia.png" group-title="TV Aberta",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5315
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5315
 #EXTINF:-1 tvg-ID="GCB" tvg-name="Globo TV Centro America" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Centro America
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5127
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5127
 #EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5130
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5130
 #EXTINF:-1 tvg-ID="GRC" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Campinas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5314
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5314
 #EXTINF:-1 tvg-ID="GCR" tvg-name="Globo EPTV Sao Carlos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo EPTV Sao Carlos
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5129
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5129
 #EXTINF:-1 tvg-ID="GRP" tvg-name="Globo RibeirÃ£o Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RibeirÃ£o Preto
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5312
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5312
 #EXTINF:-1 tvg-ID="GRP" tvg-name="Globo RibeirÃ£o Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RibeirÃ£o Preto HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5313
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5313
 #EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5071
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5071
 #EXTINF:-1 tvg-ID="GBB" tvg-name="Globo - TV Bahia HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Bahia HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5309
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5309
 #EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/830
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/830
 #EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Minas HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5093
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5093
 #EXTINF:-1 tvg-ID="GBM" tvg-name="Globo Minas Full HD" tvg-logo="http://img.miptv.ws/Globo_Minas.png" group-title="TV Aberta",Globo Minas Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5472
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5472
 #EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="NotÃ­cias",Globo News
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/826
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/826
 #EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="NotÃ­cias",Globo News HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1498
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1498
 #EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News Full HD" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="NotÃ­cias",Globo News Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5442
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5442
 #EXTINF:-1 tvg-ID="GLN" tvg-name="Globo News HD [PLUS]" tvg-logo="http://img.miptv.ws/GloboNews.png" group-title="NotÃ­cias",Globo News HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1846
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1846
 #EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5067
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5067
 #EXTINF:-1 tvg-ID="GPE" tvg-name="Globo Nordeste HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Nordeste HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5073
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5073
 #EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/764
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/764
 #EXTINF:-1 tvg-ID="POA" tvg-name="Globo - RBS TV HD" tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png" group-title="TV Aberta",Globo - RBS TV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5311
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5311
 #EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/829
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/829
 #EXTINF:-1 tvg-ID="GRJ" tvg-name="Globo RJ HD" tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png" group-title="TV Aberta",Globo RJ HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/828
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/828
 #EXTINF:-1 tvg-ID="GRD" tvg-name="Globo RJ Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RJ Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5471
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5471
 #EXTINF:-1 tvg-ID="GRD" tvg-name="Globo Rede HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Rede HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1847
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1847
 #EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5421
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5421
 #EXTINF:-1 tvg-ID="GSC" tvg-name="Globo NSC TV Florianopolis HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo NSC TV Florianopolis HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5420
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5420
 #EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5128
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5128
 #EXTINF:-1 tvg-ID="TPH" tvg-name="Globo Curitiba HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Curitiba HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5310
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5310
 #EXTINF:-1 tvg-ID="TPH" tvg-name="Globo RPC Curitiba Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo RPC Curitiba Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5469
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5469
 #EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/827
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/827
 #EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5095
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5095
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta VitÃ³ria
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12077
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12077
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta VitÃ³ria Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12078
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12078
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta VitÃ³ria HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta VitÃ³ria HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12079
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12079
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta SUL ES Full HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta SUL ES Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12080
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12080
 #EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Gazeta ES HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12081
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12081
 #EXTINF:-1 tvg-ID="GSP" tvg-name="Globo SP Full HD" tvg-logo="http://img.miptv.ws/Globo_SP.png" group-title="TV Aberta",Globo SP Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5470
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5470
 #EXTINF:-1 tvg-ID="GLH" tvg-name="Globo SP HD [PLUS]" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo SP HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5528
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5528
 #EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Anhaguera Goiania" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Anhaguera Goiania
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5074
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5074
 #EXTINF:-1 tvg-ID="GBG" tvg-name="Globo Goias - TV Anhanguera HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Goias - TV Anhanguera HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5072
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5072
 #EXTINF:-1 tvg-ID="TVT" tvg-name="Globo TV Tribuna Santos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV Tribuna Santos
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5126
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5126
 #EXTINF:-1 tvg-ID="GVA" tvg-name="TV Vanguarda Sao Jose dos Campos" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",TV Vanguarda Sao Jose dos Campos
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5125
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5125
 #EXTINF:-1 tvg-ID="GPA" tvg-name="Globo Para (Belem) - TV Liberal" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo Para (Belem) - TV Liberal
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5069
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5069
 #EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5307
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5307
 #EXTINF:-1 tvg-ID="GJR" tvg-name="Globo TV TEM S.J. Rio Preto HD" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo TV TEM S.J. Rio Preto HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5308
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5308
 #EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Bauru" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Bauru
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/714
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/714
 #EXTINF:-1 tvg-ID="TEM" tvg-name="Globo - TV TEM Sorocaba" tvg-logo="http://img.miptv.ws/TV_Tem_Bauru.png" group-title="TV Aberta",Globo - TV TEM Sorocaba
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/713
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/713
 #EXTINF:-1 tvg-ID="GBF" tvg-name="Globo - TV Verdes Mares" tvg-logo="http://img.miptv.ws/Globo.png" group-title="TV Aberta",Globo - TV Verdes Mares
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5068
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5068
 #EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e SÃ©ries",+Globosat
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/804
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/804
 #EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e SÃ©ries",+Globosat HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1488
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1488
 #EXTINF:-1 tvg-ID="GHS" tvg-name="+Globosat HD [PLUS]" tvg-logo="http://img.miptv.ws/Mais_Globosat.png" group-title="Filmes e SÃ©ries",+Globosat HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4135
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4135
 #EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/825
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/825
 #EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1490
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1490
 #EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob Full HD" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5441
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5441
 #EXTINF:-1 tvg-ID="GOB" tvg-name="Gloob HD [PLUS]" tvg-logo="http://img.miptv.ws/Gloob.png" group-title="Infantil",Gloob HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1848
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1848
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5306
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5306
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Gloobinho HD" tvg-logo="http://img.miptv.ws/Gloobinho.png" group-title="Infantil",Gloobinho HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5305
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5305
 #EXTINF:-1 tvg-ID="GNT" tvg-name="GNT" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/824
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/824
 #EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/823
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/823
 #EXTINF:-1 tvg-ID="GNT" tvg-name="GNT HD [PLUS]" tvg-logo="http://img.miptv.ws/GNT.png" group-title="Variedades",GNT HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4142
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4142
 #EXTINF:-1 tvg-ID="CH2" tvg-name="H2" tvg-logo="http://img.miptv.ws/H2.png" group-title="DocumentÃ¡rios",H2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/822
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/822
 #EXTINF:-1 tvg-ID="CH2" tvg-name="H2 HD" tvg-logo="http://img.miptv.ws/H2.png" group-title="DocumentÃ¡rios",H2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/821
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/821
 #EXTINF:-1 tvg-ID="CH2" tvg-name="H2 [PLUS]" tvg-logo="http://img.miptv.ws/H2.png" group-title="DocumentÃ¡rios",H2 [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4141
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4141
 #EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e SÃ©ries",HBO
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/820
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/820
 #EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e SÃ©ries",HBO HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/816
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/816
 #EXTINF:-1 tvg-ID="HBO" tvg-name="HBO Full HD" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e SÃ©ries",HBO Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5467
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5467
 #EXTINF:-1 tvg-ID="HBO" tvg-name="HBO HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_HD.png" group-title="Filmes e SÃ©ries",HBO HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1850
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1850
 #EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e SÃ©ries",HBO 2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/810
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/810
 #EXTINF:-1 tvg-ID="HB2" tvg-name="HBO 2 HD" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e SÃ©ries",HBO 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/819
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/819
 #EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 Full HD" tvg-logo="http://img.miptv.ws/HBO_2.png" group-title="Filmes e SÃ©ries",HBO 2 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5468
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5468
 #EXTINF:-1 tvg-ID="H2H" tvg-name="HBO 2 HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_2_HD.png" group-title="Filmes e SÃ©ries",HBO 2 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1849
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1849
 #EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e SÃ©ries",HBO Family
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/818
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/818
 #EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e SÃ©ries",HBO Family HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/817
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/817
 #EXTINF:-1 tvg-ID="HFA" tvg-name="HBO Family HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Family.png" group-title="Filmes e SÃ©ries",HBO Family HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4140
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4140
 #EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e SÃ©ries",HBO Plus
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/815
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/815
 #EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e SÃ©ries",HBO Plus HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/813
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/813
 #EXTINF:-1 tvg-ID="HPL" tvg-name="HBO Plus HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Plus.png" group-title="Filmes e SÃ©ries",HBO Plus HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4139
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4139
 #EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e SÃ©ries",HBO Signature
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/812
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/812
 #EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e SÃ©ries",HBO Signature HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/811
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/811
 #EXTINF:-1 tvg-ID="HFE" tvg-name="HBO Signature HD [PLUS]" tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png" group-title="Filmes e SÃ©ries",HBO Signature HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4138
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4138
 #EXTINF:-1 tvg-ID="HIS" tvg-name="History" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="DocumentÃ¡rios",History
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/726
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/726
 #EXTINF:-1 tvg-ID="HIS" tvg-name="History HD" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="DocumentÃ¡rios",History HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/809
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/809
 #EXTINF:-1 tvg-ID="HIS" tvg-name="History Full HD" tvg-logo="http://img.miptv.ws/History.png" group-title="DocumentÃ¡rios",History Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5424
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5424
 #EXTINF:-1 tvg-ID="HIS" tvg-name="History HD [PLUS]" tvg-logo="http://img.miptv.ws/History_Channel.png" group-title="DocumentÃ¡rios",History HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4137
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4137
 #EXTINF:-1 tvg-ID="LIV" tvg-name="ID" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/807
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/807
 #EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/806
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/806
 #EXTINF:-1 tvg-ID="LIV" tvg-name="ID HD [PLUS]" tvg-logo="http://img.miptv.ws/ID.png" group-title="Variedades",ID HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4155
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4155
 #EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/805
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/805
 #EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime HD" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1489
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1489
 #EXTINF:-1 tvg-ID="ANX" tvg-name="Lifetime [PLUS]" tvg-logo="http://img.miptv.ws/Lifetime.png" group-title="Variedades",Lifetime [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4136
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4136
 #EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e SÃ©ries",HBO MUNDI
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/803
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/803
 #EXTINF:-1 tvg-ID="MHD" tvg-name="HBO MUNDI HD" tvg-logo="http://img.miptv.ws/Max_HD.png" group-title="Filmes e SÃ©ries",HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1497
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1497
 #EXTINF:-1 tvg-ID="MAP" tvg-name="HBO XTREME" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e SÃ©ries",HBO XTREME
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/802
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/802
 #EXTINF:-1 tvg-ID="SET" tvg-name="Sony" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e SÃ©ries",Sony
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/881
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/881
 #EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e SÃ©ries",Sony HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/880
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/880
 #EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD [PLUS]" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e SÃ©ries",Sony HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4115
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4115
 #EXTINF:-1 tvg-ID="MAP" tvg-name="HBO Xtreme HD" tvg-logo="http://img.miptv.ws/Max_Prime.png" group-title="Filmes e SÃ©ries",HBO Xtreme HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1487
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1487
 #EXTINF:-1 tvg-ID="MHD" tvg-name="Maxup HD [PLUS]" tvg-logo="http://img.miptv.ws/Max_UP.png" group-title="Filmes e SÃ©ries",Maxup HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4134
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4134
 #EXTINF:-1 tvg-ID="MPX" tvg-name="MegaPix" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e SÃ©ries",MegaPix
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/799
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/799
 #EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e SÃ©ries",Megapix HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/798
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/798
 #EXTINF:-1 tvg-ID="MPX" tvg-name="Megapix HD [PLUS]" tvg-logo="http://img.miptv.ws/Megapix_HD.png" group-title="Filmes e SÃ©ries",Megapix HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1851
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1851
 #EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/797
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/797
 #EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1485
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1485
 #EXTINF:-1 tvg-ID="MTV" tvg-name="MTV HD [PLUS]" tvg-logo="http://img.miptv.ws/MTV.png" group-title="Variedades",MTV HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4133
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4133
 #EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/796
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/796
 #EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/795
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/795
 #EXTINF:-1 tvg-ID="MSW" tvg-name="Multishow HD [PLUS]" tvg-logo="http://img.miptv.ws/Multishow.png" group-title="Variedades",Multishow HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4131
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4131
 #EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/794
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/794
 #EXTINF:-1 tvg-ID="MUB" tvg-name="Music Box Brasil HD" tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png" group-title="Variedades",Music Box Brasil HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5304
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5304
 #EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="DocumentÃ¡rios",NatGeo Wild
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/793
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/793
 #EXTINF:-1 tvg-ID="NGH" tvg-name="NatGeo Wild HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="DocumentÃ¡rios",NatGeo Wild HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/702
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/702
 #EXTINF:-1 tvg-ID="NGH" tvg-name="Nat Geo Wild Full HD" tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png" group-title="DocumentÃ¡rios",Nat Geo Wild Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5428
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5428
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5303
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5303
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Natgeo Kids HD" tvg-logo="http://img.miptv.ws/Natgeo_Kids.png" group-title="Infantil",Natgeo Kids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5302
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5302
 #EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="DocumentÃ¡rios",National Geographic
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/792
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/792
 #EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic HD" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="DocumentÃ¡rios",National Geographic HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/791
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/791
 #EXTINF:-1 tvg-ID="SUP" tvg-name="National Geographic [PLUS]" tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png" group-title="DocumentÃ¡rios",National Geographic [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4129
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4129
 #EXTINF:-1 tvg-ID="NHK" tvg-name="NHK" tvg-logo="http://img.miptv.ws/NHK.png" group-title="Internacional",NHK
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/789
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/789
 #EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/787
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/787
 #EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1484
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1484
 #EXTINF:-1 tvg-ID="NIC" tvg-name="Nicklodeon Full HD" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nicklodeon Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5426
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5426
 #EXTINF:-1 tvg-ID="NIC" tvg-name="Nickelodeon HD [PLUS]" tvg-logo="http://img.miptv.ws/Nick.png" group-title="Infantil",Nickelodeon HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4128
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4128
 #EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr." tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr.
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/788
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/788
 #EXTINF:-1 tvg-ID="NJR" tvg-name="Nick Jr. HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick Jr. HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5301
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5301
 #EXTINF:-1 tvg-ID="NJR" tvg-name="Nick JR Full HD" tvg-logo="http://img.miptv.ws/Nick_Jr..png" group-title="Infantil",Nick JR Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5427
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5427
 #EXTINF:-1 tvg-ID="OFF" tvg-name="OFF" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/785
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/785
 #EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/784
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/784
 #EXTINF:-1 tvg-ID="OFF" tvg-name="OFF HD [PLUS]" tvg-logo="http://img.miptv.ws/OFF.png" group-title="Esportes",OFF HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4125
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4125
 #EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount Channel" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e SÃ©ries",Paramount Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/783
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/783
 #EXTINF:-1 tvg-ID="PAQ" tvg-name="Paramount Channel HD" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e SÃ©ries",Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/782
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/782
 #EXTINF:-1 tvg-ID="PAR" tvg-name="Paramount HD [PLUS]" tvg-logo="http://img.miptv.ws/Paramount.png" group-title="Filmes e SÃ©ries",Paramount HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4124
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4124
 #EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/767
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/767
 #EXTINF:-1 tvg-ID="9A1" tvg-name="Premiere Clubes HD" tvg-logo="http://img.miptv.ws/Premiere_1_HD.png" group-title="Esportes",Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/780
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/780
 #EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes Full HD" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5455
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5455
 #EXTINF:-1 tvg-ID="121" tvg-name="Premiere Clubes HD [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",Premiere Clubes HD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1852
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1852
 #EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/779
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/779
 #EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/778
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/778
 #EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 Full HD" tvg-logo="http://img.miptv.ws/Premiere_2.png" group-title="Esportes",PFC 2 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5454
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5454
 #EXTINF:-1 tvg-ID="9A2" tvg-name="PFC 2 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 2 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1853
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1853
 #EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/777
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/777
 #EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/776
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/776
 #EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 Full HD" tvg-logo="http://img.miptv.ws/Premiere_3.png" group-title="Esportes",PFC 3 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5453
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5453
 #EXTINF:-1 tvg-ID="9A3" tvg-name="PFC 3 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 3 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1854
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1854
 #EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/775
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/775
 #EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/774
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/774
 #EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 Full HD" tvg-logo="http://img.miptv.ws/Premiere_4.png" group-title="Esportes",PFC 4 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5452
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5452
 #EXTINF:-1 tvg-ID="9A4" tvg-name="PFC 4 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 4 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1855
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1855
 #EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/773
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/773
 #EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/772
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/772
 #EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 Full HD" tvg-logo="http://img.miptv.ws/Premiere_5.png" group-title="Esportes",PFC 5 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5451
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5451
 #EXTINF:-1 tvg-ID="9A5" tvg-name="PFC 5 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_Clubes.png" group-title="Esportes",PFC 5 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1856
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1856
 #EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/771
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/771
 #EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4123
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4123
 #EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 Full HD" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5450
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5450
 #EXTINF:-1 tvg-ID="9A6" tvg-name="PFC 6 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_6.png" group-title="Esportes",PFC 6 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5330
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5330
 #EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/770
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/770
 #EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4122
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4122
 #EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 Full HD" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5449
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5449
 #EXTINF:-1 tvg-ID="9A7" tvg-name="PFC 7 [ALTERNATIVO]" tvg-logo="http://img.miptv.ws/Premiere_7.png" group-title="Esportes",PFC 7 [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5331
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5331
 #EXTINF:-1 tvg-ID="9A8" tvg-name="PFC 8" tvg-logo="http://img.miptv.ws/Premiere_8.png" group-title="Esportes",PFC 8
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/769
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/769
 #EXTINF:-1 tvg-ID="781" tvg-name="PFC 9" tvg-logo="http://img.miptv.ws/Premiere_9.png" group-title="Esportes",PFC 9
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/768
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/768
 #EXTINF:-1 tvg-ID="BQ7" tvg-name="Prime Box Brasil HD" tvg-logo="http://img.miptv.ws/Prime_Box_Brazil.png" group-title="Variedades",Prime Box Brasil HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5300
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5300
 #EXTINF:-1 tvg-ID="REC" tvg-name="Record" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/761
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/761
 #EXTINF:-1 tvg-ID="REC" tvg-name="Record HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/763
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/763
 #EXTINF:-1 tvg-ID="REC" tvg-name="Record Full HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5466
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5466
 #EXTINF:-1 tvg-ID="" tvg-name="Globo Internacional" tvg-logo="http://img.miptv.ws/Globo_Internacional.png" group-title="Internacional",Globo Internacional
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/604
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/604
 #EXTINF:-1 tvg-ID="REC" tvg-name="Record HD [PLUS]" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1857
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1857
 #EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11072
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11072
 #EXTINF:-1 tvg-ID="RSA" tvg-name="Record BA HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record BA HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11071
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11071
 #EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11069
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11069
 #EXTINF:-1 tvg-ID="RBH" tvg-name="Record DF HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record DF HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11068
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11068
 #EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7565
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7565
 #EXTINF:-1 tvg-ID="RMG" tvg-name="Record MG HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record MG HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7566
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7566
 #EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7567
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7567
 #EXTINF:-1 tvg-ID="RJH" tvg-name="Record RJ HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RJ HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7568
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7568
 #EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11066
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11066
 #EXTINF:-1 tvg-ID="GUA" tvg-name="Record RS HD" tvg-logo="http://img.miptv.ws/Record.png" group-title="TV Aberta",Record RS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11065
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11065
 #EXTINF:-1 tvg-ID="" tvg-name="Record Internacional" tvg-logo="https://img.miptv.ws/Record.png" group-title="Internacional",Record Internacional
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/899
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/899
 #EXTINF:-1 tvg-ID="RCN" tvg-name="Record News" tvg-logo="http://img.miptv.ws/Record_News.png" group-title="NotÃ­cias",Record News
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/762
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/762
 #EXTINF:-1 tvg-ID="TRV" tvg-name="RedeTV!" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV!
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/759
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/759
 #EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/758
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/758
 #EXTINF:-1 tvg-ID="RTV" tvg-name="RedeTV! HD [PLUS]" tvg-logo="http://img.miptv.ws/RedeTV!.png" group-title="TV Aberta",RedeTV! HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4119
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4119
 #EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/757
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/757
 #EXTINF:-1 tvg-ID="VDA" tvg-name="Rede Vida HD" tvg-logo="http://img.miptv.ws/Rede_Vida.png" group-title="Religiosos",Rede Vida HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5653
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5653
 #EXTINF:-1 tvg-ID="SBD" tvg-name="SBT" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/756
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/756
 #EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/755
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/755
 #EXTINF:-1 tvg-ID="SBD" tvg-name="SBT Full HD" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5465
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5465
 #EXTINF:-1 tvg-ID="SBD" tvg-name="SBT HD [PLUS]" tvg-logo="http://img.miptv.ws/SBT.png" group-title="TV Aberta",SBT HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1858
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1858
 #EXTINF:-1 tvg-ID="" tvg-name="SBT SP Interior" tvg-logo="http://img.miptv.ws/SBT_SP_HD.png" group-title="TV Aberta",SBT SP Interior
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5297
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5297
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="DocumentÃ¡rios",Smithsonian Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11419
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11419
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="Smithsonian Channel HD" tvg-logo="http://img.miptv.ws/smithsonianc1.png" group-title="DocumentÃ¡rios",Smithsonian Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11420
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11420
 #EXTINF:-1 tvg-ID="" tvg-name="RTP Internacional" tvg-logo="http://img.miptv.ws/RTP_Internacional.png" group-title="Internacional",RTP Internacional
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/574
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/574
 #EXTINF:-1 tvg-ID="SPA" tvg-name="Space" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e SÃ©ries",Space
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/753
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/753
 #EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e SÃ©ries",Space HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/752
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/752
 #EXTINF:-1 tvg-ID="SPA" tvg-name="Space HD [PLUS]" tvg-logo="http://img.miptv.ws/Space_HD.png" group-title="Filmes e SÃ©ries",Space HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4114
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4114
 #EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",SporTV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/748
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/748
 #EXTINF:-1 tvg-ID="" tvg-name="SporTV HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/749
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/749
 #EXTINF:-1 tvg-ID="SPO" tvg-name="Sportv Full HD" tvg-logo="http://img.miptv.ws/SporTV.png" group-title="Esportes",Sportv Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5438
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5438
 #EXTINF:-1 tvg-ID="SPO" tvg-name="SporTV HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1859
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1859
 #EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/747
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/747
 #EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/751
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/751
 #EXTINF:-1 tvg-ID="SP2" tvg-name="Sportv 2 Full HD" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",Sportv 2 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5439
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5439
 #EXTINF:-1 tvg-ID="SP2" tvg-name="SporTV2 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_2.png" group-title="Esportes",SporTV2 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1860
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1860
 #EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/745
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/745
 #EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/750
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/750
 #EXTINF:-1 tvg-ID="SP3" tvg-name="Sportv 3 Full HD" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",Sportv 3 Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5440
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5440
 #EXTINF:-1 tvg-ID="SP3" tvg-name="SporTV3 HD [PLUS]" tvg-logo="http://img.miptv.ws/SporTV_3.png" group-title="Esportes",SporTV3 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1861
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1861
 #EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e SÃ©ries",Studio Universal
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/743
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/743
 #EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD" tvg-logo="http://img.miptv.ws/Studio_Universal.png" group-title="Filmes e SÃ©ries",Studio Universal HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1480
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1480
 #EXTINF:-1 tvg-ID="HAL" tvg-name="Studio Universal HD [PLUS]" tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png" group-title="Filmes e SÃ©ries",Studio Universal HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4113
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4113
 #EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5296
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5296
 #EXTINF:-1 tvg-ID="SUN" tvg-name="SundanceTV HD" tvg-logo="http://img.miptv.ws/Sundance_TV.jpg" group-title="Variedades",SundanceTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5295
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5295
 #EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e SÃ©ries",Syfy
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/742
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/742
 #EXTINF:-1 tvg-ID="SCI" tvg-name="Syfy HD" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e SÃ©ries",Syfy HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1483
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1483
 #EXTINF:-1 tvg-ID="SCI" tvg-name="SyFy HD [PLUS]" tvg-logo="http://img.miptv.ws/Syfy.png" group-title="Filmes e SÃ©ries",SyFy HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4111
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4111
 #EXTINF:-1 tvg-ID="TBS" tvg-name="TBS" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e SÃ©ries",TBS
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/741
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/741
 #EXTINF:-1 tvg-ID="TBS" tvg-name="TBS HD" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e SÃ©ries",TBS HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/740
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/740
 #EXTINF:-1 tvg-ID="TBS" tvg-name="TBS [PLUS]" tvg-logo="http://img.miptv.ws/TBS.png" group-title="Filmes e SÃ©ries",TBS [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4110
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4110
 #EXTINF:-1 tvg-ID="TCM" tvg-name="TCM" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e SÃ©ries",TCM
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/734
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/734
 #EXTINF:-1 tvg-ID="TCM" tvg-name="TCM HD [PLUS]" tvg-logo="http://img.miptv.ws/TCM.png" group-title="Filmes e SÃ©ries",TCM HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4109
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4109
 #EXTINF:-1 tvg-ID="" tvg-name="TCV INTERNACIONAL" tvg-logo="http://img.miptv.ws/TCV_Internacional.png" group-title="Internacional",TCV INTERNACIONAL
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/983
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/983
 #EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e SÃ©ries",Telecine Action
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/733
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/733
 #EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action HD" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e SÃ©ries",Telecine Action HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/739
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/739
 #EXTINF:-1 tvg-ID="TC2" tvg-name="Telecine Action Full HD" tvg-logo="http://img.miptv.ws/Telecine_Action.png" group-title="Filmes e SÃ©ries",Telecine Action Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5464
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5464
 #EXTINF:-1 tvg-ID="T2H" tvg-name="Telecine Action HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png" group-title="Filmes e SÃ©ries",Telecine Action HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1862
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1862
 #EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e SÃ©ries",Telecine Cult
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/732
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/732
 #EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e SÃ©ries",Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1482
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1482
 #EXTINF:-1 tvg-ID="TC5" tvg-name="Telecine Cult HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Cult.png" group-title="Filmes e SÃ©ries",Telecine Cult HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4108
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4108
 #EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e SÃ©ries",Telecine Fun
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/731
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/731
 #EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun HD" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e SÃ©ries",Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/738
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/738
 #EXTINF:-1 tvg-ID="TC6" tvg-name="Telecine Fun Full HD" tvg-logo="http://img.miptv.ws/Telecine_Fun.png" group-title="Filmes e SÃ©ries",Telecine Fun Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5463
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5463
 #EXTINF:-1 tvg-ID="T6H" tvg-name="Telecine Fun HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png" group-title="Filmes e SÃ©ries",Telecine Fun HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1863
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1863
 #EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e SÃ©ries",Telecine Pipoca
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/730
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/730
 #EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e SÃ©ries",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/737
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/737
 #EXTINF:-1 tvg-ID="TC4" tvg-name="Telecine Pipoca Full HD" tvg-logo="http://img.miptv.ws/Telecine_Pipoca.png" group-title="Filmes e SÃ©ries",Telecine Pipoca Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5462
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5462
 #EXTINF:-1 tvg-ID="T4H" tvg-name="Telecine Pipoca HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png" group-title="Filmes e SÃ©ries",Telecine Pipoca HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1864
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1864
 #EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e SÃ©ries",Telecine Premium
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/729
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/729
 #EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium HD" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e SÃ©ries",Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/736
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/736
 #EXTINF:-1 tvg-ID="TC1" tvg-name="Telecine Premium Full HD" tvg-logo="http://img.miptv.ws/Telecine_Premium.png" group-title="Filmes e SÃ©ries",Telecine Premium Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5461
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5461
 #EXTINF:-1 tvg-ID="TCH" tvg-name="Telecine Premium HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png" group-title="Filmes e SÃ©ries",Telecine Premium HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1865
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1865
 #EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e SÃ©ries",Telecine Touch
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/728
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/728
 #EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch HD" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e SÃ©ries",Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/735
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/735
 #EXTINF:-1 tvg-ID="TC3" tvg-name="Telecine Touch Full HD" tvg-logo="http://img.miptv.ws/Telecine_Touch.png" group-title="Filmes e SÃ©ries",Telecine Touch Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5460
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5460
 #EXTINF:-1 tvg-ID="T3H" tvg-name="Telecine Touch HD [PLUS]" tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png" group-title="Filmes e SÃ©ries",Telecine Touch HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1866
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1866
 #EXTINF:-1 tvg-ID="TVV" tvg-name="Terra Viva" tvg-logo="http://img.miptv.ws/Terra_Viva.png" group-title="TV Aberta",Terra Viva
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/727
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/727
 #EXTINF:-1 tvg-ID="TRV" tvg-name="TLC" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/725
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/725
 #EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1481
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1481
 #EXTINF:-1 tvg-ID="TRV" tvg-name="TLC HD [PLUS]" tvg-logo="http://img.miptv.ws/TLC.png" group-title="Variedades",TLC HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1867
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1867
 #EXTINF:-1 tvg-ID="JUS" tvg-name="TV Justica" tvg-logo="http://img.miptv.ws/TV_Justica.png" group-title="TV Aberta",TV Justica
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5293
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5293
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e SÃ©ries",TNT
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/724
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/724
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e SÃ©ries",TNT HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/723
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/723
 #EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT.png" group-title="Filmes e SÃ©ries",TNT HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1868
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1868
 #EXTINF:-1 tvg-ID="TNS" tvg-name="TNT SÃ©ries" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e SÃ©ries",TNT SÃ©ries
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/722
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/722
 #EXTINF:-1 tvg-ID="TNS" tvg-name="TNT SÃ©ries HD" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e SÃ©ries",TNT SÃ©ries HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/721
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/721
 #EXTINF:-1 tvg-ID="TNS" tvg-name="TNT Series HD [PLUS]" tvg-logo="http://img.miptv.ws/TNT_Series.png" group-title="Filmes e SÃ©ries",TNT Series HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4107
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4107
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7563
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7563
 #EXTINF:-1 tvg-ID="NOEPG English" tvg-name="PlayKids HD" tvg-logo="http://img.miptv.ws/PlayKids.jpg" group-title="Infantil",PlayKids HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7564
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7564
 #EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/720
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/720
 #EXTINF:-1 tvg-ID="TOC" tvg-name="Tooncast HD [PLUS]" tvg-logo="http://img.miptv.ws/Tooncast.png" group-title="Infantil",Tooncast HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4106
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4106
 #EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/719
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/719
 #EXTINF:-1 tvg-ID="TRU" tvg-name="TruTV HD" tvg-logo="http://img.miptv.ws/TruTV.png" group-title="Variedades",TruTV HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5291
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5291
 #EXTINF:-1 tvg-ID="APA" tvg-name="TV Aparecida" tvg-logo="http://img.miptv.ws/TV_Aparecida.png" group-title="Religiosos",TV Aparecida
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/895
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/895
 #EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5161
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5161
 #EXTINF:-1 tvg-ID="CUL" tvg-name="TV Cultura HD" tvg-logo="http://img.miptv.ws/TV_Cultura.png" group-title="Variedades",TV Cultura HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5656
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5656
 #EXTINF:-1 tvg-ID="TED" tvg-name="TV Brasil" tvg-logo="http://img.miptv.ws/TV_Brasil.png" group-title="TV Aberta",TV Brasil
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/717
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/717
 #EXTINF:-1 tvg-ID="CAM" tvg-name="TV CÃ¢mara" tvg-logo="http://img.miptv.ws/TV_Camara.png" group-title="TV Aberta",TV CÃ¢mara
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/602
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/602
 #EXTINF:-1 tvg-ID="TDF" tvg-name="TV DiÃ¡rio Fortaleza" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV DiÃ¡rio Fortaleza
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11063
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11063
 #EXTINF:-1 tvg-ID="TDF" tvg-name="TV DiÃ¡rio Fortaleza HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/200px-TV_Di%C3%A1rio_logo.svg.png" group-title="TV Aberta",TV DiÃ¡rio Fortaleza HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11062
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11062
 #EXTINF:-1 tvg-ID="RTB" tvg-name="TV RÃ¡ Tim Bum" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV RÃ¡ Tim Bum
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/715
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/715
 #EXTINF:-1 tvg-ID="RTB" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png" group-title="Infantil",TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5292
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5292
 #EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e SÃ©ries",Universal Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/711
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/711
 #EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e SÃ©ries",Universal Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/710
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/710
 #EXTINF:-1 tvg-ID="USA" tvg-name="Universal Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Universal_Channel.png" group-title="Filmes e SÃ©ries",Universal Channel HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4103
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4103
 #EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5290
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5290
 #EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD" tvg-logo="http://img.miptv.ws/VH1.png" group-title="Variedades",VH1 HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1479
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1479
 #EXTINF:-1 tvg-ID="VH1" tvg-name="VH1 HD [PLUS]" tvg-logo="http://img.miptv.ws/VH1_Channel.png" group-title="Variedades",VH1 HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4101
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4101
 #EXTINF:-1 tvg-ID="MTH" tvg-name="VH1 Mega Hits" tvg-logo="http://img.miptv.ws/VH1_MegaHits.png" group-title="Variedades",VH1 Mega Hits
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/709
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/709
 #EXTINF:-1 tvg-ID="VIV" tvg-name="Viva" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/708
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/708
 #EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/707
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/707
 #EXTINF:-1 tvg-ID="VIV" tvg-name="Viva Full HD" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5437
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5437
 #EXTINF:-1 tvg-ID="VIV" tvg-name="Viva HD [PLUS]" tvg-logo="http://img.miptv.ws/Viva.png" group-title="Variedades",Viva HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4100
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4100
 #EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e SÃ©ries",Warner Channel
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/706
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/706
 #EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e SÃ©ries",Warner Channel HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/705
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/705
 #EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Full HD" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e SÃ©ries",Warner Full HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5425
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5425
 #EXTINF:-1 tvg-ID="WBT" tvg-name="Warner Channel HD [PLUS]" tvg-logo="http://img.miptv.ws/Warner_Channel.png" group-title="Filmes e SÃ©ries",Warner Channel HD [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4099
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4099
 #EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/704
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/704
 #EXTINF:-1 tvg-ID="WOO" tvg-name="Woohoo HD" tvg-logo="http://img.miptv.ws/Woohoo.png" group-title="Esportes",Woohoo HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-SEMPRE 0800&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5657
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5657
