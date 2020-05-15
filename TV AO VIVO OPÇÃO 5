@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD BR" tvg-logo="https://picon-13398.kxcdn.com/ae.jpg" group-title="Live: Latin America",A&E HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17761
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN BR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: Latin America",AXN BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17763
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network BR" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Latin America",Cartoon Network BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17764
+#EXTINF:-1 tvg-id="Cultura.br" tvg-name="Cultura BR" tvg-logo="https://picon-13398.kxcdn.com/culturabr.jpg" group-title="Live: Latin America",Cultura BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17772
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="Discovery H&H BR" tvg-logo="https://picon-13398.kxcdn.com/discoverytheaterlam.jpg" group-title="Live: Latin America",Discovery H&H BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17766
+#EXTINF:-1 tvg-id="DisneyJunior.br" tvg-name="Disney Junior BR" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: Latin America",Disney Junior BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17768
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX BR" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg" group-title="Live: Latin America",FOX BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17769
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life BR" tvg-logo="https://picon-13398.kxcdn.com/foxlife.jpg" group-title="Live: Latin America",FOX Life BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17770
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News BR" tvg-logo="https://picon-13398.kxcdn.com/globonewsbr.jpg" group-title="Live: Latin America",Globo News BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17755
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: Latin America",HBO 2 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17757
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: Latin America",HBO HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17756
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbofamily.jpg" group-title="Live: Latin America",HBO Family HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17758
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="HBO Plus BR" tvg-logo="https://picon-13398.kxcdn.com/hboplus.jpg" group-title="Live: Latin America",HBO Plus BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17759
+#EXTINF:-1 tvg-id="HistoryChannel.br" tvg-name="History BR" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Latin America",History BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17773
+#EXTINF:-1 tvg-id="MTV.br" tvg-name="MTV BR" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Live: Latin America",MTV BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17777
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow BR" tvg-logo="https://picon-13398.kxcdn.com/multishowbr.jpg" group-title="Live: Latin America",Multishow BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17776
+#EXTINF:-1 tvg-id="NationalGeographic.br" tvg-name="National Geographic BR" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Latin America",National Geographic BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17778
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon BR" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Latin America",Nickelodeon BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17779
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News BR" tvg-logo="https://picon-13398.kxcdn.com/recordnewsbr.jpg" group-title="Live: Latin America",Record News BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17782
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record TV HD BR" tvg-logo="https://picon-13398.kxcdn.com/recordtv.jpg" group-title="Live: Latin America",Record TV HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17781
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Nordeste HD BR" tvg-logo="https://picon-13398.kxcdn.com/sbtnordestebr.jpg" group-title="Live: Latin America",SBT Nordeste HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17753
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo BrasÃ­lia BR" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg" group-title="Live: Latin America",TV Globo BrasÃ­lia BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17754
+#EXTINF:-1 tvg-id="DiscoverChannel.br" tvg-name="Discovery BR" tvg-logo="https://picon-13398.kxcdn.com/discovery.jpg" group-title="Live: Latin America",Discovery BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/17765
+#EXTINF:-1 tvg-id="" tvg-name="Univision TUDN MX" tvg-logo="https://picon-13398.kxcdn.com/univisiontdnlam.jpg" group-title="Live: Latin America",Univision TUDN MX
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/18167
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol TV CO" tvg-logo="https://picon-13398.kxcdn.com/caracoltvco.jpg" group-title="Live: Latin America",Caracol TV CO
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/19634
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN TV CO" tvg-logo="https://picon-13398.kxcdn.com/rcntvco.jpg" group-title="Live: Latin America",RCN TV CO
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/19635
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports AR" tvg-logo="https://picon-13398.kxcdn.com/tycsportsar.jpg" group-title="Live: Latin America",TyC Sports AR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/19671
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network BR" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="Live: Latin America",Food Network BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/22976
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportv3br.jpg" group-title="Live: Latin America",SporTV 3 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23161
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportv2br.jpg" group-title="Live: Latin America",SporTV 2 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23160
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="FOX Sports HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxsportshd.jpg" group-title="Live: Latin America",FOX Sports HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23162
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports BR" tvg-logo="https://picon-13398.kxcdn.com/bandsoprtsbr.jpg" group-title="Live: Latin America",Band Sports BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23163
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD BR" tvg-logo="https://picon-13398.kxcdn.com/gntbr.jpg" group-title="Live: Latin America",GNT HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23165
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD BR" tvg-logo="https://picon-13398.kxcdn.com/bandnewsbr.jpg" group-title="Live: Latin America",Band News HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23166
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV! Nacional BR" tvg-logo="https://picon-13398.kxcdn.com/redetvbr.jpg" group-title="Live: Latin America",Rede TV! Nacional BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23167
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD BR" tvg-logo="https://picon-13398.kxcdn.com/sportvbr.jpg" group-title="Live: Latin America",SporTV HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23279
+#EXTINF:-1 tvg-id="Channel26.ar" tvg-name="Canal 26 AR" tvg-logo="https://picon-13398.kxcdn.com/canal26ar.jpg" group-title="Live: Latin America",Canal 26 AR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/21520
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD BR" tvg-logo="https://picon-13398.kxcdn.com/vh1br.jpg" group-title="Live: Latin America",VH1 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24319
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="ViVa HD BR" tvg-logo="https://picon-13398.kxcdn.com/vivabr.jpg" group-title="Live: Latin America",ViVa HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24318
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series HD BR" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="Live: Latin America",TNT Series HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24316
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD BR" tvg-logo="https://picon-13398.kxcdn.com/tnthd.jpg" group-title="Live: Latin America",TNT HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24315
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD BR" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Latin America",TLC HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24314
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM BR" tvg-logo="https://picon-13398.kxcdn.com/tcm.jpg" group-title="Live: Latin America",TCM BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24313
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBS HD BR" tvg-logo="https://picon-13398.kxcdn.com/tbsus.jpg" group-title="Live: Latin America",TBS HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24312
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HD BR" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: Latin America",Syfy HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24311
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off HD BR" tvg-logo="https://picon-13398.kxcdn.com/oofbr.jpg" group-title="Live: Latin America",Off HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24310
+#EXTINF:-1 tvg-id="NatGeoWild.br" tvg-name="National Geographic Wild HD BR" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Latin America",National Geographic Wild HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24309
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids HD BR" tvg-logo="https://picon-13398.kxcdn.com/discoverykidsllam.jpg" group-title="Live: Latin America",Discovery Kids HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24296
+#EXTINF:-1 tvg-id="NatGeoKids.br" tvg-name="National Geographic Kids BR" tvg-logo="https://picon-13398.kxcdn.com/natgeokids.jpg" group-title="Live: Latin America",National Geographic Kids BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24308
+#EXTINF:-1 tvg-id="maxUP.br" tvg-name="HBO Pop HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbopop.jpg" group-title="Live: Latin America",HBO Pop HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24307
+#EXTINF:-1 tvg-id="MaxPrimeBrasil.br" tvg-name="HBO Xtreme HD BR" tvg-logo="https://picon-13398.kxcdn.com/hboxtreme.jpg" group-title="Live: Latin America",HBO Xtreme HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24306
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbomundi.jpg" group-title="Live: Latin America",HBO Mundi HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24305
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD BR" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Live: Latin America",Cinemax HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24278
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD BR" tvg-logo="https://picon-13398.kxcdn.com/maisglobosatbr.jpg" group-title="Live: Latin America",Mais Globosat HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24304
+#EXTINF:-1 tvg-id="FX.br" tvg-name="FX HD BR" tvg-logo="https://picon-13398.kxcdn.com/fxhdus.jpg" group-title="Live: Latin America",FX HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24303
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD BR" tvg-logo="https://picon-13398.kxcdn.com/lifetimehd.jpg" group-title="Live: Latin America",Lifetime HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24302
+#EXTINF:-1 tvg-id="EEntertainment.br" tvg-name="E! BR" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Latin America",E! BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24301
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV BR" tvg-logo="https://picon-13398.kxcdn.com/fishtvbr.jpg" group-title="Live: Latin America",Fish TV BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24300
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World BR" tvg-logo="https://picon-13398.kxcdn.com/discoveryworld.jpg" group-title="Live: Latin America",Discovery World BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24299
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery HD Theater BR" tvg-logo="https://picon-13398.kxcdn.com/discoverytheaterlam.jpg" group-title="Live: Latin America",Discovery HD Theater BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24298
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science BR" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: Latin America",Discovery Science BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24297
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="InvestigaÃ§Ã£o Discovery HD BR" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg" group-title="Live: Latin America",InvestigaÃ§Ã£o Discovery HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24295
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central BR" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Latin America",Comedy Central BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24294
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD BR" tvg-logo="https://picon-13398.kxcdn.com/bisbr.jpg" group-title="Live: Latin America",BIS HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24293
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD BR" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="Live: Latin America",AMC HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24292
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr. HD BR" tvg-logo="https://picon-13398.kxcdn.com/nickjrhd.jpg" group-title="Live: Latin America",Nick Jr. HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24290
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD BR" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Latin America",Disney Channel HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24289
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Channel HD BR" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Live: Latin America",Paramount Channel HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24283
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD BR" tvg-logo="https://picon-13398.kxcdn.com/universalchannel.jpg" group-title="Live: Latin America",Universal Channel HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24286
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel HD BR" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Live: Latin America",Warner Channel HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24287
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD BR" tvg-logo="https://picon-13398.kxcdn.com/boomeranghd.jpg" group-title="Live: Latin America",Boomerang HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24288
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD BR" tvg-logo="https://picon-13398.kxcdn.com/studiouniversal.jpg" group-title="Live: Latin America",Studio Universal HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24285
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD BR" tvg-logo="https://picon-13398.kxcdn.com/spacehdlam.jpg" group-title="Live: Latin America",Space HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24284
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD BR" tvg-logo="https://picon-13398.kxcdn.com/megapixbr.jpg" group-title="Live: Latin America",Megapix HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24282
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD BR" tvg-logo="https://picon-13398.kxcdn.com/hbosignaturelam.jpg" group-title="Live: Latin America",HBO Signature HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24281
+#EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="FOX Premium 1 HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxpremium1br.jpg" group-title="Live: Latin America",FOX Premium 1 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24279
+#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="FOX Premium 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxpremium2br.jpg" group-title="Live: Latin America",FOX Premium 2 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24280
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD BR" tvg-logo="https://picon-13398.kxcdn.com/sonychannel.jpg" group-title="Live: Latin America",Canal Sony HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24276
+#EXTINF:-1 tvg-id="FoxSports2.br" tvg-name="FOX Sports 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: Latin America",FOX Sports 2 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24267
+#EXTINF:-1 tvg-id="ESPNExtra.br" tvg-name="ESPN Xtra BR" tvg-logo="https://picon-13398.kxcdn.com/espnxtrabr.jpg" group-title="Live: Latin America",ESPN Xtra BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24266
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD BR" tvg-logo="https://picon-13398.kxcdn.com/espn2us.jpg" group-title="Live: Latin America",ESPN 2 HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24264
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD BR" tvg-logo="https://picon-13398.kxcdn.com/espnhd.jpg" group-title="Live: Latin America",ESPN HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24263
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD BR" tvg-logo="https://picon-13398.kxcdn.com/combatebr.jpg" group-title="Live: Latin America",Combate HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24262
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Nordeste HD BR" tvg-logo="https://picon-13398.kxcdn.com/recordtvbr.jpg" group-title="Live: Latin America",Record Nordeste HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24261
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Internacional AmÃ©ricas FHD BR" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg" group-title="Live: Latin America",TV Globo Internacional AmÃ©ricas FHD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24258
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas BR" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg" group-title="Live: Latin America",TV Globo Minas BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24257
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio de Janeiro HD BR" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg" group-title="Live: Latin America",TV Globo Rio de Janeiro HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24256
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo SÃ£o Paulo BR" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg" group-title="Live: Latin America",TV Globo SÃ£o Paulo BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/24255
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecineactionbr.jpg" group-title="Live: Latin America",Telecine Action HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23168
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecinecultbr.jpg" group-title="Live: Latin America",Telecine Cult HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23169
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecinefunbr.jpg" group-title="Live: Latin America",Telecine Fun HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23170
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecinepipocabr.jpg" group-title="Live: Latin America",Telecine Pipoca HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23171
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecinepremiumbr.jpg" group-title="Live: Latin America",Telecine Premium HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23172
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD BR" tvg-logo="https://picon-13398.kxcdn.com/telecinetouchbr.jpg" group-title="Live: Latin America",Telecine Touch HD BR
+plugin://plugin.video.f4mTester/?name=name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://cloudfiare.com.cdntraffice.com/997fty70529/dZaLhj6456/23173
