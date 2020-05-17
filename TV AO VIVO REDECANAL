@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" type"stream" group-title="[COLOR white][B]CANAIS | F4M[/B][/COLOR] [COLOR green][B]•[/B][/COLOR]",A&E
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://proxyts.canais.vip:8083/hls1/aie.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://image.flaticon.com/icons/png/512/870/870934.png" type"stream" group-title="[COLOR white][B]CANAIS | F4M[/B][/COLOR] [COLOR green][B]•[/B][/COLOR]", AMC
