@@ -258,3 +258,4 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR re
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://proxyts2.canais.vip:9090/a/hls1/universal.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" type"stream" group-title="[COLOR white][B]CANAIS | F4M[/B][/COLOR] [COLOR green][B]•[/B][/COLOR]", WARNER
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://proxyts2.canais.vip:9090/a/hls1/warner.m3u8
+j
