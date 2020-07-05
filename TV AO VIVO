@@ -1,7 +1,7 @@
 <item>
 <title>A&E</title>
-<link>https://mpegts.azureedge.net/hls1/aie.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/aie.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=aie.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=aie.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -9,8 +9,8 @@
 
 <item>
 <title>AMC</title>
-<link>https://mpegts.azureedge.net/hls1/amc.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/amc.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=amc.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=amc.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -18,8 +18,8 @@
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>https://mpegts.azureedge.net/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/animalplanet.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=animalplanet.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=animalplanet.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -27,8 +27,8 @@
 
 <item>
 <title>AXN</title>
-<link>https://mpegts.azureedge.net/hls1/axn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/axn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=axn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=axn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -36,8 +36,8 @@
 
 <item>
 <title>BAND SPORTS</title>
-<link>https://mpegts.azureedge.net/hls1/bandsports.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/bandsports.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=bandsports.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=bandsports.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.abcdacomunicacao.com.br/wp-content/uploads/BandSports_logo-baixa.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -45,8 +45,8 @@
 
 <item>
 <title>BOOMERANG</title>
-<link>https://mpegts.azureedge.net/hls1/boomegang.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/boomerang.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=boomegang.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=boomerang.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -54,8 +54,8 @@
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>https://mpegts.azureedge.net/hls1/cartoon.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/cartoon.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=cartoon.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=cartoon.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -63,8 +63,8 @@
 
 <item>
 <title>CINEMAX</title>
-<link>https://mpegts.azureedge.net/hls1/cinemax.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/cinemax.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=cinemax.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=cinemax.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -72,8 +72,8 @@
 
 <item>
 <title>COMBATE</title>
-<link>https://mpegts.azureedge.net/hls1/combate.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/combate.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=combate.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=combate.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -81,8 +81,8 @@
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>https://mpegts.azureedge.net/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/comedycentral.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=comedycentral.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=comedycentral.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yd4lucdw</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -90,8 +90,8 @@
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>https://mpegts.azureedge.net/hls1/discovery.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/discovery.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=discovery.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=discovery.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -99,8 +99,8 @@
 
 <item>
 <title>DISCOVERY HOME & HEALTH</title>
-<link>https://mpegts.azureedge.net/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=discoveryhomeihealth.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -108,8 +108,8 @@
 
 <item>
 <title>DISCOVERY THEATER</title>
-<link>https://mpegts.azureedge.net/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/discoverytheater.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=discoverytheater.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=discoverytheater.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y7z7owdo</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -117,8 +117,8 @@
 
 <item>
 <title>DISCOVERY KIDS</title>
-<link>https://mpegts.azureedge.net/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/discoverykids.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=discoverykids.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=discoverykids.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -126,8 +126,8 @@
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>https://mpegts.azureedge.net/hls1/disney.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/disney.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=disney.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=disney.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yapvu7nv</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -135,8 +135,8 @@
 
 <item>
 <title>DISNEY JUNIOR</title>
-<link>https://mpegts.azureedge.net/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/disneyjunior.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=disneyjunior.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=disneyjunior.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y3cdnrdu</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -144,8 +144,8 @@
 
 <item>
 <title>DISNEY XD</title>
-<link>https://mpegts.azureedge.net/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/disneyxd.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=disneyxd.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=disneyxd.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yyqhw5qu</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -153,8 +153,8 @@
 
 <item>
 <title>ESPN</title>
-<link>https://mpegts.azureedge.net/hls1/espn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/espn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=espn.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=espn.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -162,8 +162,8 @@
 
 <item>
 <title>ESPN ²</title>
-<link>https://mpegts.azureedge.net/hls1/espn2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/espn2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=espn2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=espn2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -171,8 +171,8 @@
 
 <item>
 <title>ESPN BRASIL</title>
-<link>https://mpegts.azureedge.net/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/espnbrasil.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=espnbrasil.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=espnbrasil.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -180,8 +180,8 @@
 
 <item>
 <title>ESPN EXTRA</title>
-<link>https://mpegts.azureedge.net/hls1/espnextra.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/espnextra.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=espnextra.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=espnextra.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yauv5yl9</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -189,8 +189,8 @@
 
 <item>
 <title>FOX</title>
-<link>https://mpegts.azureedge.net/hls1/fox.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/fox.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=fox.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=fox.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yasvg6lg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -198,8 +198,8 @@
 
 <item>
 <title>FOX LIFE</title>
-<link>https://mpegts.azureedge.net/hls1/foxlife.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/foxlife.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=foxlife.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=foxlife.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/y72zyp65</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -207,8 +207,8 @@
 
 <item>
 <title>FOX PREMIUM ¹</title>
-<link>https://mpegts.azureedge.net/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/foxpremium1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=foxpremium1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=foxpremium1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yccfuyqx</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -216,8 +216,8 @@
 
 <item>
 <title>FOX PREMIUM ²</title>
-<link>https://mpegts.azureedge.net/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/foxpremium2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=foxpremium2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=foxpremium2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://tinyurl.com/yccfuyqx</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -225,8 +225,8 @@
 
 <item>
 <title>FOX SPORTS ¹</title>
-<link>https://mpegts.azureedge.net/hls1/foxsports1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/foxsports1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=foxsports1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=foxsports1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -234,8 +234,8 @@
 
 <item>
 <title>FOX SPORTS ²</title>
-<link>https://mpegts.azureedge.net/hls1/foxsports2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/foxsports2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=foxsports2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=foxsports2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -243,8 +243,8 @@
 
 <item>
 <title>FX</title>
-<link>https://mpegts.azureedge.net/hls1/fx.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/fx.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=fx.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=fx.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://i.pinimg.com/originals/de/60/88/de60884d4a887e2844ea97234d9b66bb.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -252,8 +252,8 @@
 
 <item>
 <title>HBO</title>
-<link>https://mpegts.azureedge.net/hls1/hbo.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/hbo.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=hbo.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=hbo.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -261,8 +261,8 @@
 
 <item>
 <title>HBO FAMILY</title>
-<link>https://mpegts.azureedge.net/hls1/hbofamily.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/hbofamily.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=hbofamily.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=hbofamily.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -270,8 +270,8 @@
 
 <item>
 <title>HBO PLUS</title>
-<link>https://mpegts.azureedge.net/hls1/hboplus.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/hboplus.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=hboplus.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=hboplus.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -279,8 +279,8 @@
 
 <item>
 <title>HBO SIGNATURE</title>
-<link>https://mpegts.azureedge.net/hls1/hbosignature.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/hbosignature.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=hbosignature.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=hbosignature.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://img.pngio.com/hbo-logo-vector-free-vector-silhouette-graphics-ai-eps-svg-png-hbo-png-1200_1200.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -288,8 +288,8 @@
 
 <item>
 <title>HISTORY CHANNEL</title>
-<link>https://mpegts.azureedge.net/hls1/history.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/history.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=history.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=history.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -297,8 +297,8 @@
 
 <item>
 <title>HISTORY²</title>
-<link>https://mpegts.azureedge.net/hls1/history2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/history2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=history2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=history2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -306,8 +306,8 @@
 
 <item>
 <title>MEGAPIX</title>
-<link>https://mpegts.azureedge.net/hls1/megapix.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/megapix.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=megapix.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=megapix.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/megapix.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -315,8 +315,8 @@
 
 <item>
 <title>MULTISHOW</title>
-<link>https://mpegts.azureedge.net/hls1/multishow.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/multishow.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=multishow.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=multishow.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -324,8 +324,8 @@
 
 <item>
 <title>NICKELODEON</title>
-<link>https://mpegts.azureedge.net/hls1/nick.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/nick.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=nick.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=nick.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -333,8 +333,8 @@
 
 <item>
 <title>NICK JR.</title>
-<link>https://mpegts.azureedge.net/hls1/nickjr.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/nickjr.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=nickjr.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=nickjr.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://neoturbohd.com.br/logo/Nick_Jr._HD.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -342,8 +342,8 @@
 
 <item>
 <title>PARAMOUNT CHANNEL</title>
-<link>https://mpegts.azureedge.net/hls1/paramount.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/paramount.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=paramount.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=paramount.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -351,8 +351,8 @@
 
 <item>
 <title>PREMIERE CLUBES</title>
-<link>https://mpegts.azureedge.net/hls1/premiereclubes.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiereclubes.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiereclubes.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiereclubes.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -360,8 +360,8 @@
 
 <item>
 <title>PREMIERE ²</title>
-<link>https://mpegts.azureedge.net/hls1/premiere2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -369,8 +369,8 @@
 
 <item>
 <title>PREMIERE ³</title>
-<link>https://mpegts.azureedge.net/hls1/premiere3.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere3.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere3.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere3.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -378,8 +378,8 @@
 
 <item>
 <title>PREMIERE 4</title>
-<link>https://mpegts.azureedge.net/hls1/premiere4.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere4.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere4.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere4.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -387,8 +387,8 @@
 
 <item>
 <title>PREMIERE 5</title>
-<link>https://mpegts.azureedge.net/hls1/premiere5.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere5.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere5.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere5.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -396,8 +396,8 @@
 
 <item>
 <title>PREMIERE 6</title>
-<link>https://mpegts.azureedge.net/hls1/premiere6.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere6.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere6.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere6.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -405,8 +405,8 @@
 
 <item>
 <title>PREMIERE 7</title>
-<link>https://mpegts.azureedge.net/hls1/premiere7.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/premiere7.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=premiere7.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=premiere7.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -414,8 +414,8 @@
 
 <item>
 <title>SONY</title>
-<link>https://mpegts.azureedge.net/hls1/sony.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/sony.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=sony.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=sony.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.freepnglogos.com/uploads/sony-png-logo/top-rated-smart-home-lighting-sony-png-logo-7.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -423,8 +423,8 @@
 
 <item>
 <title>SYFY</title>
-<link>https://mpegts.azureedge.net/hls1/syfy.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/syfy.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=syfy.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=syfy.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -432,8 +432,8 @@
 
 <item>
 <title>SPACE</title>
-<link>https://mpegts.azureedge.net/hls1/space.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/space.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=space.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=space.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/space.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -441,8 +441,8 @@
 
 <item>
 <title>SPORTV ¹</title>
-<link>https://mpegts.azureedge.net/hls1/sportv1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/sportv1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=sportv1.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=sportv1.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -450,8 +450,8 @@
 
 <item>
 <title>SPORTV ²</title>
-<link>https://mpegts.azureedge.net/hls1/sportv2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/sportv2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=sportv2.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=sportv2.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -459,8 +459,8 @@
 
 <item>
 <title>SPORTV ³</title>
-<link>https://mpegts.azureedge.net/hls1/sportv3.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/sportv3.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=sportv3.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=sportv3.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -468,8 +468,8 @@
 
 <item>
 <title>STUDIO UNIVERSAL</title>
-<link>https://mpegts.azureedge.net/hls1/studiouniversal.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/studiouniversal.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=studiouniversal.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=studiouniversal.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -477,8 +477,8 @@
 
 <item>
 <title>TC ACTION</title>
-<link>https://mpegts.azureedge.net/hls1/telecineaction.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecineaction.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecineaction.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecineaction.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -486,8 +486,8 @@
 
 <item>
 <title>TC CULT</title>
-<link>https://mpegts.azureedge.net/hls1/telecinecult.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecinecult.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecinecult.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecinecult.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -495,8 +495,8 @@
 
 <item>
 <title>TC FUN</title>
-<link>https://mpegts.azureedge.net/hls1/telecinefun.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecinefun.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecinefun.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecinefun.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -504,8 +504,8 @@
 
 <item>
 <title>TC PIPOCA</title>
-<link>https://mpegts.azureedge.net/hls1/telecinepipoca.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecinepipoca.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecinepipoca.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecinepipoca.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -513,8 +513,8 @@
 
 <item>
 <title>TC PREMIUM</title>
-<link>https://mpegts.azureedge.net/hls1/telecinepremium.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecinepremium.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecinepremium.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecinepremium.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -522,8 +522,8 @@
 
 <item>
 <title>TC TOUCH</title>
-<link>https://mpegts.azureedge.net/hls1/telecinetouch.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/telecinetouch.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=telecinetouch.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=telecinetouch.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -531,8 +531,8 @@
 
 <item>
 <title>TNT</title>
-<link>https://mpegts.azureedge.net/hls1/tnt.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/tnt.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=tnt.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=tnt.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.pinclipart.com/picdir/big/214-2145216_nba-on-tnt-logo-clipart.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -540,8 +540,8 @@
 
 <item>
 <title>TNT SÉRIES</title>
-<link>https://mpegts.azureedge.net/hls1/tntseries.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/tntseries.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=tntseries.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=tntseries.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -549,8 +549,8 @@
 
 <item>
 <title>TOONCAST</title>
-<link>https://mpegts.azureedge.net/hls1/tooncast.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/tooncast.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=tooncast.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=tooncast.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -558,8 +558,8 @@
 
 <item>
 <title>UNIVERSAL CHANNEL</title>
-<link>https://mpegts.azureedge.net/hls1/universal.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/universal.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=universal.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=universal.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1200px-Universal_Channel_Brasil.svg.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -567,8 +567,8 @@
 
 <item>
 <title>WARNER</title>
-<link>https://mpegts.azureedge.net/hls1/warner.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://mpegts.azureedge.net/hls1/warner.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>https://proxy.ec.cx/proxy.php?url=warner.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=warner.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png</thumbnail>
 <fanart></fanart>
 <info></info>
