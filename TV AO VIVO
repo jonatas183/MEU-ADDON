@@ -17,12 +17,11 @@
 </item>
 
 <item>
-<title>ANIMAL PLANET</title>
-<link>https://proxy.ec.cx/proxy.php?url=animalplanet.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://proxy.ec.cx/proxy.php?url=animalplanet.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]animalplanet.m3u8|Referer=https://player.ec.cx//player3/contadorcanais.php?canalUser-AgentMozilla/5.0$nortv[B][COLOR blue]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR] - NORMAL[/B]</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/dR4QaPkj</page></regex>
+<thumbnail>https://canaisgratis.org/player3/imgs-videos/Canais/animalplanet.jpg</thumbnail>
+<info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
 </item>
 
 <item>
