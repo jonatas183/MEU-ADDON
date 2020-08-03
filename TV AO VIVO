@@ -572,3 +572,12 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]animalplanet.m3u8|Referer=https://redecanaistv.com/player3/canais.php|User-Agent=Mozilla/5.0</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/dR4QaPkj</page></regex>
+<thumbnail>https://i.imgur.com/A8fus4x.png</thumbnail>
+<info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
+</item>
