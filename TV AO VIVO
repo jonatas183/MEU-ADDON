@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR white]TESTE[/COLOR][/B]</title>
+<title>[B][COLOR white]Globo SP[/COLOR][/B]</title>
 <link>$doregex[BP1]bobosp$doregex[BP2]$texto=[B][COLOR white]Globo SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</link>
 <regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex>
 <regex><name>BPL</name><expres>(.*?).rctv</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
@@ -14,6 +14,7 @@
 <regex><name>F4MD</name><expres>(.*?).rctvd2</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
 <thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/rede-globo.png</thumbnail>
 </item>
+
 
 
 
