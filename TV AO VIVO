@@ -1,4 +1,23 @@
 <item>
+<title>[B][COLOR white]TESTE[/COLOR][/B]</title>
+<link>$doregex[BP1]bobosp$doregex[BP2]$texto=[B][COLOR white]Globo SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</link>
+<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex>
+<regex><name>BPL</name><expres>(.*?).rctv</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BPD</name><expres>(.*?).rctvd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<link>$doregex[F4M1]$doregex[F4M2]bobosp$doregex[F4M3]$texto=[B][COLOR white]Reproduzir Com[/COLOR] [COLOR gold]F4MTester[/COLOR][/B]</link>
+<regex><name>F4M1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[F4ML]")</expres><page></page></regex>
+<regex><name>F4ML</name><expres>(.*?).rctv2</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>F4M2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[F4MU]")</expres><page></page></regex>
+<regex><name>F4MU</name><expres>(.*?).rctv</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>F4M3</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[F4MD]")</expres><page></page></regex>
+<regex><name>F4MD</name><expres>(.*?).rctvd2</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<thumbnail>https://raw.githubusercontent.com/kodimegatv/megatv/master/logos/rede-globo.png</thumbnail>
+</item>
+
+
+
+<item>
 <title>A&E</title>
 <link>https://d3hcyf98g4mn0i.cloudfront.net/a/hls1/aie.m3u8$$lsname=[COLOR white][B]NORMAL[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR][COLOR red][B] 1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://d3hcyf98g4mn0i.cloudfront.net/a/hls1/aie.m3u8$$lsname=[COLOR white][B]F4M[/B][/COLOR] - [COLOR yellow][B] HD [/B][/COLOR]</link>
