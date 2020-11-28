@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="[COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]", [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
+#EXTINF:-1, [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
