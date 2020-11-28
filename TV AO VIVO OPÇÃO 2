@@ -190,7 +190,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72434
 
-#EXTINF:-1 group-title="[COLOR blue][B]##########â€¢|ESPORTES|â€¢##########[/B][/COLOR]", [COLOR blue][B]##########â€¢|ESPORTES|â€¢##########[/B][/COLOR]
+#EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports FHD
@@ -308,7 +308,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 #EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72333
 
-#EXTINF:-1 group-title="[COLOR blue][B]##########â€¢|TELECINE|â€¢##########[/B][/COLOR]", [COLOR blue][B]##########â€¢|TELECINE|â€¢##########[/B][/COLOR]
+#EXTINF:-1, [COLOR blue][B]##########|TELECINE|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Canais | Telecine",Telecine Action FHD
