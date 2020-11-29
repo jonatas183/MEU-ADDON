@@ -1,0 +1,177 @@
+#EXTM3U 
+
+#EXTINF:-1, [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-name="A&E" tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES", A&E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/415
+#EXTINF: -1 tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES", AMC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/416
+#EXTINF: -1 tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES", AXN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/419
+#EXTINF: -1 tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES", CANAL SONY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/427
+#EXTINF: -1 tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES", CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/429
+#EXTINF: -1 tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES", COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/435
+#EXTINF: -1 tvg-name="FOX " tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES", FOX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/457
+#EXTINF: -1 tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES", FOX LIFE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/458
+#EXTINF: -1 tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES", FOX PREMIUM 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/460
+#EXTINF: -1 tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES", FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/461
+#EXTINF: -1 tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="FILMES E SERIES", FX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/465
+#EXTINF: -1 tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES", HBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/471
+#EXTINF: -1 tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES", HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/472
+#EXTINF: -1 tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES", HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/473
+#EXTINF: -1 tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES", HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/475
+#EXTINF: -1 tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES", HBO PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/474
+#EXTINF: -1 tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES", HBO POP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/476
+#EXTINF: -1 tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES", HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/478
+#EXTINF: -1 tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES", HBO XTREME
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/477
+#EXTINF: -1 tvg-name="LIFETIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="FILMES E SERIES", LIFETIME
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/482
+#EXTINF: -1 tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES", MEGAPIX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/484
+#EXTINF: -1 tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES", PARAMOUNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/496
+#EXTINF: -1 tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES", SPACE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/508
+#EXTINF: -1 tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES", STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/512
+#EXTINF: -1 tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES", SYFY
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/513
+#EXTINF: -1 tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES", TBS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/514
+#EXTINF: -1 tvg-name="TC ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES", TC ACTION
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/515
+#EXTINF: -1 tvg-name="TC CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES", TC CULT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/516
+#EXTINF: -1 tvg-name="TC FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES", TC FUN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/517
+#EXTINF: -1 tvg-name="TC PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES", TC PIPOCA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/518
+#EXTINF: -1 tvg-name="TC PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES", TC PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/519
+#EXTINF: -1 tvg-name="TC TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES", TC TOUCH
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/520
+#EXTINF: -1 tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="FILMES E SERIES", TLC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/521
+#EXTINF: -1 tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES", TNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/522
+#EXTINF: -1 tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES", TNT SERIES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/523
+#EXTINF: -1 tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES", UNIVERSAL TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/529
+#EXTINF: -1 tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES", WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/532
+
+#EXTINF:-1, [COLOR blue][B]##########|INFANTIL|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS", BABY TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/423
+#EXTINF: -1 tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS", BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/425
+#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS", CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/428
+#EXTINF: -1 tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS", DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/441
+#EXTINF: -1 tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS", DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/446
+#EXTINF: -1 tvg-name="DISNEY JUNIOR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS", DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/447
+#EXTINF: -1 tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS", DISNEY XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/448
+#EXTINF: -1 tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS", GLOOB
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/468
+#EXTINF: -1 tvg-name="NATGEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS", NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/490
+#EXTINF: -1 tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS", NICK
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/492
+#EXTINF: -1 tvg-name="NICK JUNIOR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS", NICK JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/493
+#EXTINF: -1 tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS", TOONCAST
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/525
+#EXTINF: -1 tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS", TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/528
+#EXTINF: -1 tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS", ZOOMOO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/534
+
+#EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS", BAND SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/422
+#EXTINF: -1 tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS", COMBATE
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/431
+#EXTINF: -1 tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS", DAZN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/606
+#EXTINF: -1 tvg-name="ESPN " tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS", ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/450
+#EXTINF: -1 tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS", ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/451
+#EXTINF: -1 tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS", ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/452
+#EXTINF: -1 tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS", ESPN EXTRA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/453
+#EXTINF: -1 tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS", FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/462
+#EXTINF: -1 tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS", FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/463
+#EXTINF: -1 tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS", PREMIERE 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/497
+#EXTINF: -1 tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS", PREMIERE 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/498
+#EXTINF: -1 tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS", PREMIERE 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/499
+#EXTINF: -1 tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS", PREMIERE 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/500
+#EXTINF: -1 tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS", PREMIERE 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/501
+#EXTINF: -1 tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS", PREMIERE 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/502
+#EXTINF: -1 tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS", PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/503
+#EXTINF: -1 tvg-name="SPORTV " tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS", SPORTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/509
+#EXTINF: -1 tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS", SPORTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/510
+#EXTINF: -1 tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS", SPORTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/511
+
+#EXTINF:-1, [COLOR blue][B]##########|CINE SKY|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-name="CINE SKY 1" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/535
+#EXTINF: -1 tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 10
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/544
+#EXTINF: -1 tvg-name="CINE SKY 2" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/536
+#EXTINF: -1 tvg-name="CINE SKY 3" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/537
+#EXTINF: -1 tvg-name="CINE SKY 4" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/538
+#EXTINF: -1 tvg-name="CINE SKY 5" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/539
+#EXTINF: -1 tvg-name="CINE SKY 6" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/540
+#EXTINF: -1 tvg-name="CINE SKY 7" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/541
+#EXTINF: -1 tvg-name="CINE SKY 8" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/542
+#EXTINF: -1 tvg-name="CINE SKY 9" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY", CINE SKY 9
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/junior/123456/543
