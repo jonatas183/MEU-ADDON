@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20FILMES</externallink>
 <fanart></fanart>
@@ -25,12 +25,14 @@
 [COLOR green][B]VERDE[/B][/COLOR] - Online
 [COLOR red][B]VERMELHO[/B][/COLOR] - Offline
 [COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
-[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
+[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando
+
+</info>
 
 ##########•|SÉRIES•##########
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20S%C3%89RIES</externallink>
 <fanart></fanart>
@@ -44,7 +46,7 @@
 ##########•|ANIMES|•##########
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]ANIMES[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]ANIMES[/B][/COLOR]</name>
 <thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512%2C512&ssl=1</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20ANIMES</externallink>
 <fanart></fanart>
