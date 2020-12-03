@@ -190,6 +190,95 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",Warner Channel SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72434
 
+#EXTINF:-1, [COLOR blue][B]##########|INFANTIL|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71812
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71813
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71814
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71815
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71828
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71829
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71831
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71832
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71871
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71872
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71873
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71874
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71891
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71892
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71893
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71894
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71895
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71896
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71897
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71898
+#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/71899
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72098
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72099
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72100
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72101
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72188
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72189
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Canais | Infantis",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72190
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais | Infantis",Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72191
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72201
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72202
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72203
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72204
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72205
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72206
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72207
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72208
+#EXTINF:-1 tvg-logo="http://a5.vc/R28" group-title="Canais | Infantis",Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72385
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72412
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72413
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72414
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://srvx.io:80/0467707740/fireurl.co/72415
+
+
 #EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
 http://127.0.0.1
 
