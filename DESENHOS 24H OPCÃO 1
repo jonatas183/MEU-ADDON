@@ -6,7 +6,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14501
 #EXTINF: -1 tvg-name="[24h] Chaves" tvg-logo="http://cdn.teambr.live:80/images/684bc32df4c71f8558c6d007c249dc52.jpg" group-title="Canais 24H", [24h] Chaves
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14502
-#EXTINF: -1 tvg-name="[24h] Eu, a Patroa e as Crianças" tvg-logo="http://cdn.teambr.live:80/images/11ee2dfa530553e68e36537969087d58.jpg" group-title="Canais 24H", a Patroa e as Crianças
+#EXTINF: -1 tvg-name="[24h] Eu, a Patroa e as Crianças" tvg-logo="http://cdn.teambr.live:80/images/11ee2dfa530553e68e36537969087d58.jpg" group-title="Canais 24H", Eu, a Patroa e as Crianças
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14503
 #EXTINF: -1 tvg-name="[24h] 3 Palavrinhas" tvg-logo="http://cdn.teambr.live:80/images/c28a2941a163e1d1c3010de3270ec400.jpg" group-title="Canais 24H", [24h] 3 Palavrinhas
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14504
