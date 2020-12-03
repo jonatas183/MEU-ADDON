@@ -1,0 +1,335 @@
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] 3 Palavrinhas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43931
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Familia Dracula
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Grande Familia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43932
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Mumia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43942
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Pantera Cor De Rosa
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Turma Da Monica
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43964
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] A Turma Do Pateta
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43943
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Acampamento Lakebottom
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43944
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] ALADIN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] As Aventuras De Jackie Chan
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43884
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] As Aventuras De Piggley Winks
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43945
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] As Aventuras De Tintim
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43946
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] As Tartarugas Ninja
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43918
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Baby Shark
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] BEN 10
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Ben E Holly
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Big Mouth
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] BOB ESPONJA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43860
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Breaking Bad
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43861
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Capitão Tsubasa
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43954
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Caverna do Dragao
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Chapolin Colorado
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] CHAVES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43865
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] CHAVES DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43866
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Coragem o Cao Covarde
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] CSI Las Vegas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43948
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Daniel Tigre
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43970
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Denis o Pimentinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43867
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Desenhos Biblicos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Desenhos Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43868
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Digimon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43869
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Dois Homens e Meio
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43870
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Doug
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43871
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] DRAGON BALL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43872
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Faisca E Fumaça
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Flash Gordon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43957
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Formiga Atómica
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43874
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Galinha Pintadinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43875
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Guardiões da Galaxia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43876
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] He-Man
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43877
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] High Score Girl
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43956
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Historias Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43879
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] HOMEM ARANHA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43880
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Homem de Ferro
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43881
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] HOMEMS DE PRETO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43882
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Hércules
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43878
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Incrível Hulk
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43883
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Irmão Do Jorel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Jaspion
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43885
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] JIRAYA O Incrível Ninja
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43886
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Jonny Quest
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Jose Rei Do Egito
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43934
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Kenan e Kel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43887
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Log Horizon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43965
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Luluzinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43888
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Masha E O Urso
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Medabots
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43889
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] MegaMan
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Meu Amigãozão
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43972
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Mickey Mouse
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Mortal Kombat
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43891
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Mr.Ben
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43892
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Mundo Bita
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43959
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Naruto
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43893
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Naruto Shippuden DUB
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43894
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] O Fantástico Mundo de Bobby
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43895
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] O INSPETOR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43896
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] O MASKARA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43897
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] O Máskara
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43935
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Os Anjinhos - Rugrats
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43898
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Os Cavaleiros do Zodiaco
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43899
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] OS FLINTSTONES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43900
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] OS SIMPSONS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43901
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Os Trapalhoes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43949
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Os Vingadores
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Papa-Leguas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43903
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Patati Patata
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Patrulha Canina
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Peppa Pig
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43904
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] PERNALONGA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43905
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Phineas e Ferb
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Pica Pau
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43907
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Pica Pau Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Pink-e-Cerebro
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43908
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] POKEMON
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43909
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Rambo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43911
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Rick And Morty 2TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Sitio Do Pica Pau Amarelo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43947
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Superman
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Thundercats
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] TIMAO E PUMBA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43920
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43921
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Tom & Jerry
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Tres Espias Demais
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43924
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Uma Família da Pesada
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43925
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Ursinhos Carinhos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43926
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] X-MAN Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43927
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] X-Men Antigo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43952
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] Xena
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43928
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] YU-GI-OH
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43929
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] YU-YU-Hakusho
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43930
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Black Jesus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Eric Andre Show
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44146
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Mr. Pickles
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44145
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Rick and Morty
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Squidbillies
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44143
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Tim and Eric
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44142
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Venture Bros.
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H][US] Williams Stream
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/44140
