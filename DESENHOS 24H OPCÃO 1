@@ -6,14 +6,10 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14501
 #EXTINF: -1 tvg-name="[24h] Chaves" tvg-logo="http://cdn.teambr.live:80/images/684bc32df4c71f8558c6d007c249dc52.jpg" group-title="Canais 24H", [24h] Chaves
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14502
-#EXTINF: -1 tvg-name="[24h] Eu, a Patroa e as Crianças" tvg-logo="http://cdn.teambr.live:80/images/11ee2dfa530553e68e36537969087d58.jpg" group-title="Canais 24H", Eu, a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14503
 #EXTINF: -1 tvg-name="[24h] 3 Palavrinhas" tvg-logo="http://cdn.teambr.live:80/images/c28a2941a163e1d1c3010de3270ec400.jpg" group-title="Canais 24H", [24h] 3 Palavrinhas
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14504
 #EXTINF: -1 tvg-name="[24h] Mundo Bita" tvg-logo="http://cdn.teambr.live:80/images/9243a2a2d78103710f5d3a45342432a7.jpg" group-title="Canais 24H", [24h] Mundo Bita
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14505
-#EXTINF: -1 tvg-name="[24h] Dora, a aventureira" tvg-logo="http://cdn.teambr.live:80/images/cc138a8008848ecafa364854fcafca17.jpg" group-title="Canais 24H", a aventureira
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/14514
 #EXTINF: -1 tvg-name="[24h] Bob Zoom" tvg-logo="http://cdn.teambr.live:80/images/ab52f9803857df2eb81454ec36371ff9.jpg" group-title="Canais 24H", [24h] Bob Zoom
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/15053
 #EXTINF: -1 tvg-name="[24h] Todo Mundo Odeia o Chris" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtMMXsXvbuwFYC9L72upndmp7aLNDN_xzI0Iwa0fxXvK5E5UIC" group-title="Canais 24H", [24h] Todo Mundo Odeia o Chris
@@ -56,14 +52,10 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR whi
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/22585
 #EXTINF: -1 tvg-name="[24h] Rick & Morty" tvg-logo="http://cdn.teambr.live:80/images/37b8c7b81a34a7e7a54ac042508fffdc.jpg" group-title="Canais 24H", [24h] Rick & Morty
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/22858
-#EXTINF: -1 tvg-name="[24h] Super Onze" tvg-logo="https://static.wixstatic.com/media/2fd7e9_9fa3e34abd8a40139a83e9373fffd273.png/v1/fill/w_556,h_327,al_c,q_85/2fd7e9_9fa3e34abd8a40139a83e9373fffd273.webp" group-title="Canais 24H", [24h] Super Onze
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/23694
 #EXTINF: -1 tvg-name="[24h] Dragon Ball Super" tvg-logo="http://cdn.teambr.live:80/images/26cca5a1482c0cc34e6e6ac65bc646f5.png" group-title="Canais 24H", [24h] Dragon Ball Super
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/23695
 #EXTINF: -1 tvg-name="[24h] Pernalonga" tvg-logo="https://vignette.wikia.nocookie.net/tkoc/images/2/26/Classic_bugsbunny.png/revision/latest?cb=20130217005400&path-prefix=pt-br" group-title="Canais 24H", [24h] Pernalonga
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/24590
-#EXTINF: -1 tvg-name="[24h] Kenan & Kel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c98f4641-4fbf-487c-9386-995b8db29e46/d7gviie-febe5ec8-c17a-4f4e-bc21-58ab147f2fb2.png/v1/fill/w_512,h_512,strp/kenan_and_kel___v1_by_rest_in_torment_d7gviie-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01MTIiLCJwYXRoIjoiXC9mXC9jOThmNDY0MS00ZmJmLTQ4N2MtOTM4Ni05OTViOGRiMjllNDZcL2Q3Z3ZpaWUtZmViZTVlYzgtYzE3YS00ZjRlLWJjMjEtNThhYjE0N2YyZmIyLnBuZyIsIndpZHRoIjoiPD01MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qcFpLNTWq3VPsPgaykcu3pNXz73XfvPzYAhR8kRuce0" group-title="Canais 24H", [24h] Kenan & Kel
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/25902
 #EXTINF: -1 tvg-name="[24h] Steven Universo" tvg-logo="http://cdn.teambr.live:80/images/376c41b9f7a464bbfb8bc44ab6784385.png" group-title="Canais 24H", [24h] Steven Universo
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.teambr.live:80/shzpcu/15b2dk/27320
 #EXTINF: -1 tvg-name="[24h] Bojack Horseman" tvg-logo="http://cdn.teambr.live:80/images/8c2cfc15b9cd5428c0aa889c701e3d73.jpg" group-title="Canais 24H", [24h] Bojack Horseman
