@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | 24 Horas", [24H] 3 Palavrinhas
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/731753581/21429/43931
 
