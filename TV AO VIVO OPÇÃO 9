@@ -4,358 +4,358 @@
 http://127.0.0.1
 
 #EXTINF: -1 tvg-name="A Fazenda 12 HD¹" tvg-logo="https://stcotvfoco.com.br/2014/07/afazenda7.png" group-title="Canais Reality Show", A Fazenda 12 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78377.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78377.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="Ae.br" tvg-name="A&E HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Canais Filmes e Series", A&E HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/4.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/4.ts
 #EXTINF: -1 tvg-id="Ae.br" tvg-name="A&E SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Canais Filmes e Series", A&E SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/5.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/5.ts
 #EXTINF: -1 tvg-id="Amc.br" tvg-name="AMC HD¹" tvg-logo="https://www.revistalivemarketing.com.br/wp-content/uploads/2018/12/amc.jpg" group-title="Canais Filmes e Series", AMC HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/7.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/7.ts
 #EXTINF: -1 tvg-id="Amc.br" tvg-name="AMC SD¹" tvg-logo="https://www.revistalivemarketing.com.br/wp-content/uploads/2018/12/amc.jpg" group-title="Canais Filmes e Series", AMC SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/8.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/8.ts
 #EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="Canais Filmes e Series", AXN HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/93.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/93.ts
 #EXTINF: -1 tvg-name="AXN Movies HD¹" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/AXN%20Movies%20HD%20-%20Sem%20Logo.png" group-title="Canais Filmes e Series", AXN Movies HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78605.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78605.ts
 #EXTINF: -1 tvg-id="Axn.br" tvg-name="AXN SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="Canais Filmes e Series", AXN SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/94.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/94.ts
 #EXTINF: -1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Canais Filmes e Series", Canal Brasil HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1245.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1245.ts
 #EXTINF: -1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Canais Filmes e Series", Canal Brasil SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73737.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73737.ts
 #EXTINF: -1 tvg-id="Sony.br" tvg-name="Canal Sony HD¹" tvg-logo="http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png" group-title="Canais Filmes e Series", Canal Sony HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1247.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1247.ts
 #EXTINF: -1 tvg-id="Sony.br" tvg-name="Canal Sony SD¹" tvg-logo="http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png" group-title="Canais Filmes e Series", Canal Sony SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1248.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1248.ts
 #EXTINF: -1 tvg-id="Cinemax.br" tvg-name="Cinemax HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais Filmes e Series", Cinemax HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1255.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1255.ts
 #EXTINF: -1 tvg-id="Cinemax.br" tvg-name="Cinemax SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Canais Filmes e Series", Cinemax SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1256.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1256.ts
 #EXTINF: -1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD¹" tvg-logo="https://img.favpng.com/22/17/3/comedy-central-logo-television-channel-png-favpng-2DXNk72r7kdmifnD2ue9C5jAg.jpg" group-title="Canais Filmes e Series", Comedy Central HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1655.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1655.ts
 #EXTINF: -1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD¹" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-logo-png-6.png" group-title="Canais Filmes e Series", Comedy Central SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1654.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1654.ts
 #EXTINF: -1 tvg-id="FilmArts.br" tvg-name="Film & Arts HD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Canais Filmes e Series", Film & Arts HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1605.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1605.ts
 #EXTINF: -1 tvg-id="Fox.br" tvg-name="FOX HD¹" tvg-logo="http://assets.stickpng.com/thumbs/5842f04ea6515b1e0ad75b14.png" group-title="Canais Filmes e Series", FOX HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1598.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1598.ts
 #EXTINF: -1 tvg-id="Foxlife.br" tvg-name="Fox Life HD¹" tvg-logo="http://1.bp.blogspot.com/-lJRgPTH2cYQ/Uh_7raV0xnI/AAAAAAAAbxY/Hz2K-9tQs-g/s1600/Fox+Life+logo+2013.png" group-title="Canais Filmes e Series", Fox Life HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1596.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1596.ts
 #EXTINF: -1 tvg-id="Foxlife.br" tvg-name="Fox Life SD¹" tvg-logo="http://1.bp.blogspot.com/-lJRgPTH2cYQ/Uh_7raV0xnI/AAAAAAAAbxY/Hz2K-9tQs-g/s1600/Fox+Life+logo+2013.png" group-title="Canais Filmes e Series", Fox Life SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1597.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1597.ts
 #EXTINF: -1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Canais Filmes e Series", Fox Premium 1 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1595.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1595.ts
 #EXTINF: -1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Canais Filmes e Series", Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1594.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1594.ts
 #EXTINF: -1 tvg-id="Fox.br" tvg-name="FOX SD¹" tvg-logo="http://assets.stickpng.com/thumbs/5842f04ea6515b1e0ad75b14.png" group-title="Canais Filmes e Series", FOX SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1599.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1599.ts
 #EXTINF: -1 tvg-id="Fx.br" tvg-name="FX HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Canais Filmes e Series", FX HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1582.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1582.ts
 #EXTINF: -1 tvg-id="Fx.br" tvg-name="FX SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Canais Filmes e Series", FX SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1583.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1583.ts
 #EXTINF: -1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="Canais Filmes e Series", Megapix HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1525.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1525.ts
 #EXTINF: -1 tvg-id="Megapix.br" tvg-name="MegaPix SD¹" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="Canais Filmes e Series", MegaPix SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1526.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1526.ts
 #EXTINF: -1 tvg-id="Paramounthd.br" tvg-name="Paramount HD¹" tvg-logo="https://www.americatvc.com/administrador/aliados/56.png" group-title="Canais Filmes e Series", Paramount HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1496.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1496.ts
 #EXTINF: -1 tvg-id="Paramounthd.br" tvg-name="Paramount SD¹" tvg-logo="https://www.americatvc.com/administrador/aliados/56.png" group-title="Canais Filmes e Series", Paramount SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1497.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1497.ts
 #EXTINF: -1 tvg-id="Space.br" tvg-name="Space HD¹" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="Canais Filmes e Series", Space HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1442.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1442.ts
 #EXTINF: -1 tvg-id="Space.br" tvg-name="Space SD¹" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="Canais Filmes e Series", Space SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1443.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1443.ts
 #EXTINF: -1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Canais Filmes e Series", Studio Universal HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1430.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1430.ts
 #EXTINF: -1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="Canais Filmes e Series", Studio Universal SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1431.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1431.ts
 #EXTINF: -1 tvg-id="Syfy.br" tvg-name="SYFY HD¹" tvg-logo="https://www.stickpng.com/assets/images/584fc8cd6a5ae41a83ddee7e.png" group-title="Canais Filmes e Series", SYFY HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1426.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1426.ts
 #EXTINF: -1 tvg-id="Syfy.br" tvg-name="Syfy SD¹" tvg-logo="https://www.stickpng.com/assets/images/584fc8cd6a5ae41a83ddee7e.png" group-title="Canais Filmes e Series", Syfy SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1428.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1428.ts
 #EXTINF: -1 tvg-id="Tbs.br" tvg-name="TBS HD¹" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459527991_tbs-logo.png" group-title="Canais Filmes e Series", TBS HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1424.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1424.ts
 #EXTINF: -1 tvg-id="Tbs.br" tvg-name="TBS SD¹" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459527991_tbs-logo.png" group-title="Canais Filmes e Series", TBS SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1425.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1425.ts
 #EXTINF: -1 tvg-id="Tcm.br" tvg-name="TCM HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Canais Filmes e Series", TCM HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1422.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1422.ts
 #EXTINF: -1 tvg-id="Tnt.br" tvg-name="TNT HD¹" tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="Canais Filmes e Series", TNT HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1397.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1397.ts
 #EXTINF: -1 tvg-id="Tnt.br" tvg-name="TNT SD¹" tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="Canais Filmes e Series", TNT SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1398.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1398.ts
 #EXTINF: -1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Canais Filmes e Series", TNT Series HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1395.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1395.ts
 #EXTINF: -1 tvg-id="TNTSerie.br" tvg-name="TNT Series SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Canais Filmes e Series", TNT Series SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1396.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1396.ts
 #EXTINF: -1 tvg-id="Trutv.br" tvg-name="TruTV SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="Canais Filmes e Series", TruTV SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1391.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1391.ts
 #EXTINF: -1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD¹" tvg-logo="https://universalchannelhb.weebly.com/uploads/8/2/9/0/82904046/universal-channel-2011_orig.png" group-title="Canais Filmes e Series", Universal Channel HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1359.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1359.ts
 #EXTINF: -1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD¹" tvg-logo="https://universalchannelhb.weebly.com/uploads/8/2/9/0/82904046/universal-channel-2011_orig.png" group-title="Canais Filmes e Series", Universal Channel SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73736.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73736.ts
 #EXTINF: -1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Canais Filmes e Series", Warner Channel HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1351.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1351.ts
 #EXTINF: -1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="Canais Filmes e Series", Warner Channel SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1352.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1352.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|INFANTIL|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="BabyTV.br" tvg-name="Baby TV HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Canais Infantis", Baby TV HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1240.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1240.ts
 #EXTINF: -1 tvg-id="Boomerang.br" tvg-name="Boomerang SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Canais Infantis", Boomerang SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21168.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21168.ts
 #EXTINF: -1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="Canais Infantis", Cartoon Network HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1252.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1252.ts
 #EXTINF: -1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="Canais Infantis", Cartoon Network SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1253.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1253.ts
 #EXTINF: -1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Canais Infantis", Discovery Kids HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1647.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1647.ts
 #EXTINF: -1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Canais Infantis", Discovery Kids SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1638.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1638.ts
 #EXTINF: -1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Canais Infantis", Disney Channel HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1629.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1629.ts
 #EXTINF: -1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Canais Infantis", Disney Channel SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1631.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1631.ts
 #EXTINF: -1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD¹" tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="Canais Infantis", Disney Junior HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1628.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1628.ts
 #EXTINF: -1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD¹" tvg-logo="https://i.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.png" group-title="Canais Infantis", Disney Junior SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1627.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1627.ts
 #EXTINF: -1 tvg-name="Globinho SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="Canais Infantis", Globinho SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/24025.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/24025.ts
 #EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais Infantis", Gloob HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1569.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1569.ts
 #EXTINF: -1 tvg-id="Gloob.br" tvg-name="Gloob SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Canais Infantis", Gloob SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1570.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1570.ts
 #EXTINF: -1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids HD¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest?cb=20180408050321" group-title="Canais Infantis", NatGeo Kids HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1513.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1513.ts
 #EXTINF: -1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids SD¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest?cb=20180408050321" group-title="Canais Infantis", NatGeo Kids SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1511.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1511.ts
 #EXTINF: -1 tvg-id="NickJr.br" tvg-name="Nick Jr HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais Infantis", Nick Jr HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1501.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1501.ts
 #EXTINF: -1 tvg-id="NickJr.br" tvg-name="Nick Jr SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais Infantis", Nick Jr SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1505.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1505.ts
 #EXTINF: -1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD¹" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-orange-png-6.png" group-title="Canais Infantis", Nickelodeon HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1502.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1502.ts
 #EXTINF: -1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD¹" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-orange-png-6.png" group-title="Canais Infantis", Nickelodeon SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1504.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1504.ts
 #EXTINF: -1 tvg-id="AmazonSat.hdbr" tvg-name="Playkids HD¹" tvg-logo="https://i2.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/07/playkidslogo.png?fit=1600%2C1050&ssl=1" group-title="Canais Infantis", Playkids HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1493.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1493.ts
 #EXTINF: -1 tvg-id="Tooncast.br" tvg-name="Tooncast SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Canais Infantis", Tooncast SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1392.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1392.ts
 #EXTINF: -1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum HD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais Infantis", TV Ra Tim Bum HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1371.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1371.ts
 #EXTINF: -1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais Infantis", TV Ra Tim Bum SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1372.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1372.ts
 #EXTINF: -1 tvg-id="Zoomoo.br" tvg-name="ZooMoo HD¹" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png" group-title="Canais Infantis", ZooMoo HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/80095.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/80095.ts
 #EXTINF: -1 tvg-id="Zoomoo.br" tvg-name="ZooMoo SD¹" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/03549e27277257.5584ec82d8cba.png" group-title="Canais Infantis", ZooMoo SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1347.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1347.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Canais Esportes", Band Sports HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1238.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1238.ts
 #EXTINF: -1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Canais Esportes", Band Sports SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1239.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1239.ts
 #EXTINF: -1 tvg-id="Combatehd.br" tvg-name="Combate HD¹" tvg-logo="https://2.bp.blogspot.com/-RYUO95zLZxw/TbA8qOAZVWI/AAAAAAAABco/JTenHXMVN8Y/w1200-h630-p-k-no-nu/premiere_combate.png" group-title="Canais Esportes", Combate HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1258.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1258.ts
 #EXTINF: -1 tvg-id="Combatehd.br" tvg-name="Combate SD¹" tvg-logo="https://2.bp.blogspot.com/-RYUO95zLZxw/TbA8qOAZVWI/AAAAAAAABco/JTenHXMVN8Y/w1200-h630-p-k-no-nu/premiere_combate.png" group-title="Canais Esportes", Combate SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1259.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1259.ts
 #EXTINF: -1 tvg-name="DAZN 1 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Canais Esportes", DAZN 1 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1260.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1260.ts
 #EXTINF: -1 tvg-name="DAZN 2 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Canais Esportes", DAZN 2 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21180.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21180.ts
 #EXTINF: -1 tvg-name="DAZN 3 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Canais Esportes", DAZN 3 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21181.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21181.ts
 #EXTINF: -1 tvg-name="DAZN 4 HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="Canais Esportes", DAZN 4 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21182.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/21182.ts
 #EXTINF: -1 tvg-name="Ei Maxx 1" tvg-logo="http://3.bp.blogspot.com/-qXCq3mjCq70/VXYrEWFzPAI/AAAAAAAAZ8g/0vrKo38K9T8/s1600/logo_ei_max.png" group-title="Canais Esportes", Ei Maxx 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1383.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1383.ts
 #EXTINF: -1 tvg-name="Ei Maxx 2" tvg-logo="http://3.bp.blogspot.com/-qXCq3mjCq70/VXYrEWFzPAI/AAAAAAAAZ8g/0vrKo38K9T8/s1600/logo_ei_max.png" group-title="Canais Esportes", Ei Maxx 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1386.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1386.ts
 #EXTINF: -1 tvg-name="Ei Maxx 3" tvg-logo="http://3.bp.blogspot.com/-qXCq3mjCq70/VXYrEWFzPAI/AAAAAAAAZ8g/0vrKo38K9T8/s1600/logo_ei_max.png" group-title="Canais Esportes", Ei Maxx 3
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1385.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1385.ts
 #EXTINF: -1 tvg-name="Ei Maxx 4" tvg-logo="http://3.bp.blogspot.com/-qXCq3mjCq70/VXYrEWFzPAI/AAAAAAAAZ8g/0vrKo38K9T8/s1600/logo_ei_max.png" group-title="Canais Esportes", Ei Maxx 4
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1384.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1384.ts
 #EXTINF: -1 tvg-name="Ei Plus HD¹" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title="Canais Esportes", Ei Plus HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/77308.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/77308.ts
 #EXTINF: -1 tvg-name="Ei Plus SD¹" tvg-logo="https://img.ibxk.com.br/2016/11/programas/15563009143717446.png" group-title="Canais Esportes", Ei Plus SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/81108.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/81108.ts
 #EXTINF: -1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD¹" tvg-logo="https://logodix.com/logo/1870667.png" group-title="Canais Esportes", ESPN 2 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1617.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1617.ts
 #EXTINF: -1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD¹" tvg-logo="https://logodix.com/logo/1870667.png" group-title="Canais Esportes", ESPN 2 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1618.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1618.ts
 #EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais Esportes", ESPN Brasil HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1615.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1615.ts
 #EXTINF: -1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais Esportes", ESPN Brasil SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1616.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1616.ts
 #EXTINF: -1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD¹" tvg-logo="http://www.atualeletronica.com.br/sistema/images/01042019-122106-banners-pacotes-opcionais-espn-extra.png" group-title="Canais Esportes", ESPN Extra HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1609.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1609.ts
 #EXTINF: -1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD¹" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Canais Esportes", ESPN HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1612.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1612.ts
 #EXTINF: -1 tvg-id="ESPNInternational.br" tvg-name="ESPN SD¹" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Canais Esportes", ESPN SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1619.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1619.ts
 #EXTINF: -1 tvg-name="FlaTV" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais Esportes", FlaTV
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/72754.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/72754.ts
 #EXTINF: -1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png" group-title="Canais Esportes", Fox Sports 2 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1588.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1588.ts
 #EXTINF: -1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png" group-title="Canais Esportes", Fox Sports 2 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1592.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1592.ts
 #EXTINF: -1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais Esportes", Fox Sports HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1586.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1586.ts
 #EXTINF: -1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="Canais Esportes", Fox Sports SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1593.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1593.ts
 #EXTINF: -1 tvg-id="The Golf Channel [Brazil]" tvg-name="Golf Channel HD¹" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OUvjSSpZL.png" group-title="Canais Esportes", Golf Channel HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73481.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73481.ts
 #EXTINF: -1 tvg-id="Nhkworld.br" tvg-name="NHK " tvg-logo="https://seeklogo.com/images/N/nhk-helmet-logo-0388D34C51-seeklogo.com.png" group-title="Canais Esportes", NHK
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1506.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1506.ts
 #EXTINF: -1 tvg-id="RAI International [Brazil]" tvg-name="RAI Internacional HD¹ " tvg-logo="http://207.38.85.192/logos/Canais/Rai-Internacional.png" group-title="Canais Esportes", RAI Internacional HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73496.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/73496.ts
 #EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Canais Esportes", SporTV 2 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1438.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1438.ts
 #EXTINF: -1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD¹" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Canais Esportes", SporTV 2 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1439.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1439.ts
 #EXTINF: -1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD¹" tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="Canais Esportes", SporTV 3 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1436.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1436.ts
 #EXTINF: -1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD¹" tvg-logo="https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png" group-title="Canais Esportes", SporTV 3 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1437.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1437.ts
 #EXTINF: -1 tvg-id="Sportv.br" tvg-name="SporTV HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1.png" group-title="Canais Esportes", SporTV HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1435.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1435.ts
 #EXTINF: -1 tvg-id="Sportv.br" tvg-name="SporTV SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1.png" group-title="Canais Esportes", SporTV SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1440.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1440.ts
 #EXTINF: -1 tvg-name="Cine SKY 1 FullHD¹" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Cine SKY", Cine SKY 1 FullHD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71612.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71612.ts
 #EXTINF: -1 tvg-name="Cine SKY 2 FullHD¹" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Cine SKY", Cine SKY 2 FullHD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71613.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71613.ts
 #EXTINF: -1 tvg-name="Cine SKY 3 FullHD¹" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Cine SKY", Cine SKY 3 FullHD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71802.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71802.ts
 #EXTINF: -1 tvg-name="Cine SKY 4 FullHD¹" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Cine SKY", Cine SKY 4 FullHD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71803.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71803.ts
 #EXTINF: -1 tvg-name="Cine SKY 5 FullHD¹" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Cine SKY", Cine SKY 5 FullHD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71804.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/71804.ts
 #EXTINF: -1 tvg-name="CONMEBOL TV (JOGO 1)" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/01/capa.png" group-title="Canais Esportes Alternativo", CONMEBOL TV (JOGO 1)
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78682.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78682.ts
 #EXTINF: -1 tvg-name="CONMEBOL TV (JOGO 2)" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/01/capa.png" group-title="Canais Esportes Alternativo", CONMEBOL TV (JOGO 2)
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78683.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78683.ts
 #EXTINF: -1 tvg-name="CONMEBOL TV (JOGO 3)" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/01/capa.png" group-title="Canais Esportes Alternativo", CONMEBOL TV (JOGO 3)
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78817.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78817.ts
 #EXTINF: -1 tvg-name="CONMEBOL TV (JOGO 4)" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/01/capa.png" group-title="Canais Esportes Alternativo", CONMEBOL TV (JOGO 4)
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78818.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78818.ts
 #EXTINF: -1 tvg-name="Furacão TV HD¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwclreCuznFX4cRFPioUrz0oF7T89pxR4-UA&usqp=CAU" group-title="Canais Esportes Alternativo", Furacão TV HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78680.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78680.ts
 #EXTINF: -1 tvg-name="Futebol HD¹" group-title="Canais Esportes Alternativo", Futebol HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78681.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78681.ts
 #EXTINF: -1 tvg-name="Liga Futsal 2020" tvg-logo="https://imagens.ebc.com.br/Swjb9kBAAPKzEJl1GkEqoE8--5s=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tv_brasil_liga_nacional_de_futsal_2020_futsal_institucional.jpg?itok=snhnXncq" group-title="Canais Esportes Alternativo", Liga Futsal 2020
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78378.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/78378.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|CANAIS HBO & MAX|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD¹" tvg-logo="https://logodix.com/logo/1265609.png" group-title="Canais HBO", HBO 2 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1563.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1563.ts
 #EXTINF: -1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD¹" tvg-logo="https://logodix.com/logo/1265609.png" group-title="Canais HBO", HBO 2 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1555.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1555.ts
 #EXTINF: -1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais HBO", HBO Family HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1561.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1561.ts
 #EXTINF: -1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais HBO", HBO Family SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1562.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1562.ts
 #EXTINF: -1 tvg-id="Hbo.br" tvg-name="HBO HD¹" tvg-logo="https://www.pinclipart.com/picdir/middle/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Canais HBO", HBO HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1560.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1560.ts
 #EXTINF: -1 tvg-id="Max.br" tvg-name="HBO Mundi HD¹" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="Canais HBO", HBO Mundi HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52688.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52688.ts
 #EXTINF: -1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO", HBO Plus HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1558.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1558.ts
 #EXTINF: -1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO", HBO Plus SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1559.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1559.ts
 #EXTINF: -1 tvg-id="Maxup.br" tvg-name="HBO POP HD¹" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="Canais HBO", HBO POP HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52689.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52689.ts
 #EXTINF: -1 tvg-id="Hbo.br" tvg-name="HBO SD¹" tvg-logo="https://www.pinclipart.com/picdir/middle/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Canais HBO", HBO SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1564.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1564.ts
 #EXTINF: -1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="Canais HBO", HBO Signature HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1556.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1556.ts
 #EXTINF: -1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="Canais HBO", HBO Signature SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1557.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1557.ts
 #EXTINF: -1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD¹" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="Canais HBO", HBO Xtreme HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52690.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/52690.ts
 #EXTINF: -1 tvg-id="Max" tvg-name="Max HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_max_m.png" group-title="Canais HBO", Max HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1534.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1534.ts
 #EXTINF: -1 tvg-id="Max Prime" tvg-name="MAX Prime HD¹" tvg-logo="https://4.bp.blogspot.com/-W0ZMXcsdbyU/XJp8dPOI0dI/AAAAAAABTRs/E8_OZakFENcYnnxh07SX9_J7Gwq__CU-ACLcBGAs/s640/maxprimeb.png" group-title="Canais HBO", MAX Prime HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1532.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1532.ts
 #EXTINF: -1 tvg-id="Max Prime" tvg-name="MAX Prime SD¹" tvg-logo="https://4.bp.blogspot.com/-W0ZMXcsdbyU/XJp8dPOI0dI/AAAAAAABTRs/E8_OZakFENcYnnxh07SX9_J7Gwq__CU-ACLcBGAs/s640/maxprimeb.png" group-title="Canais HBO", MAX Prime SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1533.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1533.ts
 #EXTINF: -1 tvg-id="Max" tvg-name="MAX SD¹" tvg-logo="https://cdn.mitvstatic.com/channels/br_max_m.png" group-title="Canais HBO", MAX SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1535.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1535.ts
 #EXTINF: -1 tvg-id="Max UP" tvg-name="MAX UP HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="Canais HBO", MAX UP HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1530.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1530.ts
 #EXTINF: -1 tvg-id="Max UP" tvg-name="MAX UP SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="Canais HBO", MAX UP SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1531.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1531.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|CANAIS PREMIERE|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="Premiere2.br" tvg-name="Premiere 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1490.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1490.ts
 #EXTINF: -1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1489.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1489.ts
 #EXTINF: -1 tvg-id="Premiere3.br" tvg-name="Premiere 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 3
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1488.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1488.ts
 #EXTINF: -1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1487.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1487.ts
 #EXTINF: -1 tvg-name="Premiere 4 FullHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="Canais Premiere", Premiere 4 FullHD H264
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/81131.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/81131.ts
 #EXTINF: -1 tvg-id="Ae.br" tvg-name="Premiere 4 HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 4 HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1485.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1485.ts
 #EXTINF: -1 tvg-id="Ae.br" tvg-name="Premiere 4 SD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 4 SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1486.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1486.ts
 #EXTINF: -1 tvg-id="Premiere5.br" tvg-name="Premiere 5" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 5
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1484.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1484.ts
 #EXTINF: -1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1483.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1483.ts
 #EXTINF: -1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1481.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1481.ts
 #EXTINF: -1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1479.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1479.ts
 #EXTINF: -1 tvg-id="Premiere8.br" tvg-name="Premiere 8" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 8
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1478.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1478.ts
 #EXTINF: -1 tvg-id="Premiere9.br" tvg-name="Premiere 9" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Canais Premiere", Premiere 9
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1477.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1477.ts
 #EXTINF: -1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD¹" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="Canais Premiere", Premiere Clubes HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1474.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1474.ts
 #EXTINF: -1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes SD¹" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="Canais Premiere", Premiere Clubes SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1476.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1476.ts
 #EXTINF: -1 tvg-name="Premiere Mosaico HD¹" group-title="Canais Premiere", Premiere Mosaico HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/79448.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/79448.ts
 
 #EXTINF:-1, [COLOR blue][B]##########|CANAIS TELECINE|##########[/B][/COLOR]
 http://127.0.0.1
 
 #EXTINF: -1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD¹" tvg-logo="https://i.imgur.com/sxdUWp4.png" group-title="Canais Telecine", Telecine Action HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1420.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1420.ts
 #EXTINF: -1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD¹" tvg-logo="https://i.imgur.com/sxdUWp4.png" group-title="Canais Telecine", Telecine Action SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1421.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1421.ts
 #EXTINF: -1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD¹" tvg-logo="http://207.38.85.192/logos/Canais/TC%20Cult.png" group-title="Canais Telecine", Telecine Cult HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1418.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1418.ts
 #EXTINF: -1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD¹" tvg-logo="http://207.38.85.192/logos/Canais/TC%20Cult.png" group-title="Canais Telecine", Telecine Cult SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1419.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1419.ts
 #EXTINF: -1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD¹" tvg-logo="https://i.imgur.com/9wIElTJ.png" group-title="Canais Telecine", Telecine Fun HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1416.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1416.ts
 #EXTINF: -1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD¹" tvg-logo="https://i.imgur.com/9wIElTJ.png" group-title="Canais Telecine", Telecine Fun SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1417.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1417.ts
 #EXTINF: -1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD¹" tvg-logo="https://i.imgur.com/3Bgedcv.png" group-title="Canais Telecine", Telecine Pipoca HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1414.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1414.ts
 #EXTINF: -1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD¹" tvg-logo="https://i.imgur.com/3Bgedcv.png" group-title="Canais Telecine", Telecine Pipoca SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1415.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1415.ts
 #EXTINF: -1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD¹" tvg-logo="https://i.imgur.com/eRcaiDz.png" group-title="Canais Telecine", Telecine Premium HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1412.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1412.ts
 #EXTINF: -1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD¹" tvg-logo="https://i.imgur.com/eRcaiDz.png" group-title="Canais Telecine", Telecine Premium SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1413.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1413.ts
 #EXTINF: -1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD¹" tvg-logo="https://i.imgur.com/DIxhraf.png" group-title="Canais Telecine", Telecine Touch HD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1410.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1410.ts
 #EXTINF: -1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD¹" tvg-logo="https://i.imgur.com/DIxhraf.png" group-title="Canais Telecine", Telecine Touch SD¹
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1411.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://ddns.phdtv.club:80/live/Nazareth273848/Jdudh373774/1411.ts
