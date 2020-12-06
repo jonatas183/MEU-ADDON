@@ -18,7 +18,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]DESENHOS | SÉRIES 24H[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]DESENHOS 24H[/B][/COLOR]</name>
 <thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20DESENHOS%20%7C%20S%C3%89RIES%2024H</externallink>
 <fanart></fanart>
@@ -29,11 +29,28 @@
 [COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
 [COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
 
+##########•|FILMES & SÉRIES 24H|•##########
+
+<channels>
+<channel>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR yellow][B]●[/B][/COLOR] [COLOR white][B]FILMES & SÉRIES 24H[/B][/COLOR]</name>
+<thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
+<externallink>http://</externallink>
+<fanart></fanart>
+<info>[COLOR yellow][B]OPÇÃO INDISPONÍVEL NO MOMENTO.[/B][/COLOR]
+
+[COLOR white][B]Pontos em:[/B][/COLOR]
+
+[COLOR green][B]VERDE[/B][/COLOR] - Online
+[COLOR red][B]VERMELHO[/B][/COLOR] - Offline
+[COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
+[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
+
 ##########•|FILMES_LANÇAMENTO|•##########
 
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20FILMES</externallink>
 <fanart></fanart>
@@ -49,7 +66,7 @@
 ##########•|SÉRIES•##########
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20S%C3%89RIES</externallink>
 <fanart></fanart>
@@ -63,7 +80,7 @@
 ##########•|ANIMES|•##########
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]ANIMES[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]ANIMES[/B][/COLOR]</name>
 <thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20ANIMES</externallink>
 <fanart></fanart>
