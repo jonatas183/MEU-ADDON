@@ -26,7 +26,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR][COLOR white][B] DESENHOS 24H[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR]</name>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR yellow][B]●[/B][/COLOR][COLOR white][B] SÉRIES 24H[/B][/COLOR] | [COLOR white][B]OPÇÃO 1[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -35,7 +35,15 @@
 
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR][COLOR white][B] DESENHOS 24H[/B][/COLOR] | [COLOR white][B]OPÇÃO 5[/B][/COLOR]</name>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR yellow][B]●[/B][/COLOR][COLOR white][B] SÉRIES 24H[/B][/COLOR] | [COLOR white][B]OPÇÃO 2[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info></info>
+
+<channels>
+<channel>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR yellow][B]●[/B][/COLOR][COLOR white][B] SÉRIES 24H[/B][/COLOR] | [COLOR white][B]OPÇÃO 3[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
