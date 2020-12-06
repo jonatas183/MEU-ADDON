@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-name="Cine Faroeste 24H Ultra HD" tvg-logo="https://imgur.com/zgUzOG9.png" group-title="Filmes e Séries 24H", Cine Faroeste 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/11379.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://imgur.com/fP9SNrP.png" group-title="Filmes e Séries 24H", Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/11214.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="https://i.imgur.com/jkcWRt1.png" group-title="Filmes e Séries 24H", Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/11077.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Drama 24H Ultra HD" tvg-logo="https://i.imgur.com/U0xxlhl.png" group-title="Filmes e Séries 24H", Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/5849.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="https://imgur.com/U3aBfTl.png" group-title="Filmes e Séries 24H", Cine Aventura 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/5437.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Action 24H Ultra HD" tvg-logo="https://imgur.com/NI298L1.png" group-title="Filmes e Séries 24H", Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3473.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Fun 24H Ultra HD" tvg-logo="https://i.imgur.com/GbJ8bHf.png" group-title="Filmes e Séries 24H", Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3471.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine kids 24H Ultra HD" tvg-logo="https://imgur.com/IOdqoZW.png" group-title="Filmes e Séries 24H", Cine kids 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3470.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Horror 24H Ultra HD" tvg-logo="https://i.imgur.com/mEoGZNs.png" group-title="Filmes e Séries 24H", Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3469.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Family 24H" tvg-logo="https://imgur.com/B2eBfie.png" group-title="Filmes e Séries 24H", Cine Family 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3472.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Cine Nacionais 24H" tvg-logo="https://i.imgur.com/ag0no0I.png" group-title="Filmes e Séries 24H", Cine Nacionais 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/7174.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="MARVEL & DC 24H" tvg-logo="https://i.imgur.com/hvvIPP8.png" group-title="Filmes e Séries 24H", MARVEL & DC 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/9769.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Friends 24H Ultra HD" tvg-logo="https://imgur.com/JQLDzS1.png" group-title="Filmes e Séries 24H", Friends 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/11346.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Eu a patroa e as crianças 24H Ultra HD" tvg-logo="https://i.imgur.com/q81OPmz.png" group-title="Filmes e Séries 24H", Eu a patroa e as crianças 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/11345.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Chapolin 24H" tvg-logo="https://i.imgur.com/ZjFDSiU.png" group-title="Filmes e Séries 24H", Chapolin 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/13928.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Chapolin 2 24H" tvg-logo="https://i.imgur.com/ZjFDSiU.png" group-title="Filmes e Séries 24H", Chapolin 2 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/14158.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Os 3 patetas 24H" tvg-logo="https://imgur.com/4LQJaUA.png" group-title="Filmes e Séries 24H", Os 3 patetas 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/13602.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Um Maluco No Pedaco  24H" tvg-logo="https://i.imgur.com/84d7mrL.png" group-title="Filmes e Séries 24H", Um Maluco No Pedaco  24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/10170.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Futurama 24H" tvg-logo="https://imgur.com/lnAF1rk.png" group-title="Filmes e Séries 24H", Futurama 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3957.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="MR. Bean 24H" tvg-logo="https://i.imgur.com/H551cWB.jpg" group-title="Filmes e Séries 24H", MR. Bean 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3653.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Canal CSI 24H" tvg-logo="https://i.imgur.com/KgO1oIC.png" group-title="Filmes e Séries 24H", Canal CSI 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3646.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="https://imgur.com/LVZcGvG.png" group-title="Filmes e Séries 24H", Como eu Conheci a Sua Mae  24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3647.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Dr. House 1 24H" tvg-logo="https://imgur.com/IGMGqJz.png" group-title="Filmes e Séries 24H", Dr. House 1 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3650.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Dr. House 2 24H" tvg-logo="https://imgur.com/IGMGqJz.png" group-title="Filmes e Séries 24H", Dr. House 2 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/14557.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="The Big Bang Theory 24H" tvg-logo="https://i.imgur.com/IhyMTkZ.png" group-title="Filmes e Séries 24H", The Big Bang Theory 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3652.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Two And a Half Man 24H" tvg-logo="https://i.imgur.com/43EJAZG.jpg" group-title="Filmes e Séries 24H", Two And a Half Man 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3649.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="South Park 24H" tvg-logo="https://i.imgur.com/Dlv7B4b.png" group-title="Filmes e Séries 24H", South Park 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/7744.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Todo Mundo Odeia o Chris 24H" tvg-logo="https://i.imgur.com/7LL2YB9.jpg" group-title="Filmes e Séries 24H", Todo Mundo Odeia o Chris 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/3271.ts?tkn=1606756222
+#EXTINF: -1 tvg-name="Chaves 24H" tvg-logo="https://i.imgur.com/m65oGQv.png" group-title="Filmes e Séries 24H", Chaves 24H
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/live/zedodrone2/6B3GH14NT/4656.ts?tkn=1606756222
