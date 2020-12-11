@@ -1,0 +1,871 @@
+#EXTM3U 
+
+#EXTINF:-1, [COLOR blue][B]##########|FILMES E SÉRIES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2346.m3u8
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26420.m3u8
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7088.m3u8
+#EXTINF: -1 tvg-id="A&E HD" tvg-name="A&E HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13682.m3u8
+#EXTINF: -1 tvg-id="A&E HD" tvg-name="A&E HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7494.m3u8
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13681.m3u8
+#EXTINF: -1 tvg-id="A&E" tvg-name="A&E [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/A&E.png" group-title="Canais: Filmes e Series", A&E [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7495.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2345.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26421.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2344.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13686.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7492.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13683.m3u8
+#EXTINF: -1 tvg-id="AMC" tvg-name="AMC [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/amc.png" group-title="Canais: Filmes e Series", AMC [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7493.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2338.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2337.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13698.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7486.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13697.m3u8
+#EXTINF: -1 tvg-id="AXN" tvg-name="AXN [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/AXN1.png" group-title="Canais: Filmes e Series", AXN [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7487.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series", Canal Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7472.m3u8
+#EXTINF: -1 tvg-id="Canal Brasil" tvg-name="Canal Brasil [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/CanalBrasil1.png" group-title="Canais: Filmes e Series", Canal Brasil [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7473.m3u8
+#EXTINF: -1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series", Canal Sony
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2325.m3u8
+#EXTINF: -1 tvg-id="Canal Sony" tvg-name="Canal Sony HD" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series", Canal Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2324.m3u8
+#EXTINF: -1 tvg-id="Canal Sony" tvg-name="Canal Sony HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series", Canal Sony HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7470.m3u8
+#EXTINF: -1 tvg-id="Canal Sony" tvg-name="Canal Sony [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sony1.png" group-title="Canais: Filmes e Series", Canal Sony [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7471.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 1" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/33865.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 2" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/33866.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 3" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/33867.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 4" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/33868.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 5" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/33915.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 6" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35004.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 7" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35005.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 8" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 8
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36209.m3u8
+#EXTINF: -1 tvg-name="Cine Sky 9" tvg-logo="http://logocanais.ddns.net/Logo/cinesky.png" group-title="Canais: Filmes e Series", Cine Sky 9
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36210.m3u8
+#EXTINF: -1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series", Cinemax
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2320.m3u8
+#EXTINF: -1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series", Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7089.m3u8
+#EXTINF: -1 tvg-id="Cinemax" tvg-name="Cinemax HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series", Cinemax HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7465.m3u8
+#EXTINF: -1 tvg-id="Cinemax" tvg-name="Cinemax [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Cinemax1.png" group-title="Canais: Filmes e Series", Cinemax [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7466.m3u8
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series", FOX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2292.m3u8
+#EXTINF: -1 tvg-id="FOX FHD" tvg-name="FOX FHD" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series", FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7186.m3u8
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series", FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2291.m3u8
+#EXTINF: -1 tvg-id="FOX HD" tvg-name="FOX HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series", FOX HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7415.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series", Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26445.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png" group-title="Canais: Filmes e Series", Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2288.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium.png" group-title="Canais: Filmes e Series", Fox Premium 1 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7411.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series", Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7144.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series", Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2287.m3u8
+#EXTINF: -1 tvg-id="Fox Premium 2 HD" tvg-name="Fox Premium 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxPremium22.png" group-title="Canais: Filmes e Series", Fox Premium 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7409.m3u8
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Filmes e Series", FOX [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7416.m3u8
+#EXTINF: -1 tvg-id="FX" tvg-name="FX" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series", FX
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2281.m3u8
+#EXTINF: -1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series", FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2280.m3u8
+#EXTINF: -1 tvg-id="FX" tvg-name="FX HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series", FX HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7401.m3u8
+#EXTINF: -1 tvg-id="FX" tvg-name="FX [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/fx1.png" group-title="Canais: Filmes e Series", FX [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7402.m3u8
+#EXTINF: -1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2267.m3u8
+#EXTINF: -1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2266.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7182.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2265.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO 2 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13673.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7360.m3u8
+#EXTINF: -1 tvg-id="HBO 2 [Alter]" tvg-name="HBO 2 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13672.m3u8
+#EXTINF: -1 tvg-id="HBO 2" tvg-name="HBO 2 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBO21.png" group-title="Canais: Filmes e Series", HBO 2 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7361.m3u8
+#EXTINF: -1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2264.m3u8
+#EXTINF: -1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2263.m3u8
+#EXTINF: -1 tvg-id="HBO Family HD" tvg-name="HBO Family HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13675.m3u8
+#EXTINF: -1 tvg-id="HBO Family HD" tvg-name="HBO Family HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7358.m3u8
+#EXTINF: -1 tvg-id="HBO Family" tvg-name="HBO Family [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13674.m3u8
+#EXTINF: -1 tvg-id="HBO Family" tvg-name="HBO Family [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HboFamily1.png" group-title="Canais: Filmes e Series", HBO Family [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7359.m3u8
+#EXTINF: -1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7181.m3u8
+#EXTINF: -1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2262.m3u8
+#EXTINF: -1 tvg-id="HBO 2 [Alter]" tvg-name="HBO HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13671.m3u8
+#EXTINF: -1 tvg-id="HBO HD" tvg-name="HBO HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7357.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Mundi" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series", HBO Mundi
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2250.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Mundi HD" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series", HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7091.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Mundi HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series", HBO Mundi HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7342.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Mundi [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Max1.png" group-title="Canais: Filmes e Series", HBO Mundi [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7343.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus" tvg-logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Filmes e Series", HBO Plus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2261.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus HD" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series", HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2259.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series", HBO Plus HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13677.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HboPluse1.png" group-title="Canais: Filmes e Series", HBO Plus HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7354.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Filmes e Series", HBO Plus [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13676.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Plus [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBOPlus1.png" group-title="Canais: Filmes e Series", HBO Plus [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7356.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Pop HD" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series", HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7093.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Pop HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series", HBO Pop HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7337.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Pop UP" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series", HBO Pop UP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2247.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Pop [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MaxUP1.png" group-title="Canais: Filmes e Series", HBO Pop [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7338.m3u8
+#EXTINF: -1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2258.m3u8
+#EXTINF: -1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2257.m3u8
+#EXTINF: -1 tvg-id="HBO Signature" tvg-name="HBO Signature HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13680.m3u8
+#EXTINF: -1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7352.m3u8
+#EXTINF: -1 tvg-id="HBO Signature" tvg-name="HBO Signature [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13679.m3u8
+#EXTINF: -1 tvg-id="HBO Signature" tvg-name="HBO Signature [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBOSignature1.png" group-title="Canais: Filmes e Series", HBO Signature [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7353.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Xtreme" tvg-logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series", HBO Xtreme
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2249.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Xtreme HD" tvg-logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series", HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7092.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Xtreme HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series", HBO Xtreme HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7339.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="HBO Xtreme [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/MaxPrime1.png" group-title="Canais: Filmes e Series", HBO Xtreme [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7341.m3u8
+#EXTINF: -1 tvg-id="HBO" tvg-name="HBO [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13670.m3u8
+#EXTINF: -1 tvg-id="HBO" tvg-name="HBO [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/HBO1.png" group-title="Canais: Filmes e Series", HBO [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7362.m3u8
+#EXTINF: -1 tvg-id="Example" tvg-name="I-SAT" tvg-logo="http://logocanais.ddns.net/Logo/isat1.png" group-title="Canais: Filmes e Series", I-SAT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2255.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2246.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2245.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13720.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7335.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13719.m3u8
+#EXTINF: -1 tvg-id="Megapix" tvg-name="Megapix [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: Filmes e Series", Megapix [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7336.m3u8
+#EXTINF: -1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series", Paramount
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2228.m3u8
+#EXTINF: -1 tvg-id="Paramount" tvg-name="Paramount  HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series", Paramount  HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7314.m3u8
+#EXTINF: -1 tvg-id="Paramount" tvg-name="Paramount HD" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series", Paramount HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2227.m3u8
+#EXTINF: -1 tvg-id="Paramount" tvg-name="Paramount [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Paramount1.png" group-title="Canais: Filmes e Series", Paramount [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7315.m3u8
+#EXTINF: -1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://logocanais.ddns.net/Logo/PrimeBoxBrasil1.png" group-title="Canais: Filmes e Series", Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2210.m3u8
+#EXTINF: -1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PrimeBoxBrasil1.png" group-title="Canais: Filmes e Series", Prime Box Brazil [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7299.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2193.m3u8
+#EXTINF: -1 tvg-id="Space HD" tvg-name="Space FHD" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36122.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2192.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13718.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7281.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13717.m3u8
+#EXTINF: -1 tvg-id="Space" tvg-name="Space [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: Filmes e Series", Space [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7282.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Studio Universal
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2185.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7096.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Studio Universal HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Studio Universal HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7273.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Studio Universal [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Studio Universal [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7274.m3u8
+#EXTINF: -1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series", Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2184.m3u8
+#EXTINF: -1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series", Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2124.m3u8
+#EXTINF: -1 tvg-id="Syfy" tvg-name="Syfy HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series", Syfy HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7283.m3u8
+#EXTINF: -1 tvg-id="Syfy" tvg-name="Syfy [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/SYFY1.png" group-title="Canais: Filmes e Series", Syfy [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7284.m3u8
+#EXTINF: -1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series", TBS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2183.m3u8
+#EXTINF: -1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://logocanais.ddns.net/Logo/tbs1.png" group-title="Canais: Filmes e Series", TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2182.m3u8
+#EXTINF: -1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://logocanais.ddns.net/Logo/TCM1.png" group-title="Canais: Filmes e Series", TCM
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2181.m3u8
+#EXTINF: -1 tvg-id="TCM" tvg-name="TCM HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TCM1.png" group-title="Canais: Filmes e Series", TCM HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26380.m3u8
+#EXTINF: -1 tvg-id="TCM" tvg-name="TCM [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TCM1.png" group-title="Canais: Filmes e Series", TCM [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7268.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2180.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7177.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2179.m3u8
+#EXTINF: -1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13659.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7266.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13658.m3u8
+#EXTINF: -1 tvg-id="Telecine Action" tvg-name="Telecine Action [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineAction1.png" group-title="Canais: Filmes e Series", Telecine Action [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7267.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2178.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2122.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13661.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7264.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13660.m3u8
+#EXTINF: -1 tvg-id="Telecine Cult" tvg-name="Telecine Cult [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineCult1.png" group-title="Canais: Filmes e Series", Telecine Cult [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7265.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2177.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7176.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2176.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13663.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7262.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13662.m3u8
+#EXTINF: -1 tvg-id="Telecine Fun" tvg-name="Telecine Fun [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineFun1.png" group-title="Canais: Filmes e Series", Telecine Fun [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7263.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2175.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7175.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2174.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13665.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7260.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca [Alter]" tvg-name="Telecine Pipoca [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13664.m3u8
+#EXTINF: -1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePipoca1.png" group-title="Canais: Filmes e Series", Telecine Pipoca [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7261.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2173.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7174.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2172.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13667.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7258.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13666.m3u8
+#EXTINF: -1 tvg-id="Telecine Premium" tvg-name="Telecine Premium [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecinePremium1.png" group-title="Canais: Filmes e Series", Telecine Premium [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7259.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2171.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch FHD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7173.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2170.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch HD [Alter]" tvg-name="Telecine Touch HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13669.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7256.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13668.m3u8
+#EXTINF: -1 tvg-id="Telecine Touch" tvg-name="Telecine Touch [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/TelecineTouch1.png" group-title="Canais: Filmes e Series", Telecine Touch [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7257.m3u8
+#EXTINF: -1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series", TNT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2166.m3u8
+#EXTINF: -1 tvg-name="TNT FHD" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series", TNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36121.m3u8
+#EXTINF: -1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series", TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2165.m3u8
+#EXTINF: -1 tvg-id="TNT HD" tvg-name="TNT HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series", TNT HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7251.m3u8
+#EXTINF: -1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series", TNT Series
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2164.m3u8
+#EXTINF: -1 tvg-id="TNT Series" tvg-name="TNT Series HD" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series", TNT Series HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2163.m3u8
+#EXTINF: -1 tvg-id="TNT Series" tvg-name="TNT Series HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series", TNT Series HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7249.m3u8
+#EXTINF: -1 tvg-id="TNT Series" tvg-name="TNT Series [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: Filmes e Series", TNT Series [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7250.m3u8
+#EXTINF: -1 tvg-id="TNT" tvg-name="TNT [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: Filmes e Series", TNT [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7252.m3u8
+#EXTINF: -1 tvg-name="TR Cine Lançamentos 1" tvg-logo="http://logocanais.ddns.net/Logo/tr32.jpg" group-title="Canais: Filmes e Series", TR Cine Lançamentos 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26503.m3u8
+#EXTINF: -1 tvg-name="TR Cine Lançamentos 2" tvg-logo="http://logocanais.ddns.net/Logo/tr33.jpg" group-title="Canais: Filmes e Series", TR Cine Lançamentos 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26504.m3u8
+#EXTINF: -1 tvg-name="TR Faroeste" tvg-logo="http://logocanais.ddns.net/Logo/tr17.jpg" group-title="Canais: Filmes e Series", TR Faroeste
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26495.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Universal Channel" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Universal Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2155.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Universal Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Universal Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7235.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Universal Channel [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Universal Channel [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7236.m3u8
+#EXTINF: -1 tvg-id="Studio Universal" tvg-name="Universal Channels HD" tvg-logo="http://logocanais.ddns.net/Logo/universalchannel1.png" group-title="Canais: Filmes e Series", Universal Channels HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2154.m3u8
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series", Warner Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2150.m3u8
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="Warner Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series", Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7140.m3u8
+#EXTINF: -1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series", Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2149.m3u8
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="Warner Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series", Warner Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7228.m3u8
+#EXTINF: -1 tvg-id="Warner Channel" tvg-name="Warner Channel [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/warner1.png" group-title="Canais: Filmes e Series", Warner Channel [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7229.m3u8
+
+#EXTINF:-1, [COLOR blue][B]##########|CANAIS 4K|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-name="Animal Planet 4K" tvg-logo="http://logocanais.ddns.net/Logo/AnimalPlanet.png" group-title="Canais: 4K", Animal Planet 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26411.m3u8
+#EXTINF: -1 tvg-name="Band 4k" tvg-logo="http://logocanais.ddns.net/Logo/Band.png" group-title="Canais: 4K", Band 4k
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26404.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate 4K" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: 4K", Combate 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/22155.m3u8
+#EXTINF: -1 tvg-name="Discovery Channel 4K" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryChannel1.png" group-title="Canais: 4K", Discovery Channel 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26407.m3u8
+#EXTINF: -1 tvg-name="ESPN 4K" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: 4K", ESPN 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26418.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 2 4K" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: 4K", Fox Sports 2 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26845.m3u8
+#EXTINF: -1 tvg-name="Fox Sports 4K" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: 4K", Fox Sports 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26409.m3u8
+#EXTINF: -1 tvg-name="Globo 4k" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: 4K", Globo 4k
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26448.m3u8
+#EXTINF: -1 tvg-name="Megapix 4K" tvg-logo="http://logocanais.ddns.net/Logo/Megapix1.png" group-title="Canais: 4K", Megapix 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26414.m3u8
+#EXTINF: -1 tvg-name="Multishow 4K" tvg-logo="http://logocanais.ddns.net/Logo/Multishow1.png" group-title="Canais: 4K", Multishow 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26412.m3u8
+#EXTINF: -1 tvg-name="Nat Geo 4K" tvg-logo="http://logocanais.ddns.net/Logo/Natgeowild1.png" group-title="Canais: 4K", Nat Geo 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26416.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes FHD" tvg-name="Premiere Clubes 4K" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: 4K", Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/22156.m3u8
+#EXTINF: -1 tvg-name="Record 4K" tvg-logo="http://logocanais.ddns.net/Logo/Record1.png" group-title="Canais: 4K", Record 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26405.m3u8
+#EXTINF: -1 tvg-name="Rede TV 4K" tvg-logo="http://logocanais.ddns.net/Logo/RedeTv1.png" group-title="Canais: 4K", Rede TV 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26406.m3u8
+#EXTINF: -1 tvg-name="SBT 4K" tvg-logo="http://logocanais.ddns.net/Logo/SBT1.png" group-title="Canais: 4K", SBT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26410.m3u8
+#EXTINF: -1 tvg-name="Space 4K" tvg-logo="http://logocanais.ddns.net/Logo/space1.png" group-title="Canais: 4K", Space 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26419.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="Sportv 4K" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: 4K", Sportv 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/22157.m3u8
+#EXTINF: -1 tvg-name="TNT 4K" tvg-logo="http://logocanais.ddns.net/Logo/tnt1.png" group-title="Canais: 4K", TNT 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26408.m3u8
+#EXTINF: -1 tvg-name="TNT Series 4K" tvg-logo="http://logocanais.ddns.net/Logo/tntseries1.png" group-title="Canais: 4K", TNT Series 4K
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26417.m3u8
+
+#EXTINF:-1, [COLOR blue][B]##########|INFANTIL|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://logocanais.ddns.net/Logo/BabyTV.png" group-title="Canais: Infantil", Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2336.m3u8
+#EXTINF: -1 tvg-id="Baby TV" tvg-name="Baby TV [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/BabyTV.png" group-title="Canais: Infantil", Baby TV [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7485.m3u8
+#EXTINF: -1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil", Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2328.m3u8
+#EXTINF: -1 tvg-id="Boomerang" tvg-name="Boomerang  FHD" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil", Boomerang  FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7149.m3u8
+#EXTINF: -1 tvg-id="Boomerang" tvg-name="Boomerang HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil", Boomerang HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7474.m3u8
+#EXTINF: -1 tvg-id="Boomerang" tvg-name="Boomerang [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Boomerang1.png" group-title="Canais: Infantil", Boomerang [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7475.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2322.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26423.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2321.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13702.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network HD [Alter]" tvg-name="Cartoon Network HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7467.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network" tvg-name="Cartoon Network [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13701.m3u8
+#EXTINF: -1 tvg-id="Cartoon Network [Alter]" tvg-name="Cartoon Network [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/CartoonNetwork1.png" group-title="Canais: Infantil", Cartoon Network [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7468.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2312.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids FHD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7147.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids FHD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26426.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2146.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13710.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7451.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids" tvg-name="Discovery Kids [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13709.m3u8
+#EXTINF: -1 tvg-id="Discovery Kids" tvg-name="Discovery Kids [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="Canais: Infantil", Discovery Kids [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7452.m3u8
+#EXTINF: -1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil", Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2307.m3u8
+#EXTINF: -1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil", Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7161.m3u8
+#EXTINF: -1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil", Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2128.m3u8
+#EXTINF: -1 tvg-id="Disney Channel" tvg-name="Disney Channel HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil", Disney Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7441.m3u8
+#EXTINF: -1 tvg-id="Disney Channel [Alter]" tvg-name="Disney Channel [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/disney1.png" group-title="Canais: Infantil", Disney Channel [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7442.m3u8
+#EXTINF: -1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil", Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2306.m3u8
+#EXTINF: -1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil", Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13795.m3u8
+#EXTINF: -1 tvg-id="Disney Junior" tvg-name="Disney Junior HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil", Disney Junior HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26377.m3u8
+#EXTINF: -1 tvg-id="Disney Junior" tvg-name="Disney Junior [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DisneyJunior1.png" group-title="Canais: Infantil", Disney Junior [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7440.m3u8
+#EXTINF: -1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil", Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2305.m3u8
+#EXTINF: -1 tvg-id="Disney XD" tvg-name="Disney XD HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil", Disney XD HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26376.m3u8
+#EXTINF: -1 tvg-id="Disney XD" tvg-name="Disney XD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/DisneyXD1.png" group-title="Canais: Infantil", Disney XD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7439.m3u8
+#EXTINF: -1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil", Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2272.m3u8
+#EXTINF: -1 tvg-id="Gloob HD" tvg-name="Gloob FHD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil", Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7155.m3u8
+#EXTINF: -1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil", Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2142.m3u8
+#EXTINF: -1 tvg-id="Gloob" tvg-name="Gloob HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil", Gloob HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7369.m3u8
+#EXTINF: -1 tvg-id="Gloob" tvg-name="Gloob [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Gloob1.png" group-title="Canais: Infantil", Gloob [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7370.m3u8
+#EXTINF: -1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil", NatGeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2240.m3u8
+#EXTINF: -1 tvg-id="NatGeo Kids HD" tvg-name="NatGeo Kids HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil", NatGeo Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7325.m3u8
+#EXTINF: -1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/natgeokids1.png" group-title="Canais: Infantil", NatGeo Kids [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7326.m3u8
+#EXTINF: -1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil", Nick Jr
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2233.m3u8
+#EXTINF: -1 tvg-id="Nick Jr" tvg-name="NICK JR FHD" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil", NICK JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7142.m3u8
+#EXTINF: -1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil", Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2145.m3u8
+#EXTINF: -1 tvg-id="Nick Jr" tvg-name="Nick Jr HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil", Nick Jr HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7320.m3u8
+#EXTINF: -1 tvg-id="Nick Jr" tvg-name="Nick Jr [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/NickJr1.png" group-title="Canais: Infantil", Nick Jr [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7321.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil", Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2232.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil", Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7141.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil", Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2125.m3u8
+#EXTINF: -1 tvg-id="Nickelodeon" tvg-name="Nickelodeon [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/nick1.png" group-title="Canais: Infantil", Nickelodeon [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7319.m3u8
+#EXTINF: -1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil", Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2162.m3u8
+#EXTINF: -1 tvg-id="Tooncast" tvg-name="Tooncast HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil", Tooncast HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26379.m3u8
+#EXTINF: -1 tvg-id="Tooncast" tvg-name="Tooncast [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tooncast1.png" group-title="Canais: Infantil", Tooncast [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7248.m3u8
+#EXTINF: -1 tvg-id="TV Gloobinho [Alter]" tvg-name="TV Gloobinho HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: Infantil", TV Gloobinho HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7368.m3u8
+#EXTINF: -1 tvg-id="TV Gloobinho [Alter]" tvg-name="TV Gloobinho [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvglobinho1.png" group-title="Canais: Infantil", TV Gloobinho [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7367.m3u8
+#EXTINF: -1 tvg-id="TV Ra tim bum" tvg-name="TV Ra tim bum" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil", TV Ra tim bum
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2157.m3u8
+#EXTINF: -1 tvg-id="TV Ra tim bum" tvg-name="TV Ra tim bum HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil", TV Ra tim bum HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7239.m3u8
+#EXTINF: -1 tvg-id="TV Ra tim bum" tvg-name="TV Ra tim bum [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/tvratimbum1.png" group-title="Canais: Infantil", TV Ra tim bum [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7240.m3u8
+#EXTINF: -1 tvg-name="Zoomoo [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Zoomoo.png" group-title="Canais: Infantil", Zoomoo [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/30686.m3u8
+
+#EXTINF:-1, [COLOR blue][B]##########|ESPORTES|##########[/B][/COLOR]
+http://127.0.0.1
+
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2332.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports FHD" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26422.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13774.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7479.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13773.m3u8
+#EXTINF: -1 tvg-id="Band Sports" tvg-name="Band Sports [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/bandsports.png" group-title="Canais: Esportes", Band Sports [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7480.m3u8
+#EXTINF: -1 tvg-name="Campeonato Catarinense 1" tvg-logo="http://logocanais.ddns.net/Logo/Catarinense.png" group-title="Canais: Esportes", Campeonato Catarinense 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27315.m3u8
+#EXTINF: -1 tvg-name="Campeonato Catarinense 2" tvg-logo="http://logocanais.ddns.net/Logo/Catarinense.png" group-title="Canais: Esportes", Campeonato Catarinense 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27316.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2319.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7187.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2318.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13631.m3u8
+#EXTINF: -1 tvg-id="Combate HD" tvg-name="Combate HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7463.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13630.m3u8
+#EXTINF: -1 tvg-id="Combate" tvg-name="Combate [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Combate1.png" group-title="Canais: Esportes", Combate [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7464.m3u8
+#EXTINF: -1 tvg-name="Conmebol" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes", Conmebol
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/21761.m3u8
+#EXTINF: -1 tvg-name="Conmebol²" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes", Conmebol²
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36198.m3u8
+#EXTINF: -1 tvg-name="Conmebol³" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes", Conmebol³
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36199.m3u8
+#EXTINF: -1 tvg-name="Conmebol¹" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes", Conmebol¹
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36197.m3u8
+#EXTINF: -1 tvg-name="Copa Nordeste 01" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes", Copa Nordeste 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26536.m3u8
+#EXTINF: -1 tvg-name="Copa Nordeste 02" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes", Copa Nordeste 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26537.m3u8
+#EXTINF: -1 tvg-name="Copa Nordeste 03" tvg-logo="http://logocanais.ddns.net/Logo/CopaNordeste.png" group-title="Canais: Esportes", Copa Nordeste 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26538.m3u8
+#EXTINF: -1 tvg-name="Copa Sul Americana HD" tvg-logo="http://logocanais.ddns.net/Logo/Libertadores.png" group-title="Canais: Esportes", Copa Sul Americana HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/21760.m3u8
+#EXTINF: -1 tvg-name="Dazn 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/21776.m3u8
+#EXTINF: -1 tvg-name="Dazn 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27596.m3u8
+#EXTINF: -1 tvg-name="Dazn 4 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27597.m3u8
+#EXTINF: -1 tvg-name="Dazn 5 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27598.m3u8
+#EXTINF: -1 tvg-name="Dazn 6 HD" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/27599.m3u8
+#EXTINF: -1 tvg-name="Dazn HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Dazn.png" group-title="Canais: Esportes", Dazn HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/25423.m3u8
+#EXTINF: -1 tvg-name="EI Plus" tvg-logo="http://logocanais.ddns.net/Logo/eiplus.png" group-title="Canais: Esportes", EI Plus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/25484.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 01" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26519.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 02" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26520.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 03" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 03
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26521.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 04" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 04
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26522.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 05" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 05
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26523.m3u8
+#EXTINF: -1 tvg-name="Ei Plus 06" tvg-logo="http://logocanais.ddns.net/Logo/champ.png" group-title="Canais: Esportes", Ei Plus 06
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26524.m3u8
+#EXTINF: -1 tvg-name="EI Plus HD" tvg-logo="http://logocanais.ddns.net/Logo/eiplus.png" group-title="Canais: Esportes", EI Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/25483.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2303.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN +" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN +
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7111.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN + FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN + FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26500.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN + HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN + HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7099.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN + HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN + HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13961.m3u8
+#EXTINF: -1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN + HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN + HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26501.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2301.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil FHD" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7172.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2300.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13958.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7430.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13959.m3u8
+#EXTINF: -1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN Brasil [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7431.m3u8
+#EXTINF: -1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes", ESPN Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7429.m3u8
+#EXTINF: -1 tvg-id="ESPN Extra" tvg-name="ESPN Extra FHD" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes", ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7136.m3u8
+#EXTINF: -1 tvg-id="ESPN Extra" tvg-name="ESPN Extra HD" tvg-logo="http://logocanais.ddns.net/Logo/espnextra.png" group-title="Canais: Esportes", ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7428.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7160.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://logocanais.ddns.net/Logo/EspnBrasil.png" group-title="Canais: Esportes", ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2302.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13957.m3u8
+#EXTINF: -1 tvg-id="ESPN HD" tvg-name="ESPN HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7427.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13956.m3u8
+#EXTINF: -1 tvg-id="ESPN" tvg-name="ESPN [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", ESPN [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7434.m3u8
+#EXTINF: -1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://logocanais.ddns.net/Logo/fish.png" group-title="Canais: Esportes", Fish TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2294.m3u8
+#EXTINF: -1 tvg-id="Fish TV" tvg-name="Fish TV [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/fish.png" group-title="Canais: Esportes", Fish TV [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7420.m3u8
+#EXTINF: -1 tvg-name="Fla TV - My Cujoo" tvg-logo="http://logocanais.ddns.net/Logo/flatv.png" group-title="Canais: Esportes", Fla TV - My Cujoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35135.m3u8
+#EXTINF: -1 tvg-name="Fla TV 1 - My Cujoo" tvg-logo="http://logocanais.ddns.net/Logo/flatv.png" group-title="Canais: Esportes", Fla TV 1 - My Cujoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35653.m3u8
+#EXTINF: -1 tvg-name="Fox APP HD" tvg-logo="http://logocanais.ddns.net/Logo/Fox.png" group-title="Canais: Esportes", Fox APP HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35014.m3u8
+#EXTINF: -1 tvg-id="Fox Sport HD" tvg-name="Fox Sport HD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sport HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2286.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes", Fox Sports
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2285.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 2 HD " tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26846.m3u8
+#EXTINF: -1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports 2 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13760.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7405.m3u8
+#EXTINF: -1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports 2 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13759.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports 2 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports 2 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26847.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7171.m3u8
+#EXTINF: -1 tvg-name="Fox Sports HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/28274.m3u8
+#EXTINF: -1 tvg-id="Fox Sport HD" tvg-name="Fox Sports HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7407.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13757.m3u8
+#EXTINF: -1 tvg-id="Fox Sports" tvg-name="Fox Sports [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports1.png" group-title="Canais: Esportes", Fox Sports [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7408.m3u8
+#EXTINF: -1 tvg-id="Fox Sports 2" tvg-name="FOX Sportv 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/FoxSports2.png" group-title="Canais: Esportes", FOX Sportv 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7157.m3u8
+#EXTINF: -1 tvg-name="Globo Esporte" tvg-logo="http://logocanais.ddns.net/Logo/Globo1.png" group-title="Canais: Esportes", Globo Esporte
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26494.m3u8
+#EXTINF: -1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes", OFF
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2230.m3u8
+#EXTINF: -1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes", OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2229.m3u8
+#EXTINF: -1 tvg-id="OFF" tvg-name="OFF HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes", OFF HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7316.m3u8
+#EXTINF: -1 tvg-id="OFF" tvg-name="OFF [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/OFF1.png" group-title="Canais: Esportes", OFF [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7317.m3u8
+#EXTINF: -1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2222.m3u8
+#EXTINF: -1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7169.m3u8
+#EXTINF: -1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2221.m3u8
+#EXTINF: -1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7312.m3u8
+#EXTINF: -1 tvg-id="Premiere 2 [Alter]" tvg-name="Premiere 2 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13633.m3u8
+#EXTINF: -1 tvg-id="Premiere 2" tvg-name="Premiere 2 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 2 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7313.m3u8
+#EXTINF: -1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2220.m3u8
+#EXTINF: -1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7168.m3u8
+#EXTINF: -1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2219.m3u8
+#EXTINF: -1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13726.m3u8
+#EXTINF: -1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7310.m3u8
+#EXTINF: -1 tvg-id="Premiere 3 [Alter]" tvg-name="Premiere 3 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13634.m3u8
+#EXTINF: -1 tvg-id="Premiere 3" tvg-name="Premiere 3 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 3 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7311.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2218.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7167.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2217.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13727.m3u8
+#EXTINF: -1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7308.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13635.m3u8
+#EXTINF: -1 tvg-id="Premiere 4" tvg-name="Premiere 4 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 4 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7309.m3u8
+#EXTINF: -1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2216.m3u8
+#EXTINF: -1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7166.m3u8
+#EXTINF: -1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2215.m3u8
+#EXTINF: -1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7306.m3u8
+#EXTINF: -1 tvg-id="Premiere 5" tvg-name="Premiere 5 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13636.m3u8
+#EXTINF: -1 tvg-id="Premiere 5" tvg-name="Premiere 5 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 5 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7307.m3u8
+#EXTINF: -1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2214.m3u8
+#EXTINF: -1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7165.m3u8
+#EXTINF: -1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7094.m3u8
+#EXTINF: -1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13729.m3u8
+#EXTINF: -1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7304.m3u8
+#EXTINF: -1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13637.m3u8
+#EXTINF: -1 tvg-id="Premiere 6" tvg-name="Premiere 6 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 6 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7305.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2213.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7164.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7095.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13730.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7302.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13638.m3u8
+#EXTINF: -1 tvg-id="Premiere 7" tvg-name="Premiere 7 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere 7 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7303.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2224.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FHD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7170.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2223.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13424.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7300.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13425.m3u8
+#EXTINF: -1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/PFC1.png" group-title="Canais: Esportes", Premiere Clubes [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7301.m3u8
+#EXTINF: -1 tvg-name="Rai Italia" tvg-logo="http://logocanais.ddns.net/Logo/rai.png" group-title="Canais: Esportes", Rai Italia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35654.m3u8
+#EXTINF: -1 tvg-id="Sport TV 2 HD" tvg-name="Sport TV 2 HD" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", Sport TV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2191.m3u8
+#EXTINF: -1 tvg-id="Sport TV 3 HD" tvg-name="Sport TV 3 HD" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", Sport TV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2190.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="Sport TV HD" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", Sport TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2189.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", SporTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2188.m3u8
+#EXTINF: -1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", SporTV 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2187.m3u8
+#EXTINF: -1 tvg-id="SporTV 2" tvg-name="Sportv 2 FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", Sportv 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7154.m3u8
+#EXTINF: -1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7278.m3u8
+#EXTINF: -1 tvg-id="SporTV 2" tvg-name="SporTV 2 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV 2 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7279.m3u8
+#EXTINF: -1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", SporTV 3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2186.m3u8
+#EXTINF: -1 tvg-id="SporTV 3" tvg-name="Sportv 3 FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", Sportv 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7153.m3u8
+#EXTINF: -1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7276.m3u8
+#EXTINF: -1 tvg-id="SporTV 3" tvg-name="SporTV 3 [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV 3 [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7277.m3u8
+#EXTINF: -1 tvg-id="Sportv FHD" tvg-name="Sportv FHD" tvg-logo="http://logocanais.ddns.net/Logo/sportv1.png" group-title="Canais: Esportes", Sportv FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7178.m3u8
+#EXTINF: -1 tvg-id="SporTV 2" tvg-name="SporTV HD [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV HD [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13422.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="SporTV HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7275.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="SporTV [Alter 2]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV [Alter 2]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/13423.m3u8
+#EXTINF: -1 tvg-id="SporTV" tvg-name="SporTV [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/Sportv.png" group-title="Canais: Esportes", SporTV [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7280.m3u8
+#EXTINF: -1 tvg-name="Tabela de Jogos" tvg-logo="http://logocanais.ddns.net/Logo/Jogos.png" group-title="Canais: Esportes", Tabela de Jogos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/36503.m3u8
+#EXTINF: -1 tvg-name="TR Bike" tvg-logo="http://logocanais.ddns.net/Logo/tr12.jpg" group-title="Canais: Esportes", TR Bike
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26440.m3u8
+#EXTINF: -1 tvg-name="TR Modelismo" tvg-logo="http://logocanais.ddns.net/Logo/tr15.jpg" group-title="Canais: Esportes", TR Modelismo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/26442.m3u8
+#EXTINF: -1 tvg-name="TR Racing" tvg-logo="http://logocanais.ddns.net/Logo/tr8.jpg" group-title="Canais: Esportes", TR Racing
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/25396.m3u8
+#EXTINF: -1 tvg-name="Watch Espn HD" tvg-logo="http://logocanais.ddns.net/Logo/ESPN.png" group-title="Canais: Esportes", Watch Espn HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/35015.m3u8
+#EXTINF: -1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes", Woohoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/2148.m3u8
+#EXTINF: -1 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes", Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7097.m3u8
+#EXTINF: -1 tvg-id="Woohoo" tvg-name="Woohoo HD [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes", Woohoo HD [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7226.m3u8
+#EXTINF: -1 tvg-id="Woohoo" tvg-name="Woohoo [Alter]" tvg-logo="http://logocanais.ddns.net/Logo/woohoo1.png" group-title="Canais: Esportes", Woohoo [Alter]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://painel.smartlista.org:8880/live/a2w3h1d4ecg/p4qh9ywzar5/7227.m3u8
