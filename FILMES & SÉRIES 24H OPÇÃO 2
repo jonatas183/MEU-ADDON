@@ -1,0 +1,278 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-name="3% 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/60002-b-1573964567443.jpg" group-title="24h Especiais", 3% 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44894.m3u8
+#EXTINF: -1 tvg-name="A Grande Familia 24h" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/a-grande-familia-logo-png-2.png" group-title="24h Especiais", A Grande Familia 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/961.m3u8
+#EXTINF: -1 tvg-name="A historia de Deus com Morgan Freeman 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4922-b-1590702777533.jpg" group-title="24h Especiais", A historia de Deus com Morgan Freeman 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44752.m3u8
+#EXTINF: -1 tvg-name="A historia de Deus com Morgan Freeman 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4922-b-1590702777533.jpg" group-title="24h Especiais", A historia de Deus com Morgan Freeman 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44753.m3u8
+#EXTINF: -1 tvg-name="A Maldicao da Residencia 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4921-b-1590702557349.jpg" group-title="24h Especiais", A Maldicao da Residencia 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44754.m3u8
+#EXTINF: -1 tvg-name="American Horror History 3 24h" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png" group-title="24h Especiais", American Horror History 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44755.m3u8
+#EXTINF: -1 tvg-name="American Horror History 4 24h" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png" group-title="24h Especiais", American Horror History 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44756.m3u8
+#EXTINF: -1 tvg-name="American Horror History 5" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png" group-title="24h Especiais", American Horror History 5
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44757.m3u8
+#EXTINF: -1 tvg-name="American Horror History 6 24h" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png" group-title="24h Especiais", American Horror History 6 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44758.m3u8
+#EXTINF: -1 tvg-name="American Horror History 7 24h" tvg-logo="http://script.clearnight.xyz/logos/Documentarios/History.png" group-title="24h Especiais", American Horror History 7 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44759.m3u8
+#EXTINF: -1 tvg-name="Animais Selvagens 24h" tvg-logo="https://www.anda.jor.br/wp-content/uploads/2019/10/nature-1282230_960_720-2.jpg" group-title="24h Especiais", Animais Selvagens 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44906.m3u8
+#EXTINF: -1 tvg-name="Arrow 24h" tvg-logo="http://95.179.196.114/thumbs/s1412/poster.jpg" group-title="24h Especiais", Arrow 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44895.m3u8
+#EXTINF: -1 tvg-name="As Telefonistas 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg" group-title="24h Especiais", As Telefonistas 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44762.m3u8
+#EXTINF: -1 tvg-name="As Telefonistas 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg" group-title="24h Especiais", As Telefonistas 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44763.m3u8
+#EXTINF: -1 tvg-name="As Telefonistas 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4355-b-1590702014373.jpg" group-title="24h Especiais", As Telefonistas 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44764.m3u8
+#EXTINF: -1 tvg-name="Assedio 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4325-b-1590701938617.jpg" group-title="24h Especiais", Assedio 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44765.m3u8
+#EXTINF: -1 tvg-name="Bates Motel 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg" group-title="24h Especiais", Bates Motel 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44766.m3u8
+#EXTINF: -1 tvg-name="Bates Motel 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg" group-title="24h Especiais", Bates Motel 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44767.m3u8
+#EXTINF: -1 tvg-name="Bates Motel 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg" group-title="24h Especiais", Bates Motel 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44768.m3u8
+#EXTINF: -1 tvg-name="Bates Motel 4 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg" group-title="24h Especiais", Bates Motel 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44769.m3u8
+#EXTINF: -1 tvg-name="Bates Motel 5 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4323-b-1590701645073.jpg" group-title="24h Especiais", Bates Motel 5 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44770.m3u8
+#EXTINF: -1 tvg-name="Black Lightning 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4115-b-1590701445475.jfif" group-title="24h Especiais", Black Lightning 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44771.m3u8
+#EXTINF: -1 tvg-name="Breaking Bad 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9107-b-1579814628954.png" group-title="24h Especiais", Breaking Bad 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/887.m3u8
+#EXTINF: -1 tvg-name="Shadowhunters 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3288-b-1590701241011.jpg" group-title="24h Especiais", Shadowhunters 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44773.m3u8
+#EXTINF: -1 tvg-name="Carcereiros 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3284-b-1590701015854.jpg" group-title="24h Especiais", Carcereiros 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44775.m3u8
+#EXTINF: -1 tvg-name="Caverna do Dragao 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/738-b-1590700517484.jpg" group-title="24h Especiais", Caverna do Dragao 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44779.m3u8
+#EXTINF: -1 tvg-name="Chapolin Colorado 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9149-b-1579815329273.png" group-title="24h Especiais", Chapolin Colorado 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/890.m3u8
+#EXTINF: -1 tvg-name="Chapolin Colorado 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9149-b-1579815329273.png" group-title="24h Especiais", Chapolin Colorado 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44902.m3u8
+#EXTINF: -1 tvg-name="Chaves 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9150-b-1579815479007.png" group-title="24h Especiais", Chaves 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/891.m3u8
+#EXTINF: -1 tvg-name="Chaves 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/281-b-1590700022915.jpg" group-title="24h Especiais", Chaves 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44780.m3u8
+#EXTINF: -1 tvg-name="Chicago Med 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg" group-title="24h Especiais", Chicago Med 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44781.m3u8
+#EXTINF: -1 tvg-name="Chicago Med 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg" group-title="24h Especiais", Chicago Med 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44782.m3u8
+#EXTINF: -1 tvg-name="Chicago Med 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/735-b-1590697613258.jpg" group-title="24h Especiais", Chicago Med 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44783.m3u8
+#EXTINF: -1 tvg-name="Coreia do Norte 24h" tvg-logo="https://www.leonardolopes.com.br/wp-content/uploads/2019/01/viagem-coreia-do-norte-1.jpg" group-title="24h Especiais", Coreia do Norte 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44903.m3u8
+#EXTINF: -1 tvg-name="Damnation 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/125-b-1590697432061.jpg" group-title="24h Especiais", Damnation 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44784.m3u8
+#EXTINF: -1 tvg-name="Dark Matter 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5257-b-1590697294386.png" group-title="24h Especiais", Dark Matter 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44785.m3u8
+#EXTINF: -1 tvg-name="Deceptions 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5255-b-1590697186995.jpg" group-title="24h Especiais", Deceptions 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44786.m3u8
+#EXTINF: -1 tvg-name="Demolidor 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg" group-title="24h Especiais", Demolidor 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44787.m3u8
+#EXTINF: -1 tvg-name="Demolidor 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg" group-title="24h Especiais", Demolidor 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44788.m3u8
+#EXTINF: -1 tvg-name="Demolidor 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5253-b-1590697058455.jpg" group-title="24h Especiais", Demolidor 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44789.m3u8
+#EXTINF: -1 tvg-name="Desastres Aereos 24h" tvg-logo="https://i.ytimg.com/vi/Be9B02s6Ves/maxresdefault.jpg" group-title="24h Especiais", Desastres Aereos 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44872.m3u8
+#EXTINF: -1 tvg-name="Diarios de Horrores 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5245-b-1590696989382.jpg" group-title="24h Especiais", Diarios de Horrores 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44790.m3u8
+#EXTINF: -1 tvg-name="Diarios de Um Vampiro 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/65-b-1590694859389.jpg" group-title="24h Especiais", Diarios de Um Vampiro 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44896.m3u8
+#EXTINF: -1 tvg-name="Diarios de Um Vampiro 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/65-b-1590694859389.jpg" group-title="24h Especiais", Diarios de Um Vampiro 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44791.m3u8
+#EXTINF: -1 tvg-name="Diarios de um Vampiro 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/65-b-1590694859389.jpg" group-title="24h Especiais", Diarios de um Vampiro 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44801.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44792.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44793.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44794.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 4 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44795.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 5 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 5 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44796.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 6 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 6 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44797.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 7 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 7 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44798.m3u8
+#EXTINF: -1 tvg-name="Doctor Who 8 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/977-b-1590695137605.jpg" group-title="24h Especiais", Doctor Who 8 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44799.m3u8
+#EXTINF: -1 tvg-name="Dois Homens e Meio 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg" group-title="24h Especiais", Dois Homens e Meio 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/897.m3u8
+#EXTINF: -1 tvg-name="Dois Homens e Meio 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg" group-title="24h Especiais", Dois Homens e Meio 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44878.m3u8
+#EXTINF: -1 tvg-name="Dois Homens e Meio 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/60110-b-1579819950376.jpg" group-title="24h Especiais", Dois Homens e Meio 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44879.m3u8
+#EXTINF: -1 tvg-name="Dupla Identidade 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/70-b-1590694968206.jfif" group-title="24h Especiais", Dupla Identidade 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44800.m3u8
+#EXTINF: -1 tvg-name="Elite 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5241-b-1590696663289.gif" group-title="24h Especiais", Elite 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44802.m3u8
+#EXTINF: -1 tvg-name="Eu a Patroa e as Criancas 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9745-b-1579821410818.jpg" group-title="24h Especiais", Eu a Patroa e as Criancas 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/902.m3u8
+#EXTINF: -1 tvg-name="Eu a Patroa e as Criancas 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9745-b-1579821410818.jpg" group-title="24h Especiais", Eu a Patroa e as Criancas 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44863.m3u8
+#EXTINF: -1 tvg-name="Eu a Patroa e as Criancas 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9745-b-1579821410818.jpg" group-title="24h Especiais", Eu a Patroa e as Criancas 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44864.m3u8
+#EXTINF: -1 tvg-name="Eu a Patroa e as Criancas 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9745-b-1579821410818.jpg" group-title="24h Especiais", Eu a Patroa e as Criancas 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44865.m3u8
+#EXTINF: -1 tvg-name="Familia Soprano 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg" group-title="24h Especiais", Familia Soprano 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44803.m3u8
+#EXTINF: -1 tvg-name="Familia Soprano 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg" group-title="24h Especiais", Familia Soprano 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44804.m3u8
+#EXTINF: -1 tvg-name="Familia Soprano 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg" group-title="24h Especiais", Familia Soprano 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44805.m3u8
+#EXTINF: -1 tvg-name="Familia Soprano 4 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg" group-title="24h Especiais", Familia Soprano 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44806.m3u8
+#EXTINF: -1 tvg-name="Familia Soprano 5 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3247-b-1590696397514.jpg" group-title="24h Especiais", Familia Soprano 5 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44807.m3u8
+#EXTINF: -1 tvg-name="Farina - Cocaine Coast 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3248-b-1590696304140.jpg" group-title="24h Especiais", Farina - Cocaine Coast 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44808.m3u8
+#EXTINF: -1 tvg-name="Fear The Walking Dead 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg" group-title="24h Especiais", Fear The Walking Dead 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44809.m3u8
+#EXTINF: -1 tvg-name="Fear The Walking Dead 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg" group-title="24h Especiais", Fear The Walking Dead 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44810.m3u8
+#EXTINF: -1 tvg-name="Fear The Walking Dead 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5242-b-1590695873534.jpg" group-title="24h Especiais", Fear The Walking Dead 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44811.m3u8
+#EXTINF: -1 tvg-name="Frequency 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/131-b-1590695685033.jpg" group-title="24h Especiais", Frequency 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44812.m3u8
+#EXTINF: -1 tvg-name="Fugitivos 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/639-b-1590695545861.jpg" group-title="24h Especiais", Fugitivos 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44813.m3u8
+#EXTINF: -1 tvg-name="Future Man 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/4321-b-1590695448860.jpg" group-title="24h Especiais", Future Man 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44814.m3u8
+#EXTINF: -1 tvg-name="Gamebros 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5670-b-1590703154022.jpg" group-title="24h Especiais", Gamebros 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44816.m3u8
+#EXTINF: -1 tvg-name="Gothan 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5650-b-1590703061799.jpg" group-title="24h Especiais", Gothan 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44817.m3u8
+#EXTINF: -1 tvg-name="Greys Anatomy 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5600-b-1590702934833.jpg" group-title="24h Especiais", Greys Anatomy 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44818.m3u8
+#EXTINF: -1 tvg-name="Hannibal 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9455-b-1595106530432.jpg" group-title="24h Especiais", Hannibal 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44819.m3u8
+#EXTINF: -1 tvg-name="Irmaos de Guerra 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/3294-b-1595258698039.jpg" group-title="24h Especiais", Irmaos de Guerra 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44821.m3u8
+#EXTINF: -1 tvg-name="Impuros 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5620-b-1595258796580.jpg" group-title="24h Especiais", Impuros 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44820.m3u8
+#EXTINF: -1 tvg-name="Jackass 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5630-b-1595258921273.jpg" group-title="24h Especiais", Jackass 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44877.m3u8
+#EXTINF: -1 tvg-name="Jaspion 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9470-b-1579825808220.jpg" group-title="24h Especiais", Jaspion 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/914.m3u8
+#EXTINF: -1 tvg-name="Jaspion & Jonny Quest 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5690-b-1595259140924.jpg" group-title="24h Especiais", Jaspion & Jonny Quest 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44822.m3u8
+#EXTINF: -1 tvg-name="Jogos Sagrados 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5700-b-1595259340517.jpg" group-title="24h Especiais", Jogos Sagrados 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44823.m3u8
+#EXTINF: -1 tvg-name="Jose do Egito 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5720-b-1595259429287.jpg" group-title="24h Especiais", Jose do Egito 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44824.m3u8
+#EXTINF: -1 tvg-name="Justiceiro 1 24h" group-title="24h Especiais", Justiceiro 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44825.m3u8
+#EXTINF: -1 tvg-name="Kenan e Kel 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9773-b-1579826325684.jpg" group-title="24h Especiais", Kenan e Kel 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/916.m3u8
+#EXTINF: -1 tvg-name="La Casa de Papel 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg" group-title="24h Especiais", La Casa de Papel 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44826.m3u8
+#EXTINF: -1 tvg-name="La Casa de Papel 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg" group-title="24h Especiais", La Casa de Papel 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44827.m3u8
+#EXTINF: -1 tvg-name="La Casa de Papel 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5780-b-1595259572345.jpg" group-title="24h Especiais", La Casa de Papel 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44869.m3u8
+#EXTINF: -1 tvg-name="Legend of Tomorrow 1  24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv3e1l8od9VjQD4NlvpBySyY09.jpg" group-title="24h Especiais", Legend of Tomorrow 1  24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44828.m3u8
+#EXTINF: -1 tvg-name="Legend of Tomorrow 2 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv3e1l8od9VjQD4NlvpBySyY09.jpg" group-title="24h Especiais", Legend of Tomorrow 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44829.m3u8
+#EXTINF: -1 tvg-name="Lucifer 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg" group-title="24h Especiais", Lucifer 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44830.m3u8
+#EXTINF: -1 tvg-name="Lucifer 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg" group-title="24h Especiais", Lucifer 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44831.m3u8
+#EXTINF: -1 tvg-name="Lucifer 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9515-b-1595259873883.jpg" group-title="24h Especiais", Lucifer 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44832.m3u8
+#EXTINF: -1 tvg-name="Maquina Mortifera 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9545-b-1595260189441.jpg" group-title="24h Especiais", Maquina Mortifera 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44834.m3u8
+#EXTINF: -1 tvg-name="Mr. Bean 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9782-b-1579827737437.png" group-title="24h Especiais", Mr. Bean 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/921.m3u8
+#EXTINF: -1 tvg-name="Narcos 1 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg" group-title="24h Especiais", Narcos 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44836.m3u8
+#EXTINF: -1 tvg-name="Narcos 2 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg" group-title="24h Especiais", Narcos 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44837.m3u8
+#EXTINF: -1 tvg-name="O Homem do Castelo Alto 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/5790-b-1595260530970.jpg" group-title="24h Especiais", O Homem do Castelo Alto 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44838.m3u8
+#EXTINF: -1 tvg-name="O Negocio 1 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg" group-title="24h Especiais", O Negocio 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44839.m3u8
+#EXTINF: -1 tvg-name="O Negocio 2 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg" group-title="24h Especiais", O Negocio 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44840.m3u8
+#EXTINF: -1 tvg-name="O Negocio 3 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg" group-title="24h Especiais", O Negocio 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44841.m3u8
+#EXTINF: -1 tvg-name="O Negocio 4 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgPG7iWLy3IFUNj4BSLqxB1D6JH.jpg" group-title="24h Especiais", O Negocio 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44842.m3u8
+#EXTINF: -1 tvg-name="Outsiders 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/6800-b-1595260727556.jpg" group-title="24h Especiais", Outsiders 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44843.m3u8
+#EXTINF: -1 tvg-name="Outsiders 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/6800-b-1595260727556.jpg" group-title="24h Especiais", Outsiders 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44844.m3u8
+#EXTINF: -1 tvg-name="Os Trapalhoes 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJIp4uDSmtg4RkiIciJnamNWUa.jpg" group-title="24h Especiais", Os Trapalhoes 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/26371.m3u8
+#EXTINF: -1 tvg-name="Os Trapalhoes 2 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLJIp4uDSmtg4RkiIciJnamNWUa.jpg" group-title="24h Especiais", Os Trapalhoes 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44900.m3u8
+#EXTINF: -1 tvg-name="O Universo 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/6802-b-1595260964155.jpg" group-title="24h Especiais", O Universo 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44908.m3u8
+#EXTINF: -1 tvg-name="Planeta Terra 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/6810-b-1595261072233.jpg" group-title="24h Especiais", Planeta Terra 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44847.m3u8
+#EXTINF: -1 tvg-name="Policia 24h - 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9873-b-1595261161126.jpg" group-title="24h Especiais", Policia 24h - 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44871.m3u8
+#EXTINF: -1 tvg-name="Prison Break 3 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg" group-title="24h Especiais", Prison Break 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44848.m3u8
+#EXTINF: -1 tvg-name="Prison Break 4 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg" group-title="24h Especiais", Prison Break 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44849.m3u8
+#EXTINF: -1 tvg-name="Prison Break 5 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg" group-title="24h Especiais", Prison Break 5 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44850.m3u8
+#EXTINF: -1 tvg-name="Roma 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg" group-title="24h Especiais", Roma 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44905.m3u8
+#EXTINF: -1 tvg-name="Smallville 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/60014-b-1579833034536.jpg" group-title="24h Especiais", Smallville 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/942.m3u8
+#EXTINF: -1 tvg-name="Supernatural 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9691-b-1579833157558.png" group-title="24h Especiais", Supernatural 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/943.m3u8
+#EXTINF: -1 tvg-name="Stranger Things 2 24h" tvg-logo="http://95.179.196.114/thumbs/s66732/poster.jpg" group-title="24h Especiais", Stranger Things 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44851.m3u8
+#EXTINF: -1 tvg-name="Supernatural 1 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9691-b-1579833157558.png" group-title="24h Especiais", Supernatural 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44852.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 24h" tvg-logo="http://95.179.196.114/thumbs/s1418/poster.jpg" group-title="24h Especiais", The Big Bang Theory 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/26370.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 1 24h" group-title="24h Especiais", The Big Bang Theory 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44853.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 1 ² 24h" tvg-logo="http://95.179.196.114/thumbs/s1418/poster.jpg" group-title="24h Especiais", The Big Bang Theory 1 ² 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44875.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 2 24h" group-title="24h Especiais", The Big Bang Theory 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44854.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 3 24h" tvg-logo="http://95.179.196.114/thumbs/s1418/poster.jpg" group-title="24h Especiais", The Big Bang Theory 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44855.m3u8
+#EXTINF: -1 tvg-name="The Big Bang Theory 8 24h" tvg-logo="http://95.179.196.114/thumbs/s1418/poster.jpg" group-title="24h Especiais", The Big Bang Theory 8 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44876.m3u8
+#EXTINF: -1 tvg-name="Todo Mundo Odeia o Chris 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="24h Especiais", Todo Mundo Odeia o Chris 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/950.m3u8
+#EXTINF: -1 tvg-name="Todo Mundo Odeia o Chris 2 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="24h Especiais", Todo Mundo Odeia o Chris 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44907.m3u8
+#EXTINF: -1 tvg-name="Trato Feito 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/8012-b-1595262334757.jpg" group-title="24h Especiais", Trato Feito 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44904.m3u8
+#EXTINF: -1 tvg-name="Um Maluco no Pedaco 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9760-b-1579836078711.jpg" group-title="24h Especiais", Um Maluco no Pedaco 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/953.m3u8
+#EXTINF: -1 tvg-name="Um Maluco no Pedaco 2 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9760-b-1579836078711.jpg" group-title="24h Especiais", Um Maluco no Pedaco 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44866.m3u8
+#EXTINF: -1 tvg-name="Um Maluco no Pedaco 3 24h" tvg-logo="http://st1.horizonplay.io:8080/icon/9760-b-1579836078711.jpg" group-title="24h Especiais", Um Maluco no Pedaco 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44867.m3u8
+#EXTINF: -1 tvg-name="Vai Que Cola 24hs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkzMxY964DsFMmS42pL1j4h4KyP.jpg" group-title="24h Especiais", Vai Que Cola 24hs
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/1082.m3u8
+#EXTINF: -1 tvg-name="Vikings 1 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg" group-title="24h Especiais", Vikings 1 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44858.m3u8
+#EXTINF: -1 tvg-name="Vikings 2 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg" group-title="24h Especiais", Vikings 2 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44859.m3u8
+#EXTINF: -1 tvg-name="Vikings 3 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg" group-title="24h Especiais", Vikings 3 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44860.m3u8
+#EXTINF: -1 tvg-name="Vikings 4 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg" group-title="24h Especiais", Vikings 4 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44861.m3u8
+#EXTINF: -1 tvg-name="Vikings 5 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg" group-title="24h Especiais", Vikings 5 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/44862.m3u8
+#EXTINF: -1 tvg-name="Xena 24h" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/xena-logo-png-6.png" group-title="24h Especiais", Xena 24h
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]F4M[/B][/COLOR] [COLOR white][B]PROXY[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://lista.lorddark.club:80/live/fulviodefreitas/freitass5235/957.m3u8
