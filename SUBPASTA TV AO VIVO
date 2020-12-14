@@ -46,3 +46,12 @@
 <fanart></fanart>
 <info>[B]Contém canais na qualidade:[/B]
 [COLOR yellow][B]4K - FHD - HD - SD[/B][/COLOR]</info>
+
+<channels>
+<channel>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO[/B][/COLOR] - [COLOR yellow][B]TESTE[/B][/COLOR]</name>
+<thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512,512&ssl=1</thumbnail>
+<externallinkhttps://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/TV%20AO%20VIVO%20OP%C3%87%C3%83O%20TESTE</externallink>
+<fanart></fanart>
+<info>[B]Contém canais na qualidade:[/B]
+[COLOR yellow][B]FHD - H.265 - HD - SD[/B][/COLOR]</info>
