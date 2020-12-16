@@ -869,17 +869,9 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/1270
 #EXTINF: -1 tvg-id="TELECINE TOUCH SD ²" tvg-name="TELECINE TOUCH SD ¹" tvg-logo="https://i.imgur.com/TyvbUsJ.png" group-title="CANAIS | TELECINE", TELECINE TOUCH SD ¹
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/232
-#EXTINF: -1 tvg-name="CINE SKY 1 " tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 1
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/27304
-#EXTINF: -1 tvg-name="CINE SKY 2" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 2
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/27305
-#EXTINF: -1 tvg-name="CINE SKY 5" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 5
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/31593
-#EXTINF: -1 tvg-name="CINE SKY 3" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 3
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/32043
-#EXTINF: -1 tvg-name="CINE SKY 4" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 4
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/32044
-#EXTINF: -1 tvg-name="CINE SKY 6" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 6
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/32045
-#EXTINF: -1 tvg-name="CINE SKY 7" tvg-logo="https://assinetvfacil.com/wp-content/uploads/2019/04/sky.png" group-title="CANAIS | CINE SKY", CINE SKY 7
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/32046
+#EXTINF: -1 tvg-name="A FAZENDA HD ²" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2019/08/20091909/a-fazenda2.jpg" group-title="A FAZENDA", A FAZENDA HD ²
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/41830
+#EXTINF: -1 tvg-name="A FAZENDA SD ²" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2019/08/20091909/a-fazenda2.jpg" group-title="A FAZENDA", A FAZENDA SD ²
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/41831
+#EXTINF: -1 tvg-name="A FAZENDA HD ¹" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2019/08/20091909/a-fazenda2.jpg" group-title="A FAZENDA", A FAZENDA HD ¹
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://khtro.com:25461/marciocabral/ca0281/47803
