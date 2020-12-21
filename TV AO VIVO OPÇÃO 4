@@ -1,292 +1,292 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="BR:-----|Filmes e Series|---------------------------------" group-title="BR Filmes e Series",BR:-----|Filmes e Series|---------------------------------
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66011
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66011
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="BR104:A&E FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR104AEFHD.png" group-title="BR Filmes e Series",BR104:A&E FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65659
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65659
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="BR001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BR Filmes e Series",BR001:A&E HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2531
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2531
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="BR105:A&E SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR105A&ESD.png" group-title="BR Filmes e Series",BR105:A&E SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65660
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65660
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR106:AMC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR106AMCFHD.png" group-title="BR Filmes e Series",BR106:AMC FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65661
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65661
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR002:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" group-title="BR Filmes e Series",BR002:AMC HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2530
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2530
 #EXTINF:-1 tvg-id="amc.br" tvg-name="BR107:AMC SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR107AMCSD.png" group-title="BR Filmes e Series",BR107:AMC SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65662
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65662
 #EXTINF:-1 tvg-id="axn.br" tvg-name="BR112:AXN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR112AXNFHD.png" group-title="BR Filmes e Series",BR112:AXN FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65667
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65667
 #EXTINF:-1 tvg-id="axn.br" tvg-name="BR005:AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="BR Filmes e Series",BR005:AXN HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2527
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2527
 #EXTINF:-1 tvg-id="axn.br" tvg-name="BR113:AXN SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png" group-title="BR Filmes e Series",BR113:AXN SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65668
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65668
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR080:Globo SP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR080BBB2020.png" group-title="BR Filmes e Series",BR080:Globo SP
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2452
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2452
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR122:Cinemax FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR122CinemaxFHD.png" group-title="BR Filmes e Series",BR122:Cinemax FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65677
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65677
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR014:Cinemax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="BR Filmes e Series",BR014:Cinemax HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2518
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2518
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="BR123:Cinemax SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR123CinemaxSD.png" group-title="BR Filmes e Series",BR123:Cinemax SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65678
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65678
 #EXTINF:-1 tvg-name="BR162:Fox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="BR Filmes e Series",BR162:Fox FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65717
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65717
 #EXTINF:-1 tvg-id="fox.br" tvg-name="BR038:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="BR Filmes e Series",BR038:Fox HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2494
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2494
 #EXTINF:-1 tvg-name="BR168:Fox SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR168FoxSD.png" group-title="BR Filmes e Series",BR168:Fox SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65723
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65723
 #EXTINF:-1 tvg-name="BR164:Fox Premium 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="BR Filmes e Series",BR164:Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65719
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65719
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR040:Fox Permium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="BR Filmes e Series",BR040:Fox Permium 1 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2492
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2492
 #EXTINF:-1 tvg-name="BR165:Fox Premium 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR165FoxPremium1SD.png" group-title="BR Filmes e Series",BR165:Fox Premium 1 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65720
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65720
 #EXTINF:-1 tvg-name="BR166:Fox Premium 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR166FoxPremium2FHD.png" group-title="BR Filmes e Series",BR166:Fox Premium 2 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65721
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65721
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR041:Fox Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="BR Filmes e Series",BR041:Fox Premium 2 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2491
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2491
 #EXTINF:-1 tvg-name="BR167:Fox Premium 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR167FoxPremium2SD.png" group-title="BR Filmes e Series",BR167:Fox Premium 2 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65722
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65722
 #EXTINF:-1 tvg-name="BR173:Fx FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png" group-title="BR Filmes e Series",BR173:Fx FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65728
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65728
 #EXTINF:-1 tvg-id="fx.br" tvg-name="BR044:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="BR Filmes e Series",BR044:FX HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2488
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2488
 #EXTINF:-1 tvg-name="BR174:Fx SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="BR Filmes e Series",BR174:Fx SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65729
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65729
 #EXTINF:-1 tvg-id="max.br" tvg-name="BR061:Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="BR Filmes e Series",BR061:Max
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2471
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2471
 #EXTINF:-1 tvg-id="max.prime.br" tvg-name="BR062:Max Prime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png" group-title="BR Filmes e Series",BR062:Max Prime
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2470
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2470
 #EXTINF:-1 tvg-id="max.up.br" tvg-name="BR063:Max Up" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png" group-title="BR Filmes e Series",BR063:Max Up
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2469
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2469
 #EXTINF:-1 tvg-name="BR203:Megapix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR203MegapixFHD.png" group-title="BR Filmes e Series",BR203:Megapix FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65758
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65758
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="BR064:MegaPix HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="BR Filmes e Series",BR064:MegaPix HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2468
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2468
 #EXTINF:-1 tvg-name="BR204:Megapix SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR204MegapixSD.png" group-title="BR Filmes e Series",BR204:Megapix SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65759
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65759
 #EXTINF:-1 tvg-name="BR218:Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png" group-title="BR Filmes e Series",BR218:Paramount Channel FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65773
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65773
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="BR074:Paramount Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="BR Filmes e Series",BR074:Paramount Channel HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2458
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2458
 #EXTINF:-1 tvg-name="BR219:Paramount Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR219ParamountChannelSD.png" group-title="BR Filmes e Series",BR219:Paramount Channel SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65774
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65774
 #EXTINF:-1 tvg-name="BR232:Space FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR232SpaceFHD.png" group-title="BR Filmes e Series",BR232:Space FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65787
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65787
 #EXTINF:-1 tvg-id="space.br" tvg-name="BR086:Space HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" group-title="BR Filmes e Series",BR086:Space HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2446
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2446
 #EXTINF:-1 tvg-name="BR233:Space SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR233SpaceSD.png" group-title="BR Filmes e Series",BR233:Space SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65788
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65788
 #EXTINF:-1 tvg-name="BR240:Studio Universal FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR240StudioUniversalFHD.png" group-title="BR Filmes e Series",BR240:Studio Universal FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65795
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65795
 #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="BR090:Studio Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="BR Filmes e Series",BR090:Studio Universal HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2442
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2442
 #EXTINF:-1 tvg-name="BR241:Studio Universal SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR241StudioUniversalSD.png" group-title="BR Filmes e Series",BR241:Studio Universal SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65796
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65796
 #EXTINF:-1 tvg-name="BR242:Syfy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR242SyfyFHD.png" group-title="BR Filmes e Series",BR242:Syfy FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65797
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65797
 #EXTINF:-1 tvg-id="syfy.br" tvg-name="BR091:SYFY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="BR Filmes e Series",BR091:SYFY HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2441
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2441
 #EXTINF:-1 tvg-name="BR243:Syfy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR243SyfySD.png" group-title="BR Filmes e Series",BR243:Syfy SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65798
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65798
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="BR099:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="BR Filmes e Series",BR099:TLC HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2433
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2433
 #EXTINF:-1 tvg-id="tbs.br" tvg-name="BR092:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="BR Filmes e Series",BR092:TBS HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2440
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2440
 #EXTINF:-1 tvg-name="BR244:Tbs SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png" group-title="BR Filmes e Series",BR244:Tbs SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65799
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65799
 #EXTINF:-1 tvg-name="BR257:TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR257TNTFHD.png" group-title="BR Filmes e Series",BR257:TNT FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65812
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65812
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="BR100:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="BR Filmes e Series",BR100:TNT HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2432
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2432
 #EXTINF:-1 tvg-name="BR258:TNT SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR258TNTSD.png" group-title="BR Filmes e Series",BR258:TNT SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65813
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65813
 #EXTINF:-1 tvg-name="BR259:TNT Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR259TNTSeriesFHD.png" group-title="BR Filmes e Series",BR259:TNT Series FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65814
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65814
 #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="BR101:TNT Series  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="BR Filmes e Series",BR101:TNT Series  HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2431
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2431
 #EXTINF:-1 tvg-name="BR260:TNT Series SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR260TNTSeriesSD.png" group-title="BR Filmes e Series",BR260:TNT Series SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65815
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65815
 #EXTINF:-1 tvg-name="BR261:Universal Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png" group-title="BR Filmes e Series",BR261:Universal Channel FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65816
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65816
 #EXTINF:-1 tvg-id="universal.br" tvg-name="BR103:Universal Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png" group-title="BR Filmes e Series",BR103:Universal Channel HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2429
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2429
 #EXTINF:-1 tvg-name="BR262:Universal Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR262UniversalChannelSD.png" group-title="BR Filmes e Series",BR262:Universal Channel SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65817
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65817
 #EXTINF:-1 tvg-name="BR266:Warner Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR266WarnerChannelFHD.png" group-title="BR Filmes e Series",BR266:Warner Channel FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65821
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65821
 #EXTINF:-1 tvg-id="warner.br" tvg-name="BR082:Warner Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png" group-title="BR Filmes e Series",BR082:Warner Channel HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2450
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2450
 #EXTINF:-1 tvg-name="BR267:Warner Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR267WarnerChannelSD.png" group-title="BR Filmes e Series",BR267:Warner Channel SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65822
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65822
 #EXTINF:-1 tvg-name="BR:-----|Canais Hbo|---------------------------------" group-title="BR HBO",BR:-----|Canais Hbo|---------------------------------
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66018
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66018
 #EXTINF:-1 tvg-name="BR189:Hbo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR189HboFHD.png" group-title="BR HBO",BR189:Hbo FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65744
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65744
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="BR054:HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="BR HBO",BR054:HBO HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2478
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2478
 #EXTINF:-1 tvg-name="BR193:Hbo SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR193HBOSD.png" group-title="BR HBO",BR193:Hbo SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65748
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65748
 #EXTINF:-1 tvg-name="BR186:Hbo 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR186Hbo2FHD.png" group-title="BR HBO",BR186:Hbo 2 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65741
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65741
 #EXTINF:-1 tvg-id="hbo.2.br" tvg-name="BR052:HBO 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="BR HBO",BR052:HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2480
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2480
 #EXTINF:-1 tvg-name="BR187:Hbo 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR187Hbo2SD.png" group-title="BR HBO",BR187:Hbo 2 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65742
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65742
 #EXTINF:-1 tvg-id="hbo.family.br" tvg-name="BR053:HBO Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png" group-title="BR HBO",BR053:HBO Family HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2479
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2479
 #EXTINF:-1 tvg-name="BR188:Hbo family SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png" group-title="BR HBO",BR188:Hbo family SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65743
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65743
 #EXTINF:-1 tvg-name="BR190:Hbo Mundi SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" group-title="BR HBO",BR190:Hbo Mundi SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65745
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65745
 #EXTINF:-1 tvg-name="BR191:Hbo Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR191HboPlusFHD.png" group-title="BR HBO",BR191:Hbo Plus FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65746
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65746
 #EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="BR055:HBO Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="BR HBO",BR055:HBO Plus HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2477
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2477
 #EXTINF:-1 tvg-name="BR192:Hbo Plus SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR192HboPlusSD.png" group-title="BR HBO",BR192:Hbo Plus SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65747
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65747
 #EXTINF:-1 tvg-name="BR194:Hbo Signature FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR194HboSignatureFHD.png" group-title="BR HBO",BR194:Hbo Signature FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65749
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65749
 #EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="BR056:HBO Signature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="BR HBO",BR056:HBO Signature HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2476
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2476
 #EXTINF:-1 tvg-name="BR195:Hbo Signature SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR195HboSignatureSD.png" group-title="BR HBO",BR195:Hbo Signature SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65750
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65750
 #EXTINF:-1 tvg-name="BR196:Hbo Xtreme FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png" group-title="BR HBO",BR196:Hbo Xtreme FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65751
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65751
 #EXTINF:-1 tvg-name="BR197:Hbo Xtreme SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png" group-title="BR HBO",BR197:Hbo Xtreme SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65752
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65752
 #EXTINF:-1 tvg-name="BR:-----|Canais Telecine|---------------------------------" group-title="BR Telecine",BR:-----|Canais Telecine|---------------------------------
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66012
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66012
 #EXTINF:-1 tvg-name="BR245:Telecine Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR245TelecineActionFHD.png" group-title="BR Telecine",BR245:Telecine Action FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65800
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65800
 #EXTINF:-1 tvg-id="telecine.action.br" tvg-name="BR093:Telecine Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="BR Telecine",BR093:Telecine Action HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2439
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2439
 #EXTINF:-1 tvg-name="BR246:Telecine Action SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR246TelecineActionSD.png" group-title="BR Telecine",BR246:Telecine Action SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65801
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65801
 #EXTINF:-1 tvg-name="BR247:Telecine Cult FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR247TelecineCultFHD.png" group-title="BR Telecine",BR247:Telecine Cult FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65802
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65802
 #EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="BR094:Telecine Cult HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png" group-title="BR Telecine",BR094:Telecine Cult HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2438
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2438
 #EXTINF:-1 tvg-name="BR248:Telecine Cult SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png" group-title="BR Telecine",BR248:Telecine Cult SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65803
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65803
 #EXTINF:-1 tvg-name="BR249:Telecine Fun FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR249TelecineFunFHD.png" group-title="BR Telecine",BR249:Telecine Fun FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65804
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65804
 #EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="BR095:Telecine Fun HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png" group-title="BR Telecine",BR095:Telecine Fun HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2437
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2437
 #EXTINF:-1 tvg-name="BR250:Telecine Fun SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR250TelecineFunSD.png" group-title="BR Telecine",BR250:Telecine Fun SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65805
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65805
 #EXTINF:-1 tvg-name="BR251:Telecine Pipoca FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR251TelecinePipocaFHD.png" group-title="BR Telecine",BR251:Telecine Pipoca FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65806
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65806
 #EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="BR096:Telecine Pipoca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="BR Telecine",BR096:Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2436
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2436
 #EXTINF:-1 tvg-name="BR252:Telecine Pipoca SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR252TelecinePipocaSD.png" group-title="BR Telecine",BR252:Telecine Pipoca SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65807
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65807
 #EXTINF:-1 tvg-name="BR253:Telecine Premium FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR253TelecinePremiumFHD.png" group-title="BR Telecine",BR253:Telecine Premium FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65808
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65808
 #EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="BR097:Telecine Premium HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png" group-title="BR Telecine",BR097:Telecine Premium HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2435
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2435
 #EXTINF:-1 tvg-name="BR254:Telecine Premium SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png" group-title="BR Telecine",BR254:Telecine Premium SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65809
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65809
 #EXTINF:-1 tvg-name="BR255:Telecine Touch FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" group-title="BR Telecine",BR255:Telecine Touch FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65810
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65810
 #EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="BR098:Telecine Touch HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="BR Telecine",BR098:Telecine Touch HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2434
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2434
 #EXTINF:-1 tvg-name="BR256:Telecine Touch SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR256TelecineTouchSD.png" group-title="BR Telecine",BR256:Telecine Touch SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65811
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65811
 #EXTINF:-1 tvg-name="BR:-----|Canais Premiere|---------------------------------" group-title="BR Premiere",BR:-----|Canais Premiere|---------------------------------
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66019
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66019
 #EXTINF:-1 tvg-name="BR220:Premiere 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR220Premiere2FHD.png" group-title="BR Premiere",BR220:Premiere 2 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65775
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65775
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR075:Premiere 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="BR Premiere",BR075:Premiere 2 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2457
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2457
 #EXTINF:-1 tvg-name="BR221:Premiere 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR221Premiere2SD.png" group-title="BR Premiere",BR221:Premiere 2 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65776
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65776
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR076:Premiere 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="BR Premiere",BR076:Premiere 3 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2456
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2456
 #EXTINF:-1 tvg-name="BR222:Premiere 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR222Premiere3SD.png" group-title="BR Premiere",BR222:Premiere 3 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65777
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65777
 #EXTINF:-1 tvg-name="BR223:Premiere 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR223Premiere4FHD.png" group-title="BR Premiere",BR223:Premiere 4 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65778
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65778
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR077:Premiere 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png" group-title="BR Premiere",BR077:Premiere 4 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2455
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2455
 #EXTINF:-1 tvg-name="BR224:Premiere 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR224Premiere4SD.png" group-title="BR Premiere",BR224:Premiere 4 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65779
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65779
 #EXTINF:-1 tvg-name="BR225:Premiere 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR225Premiere5FHD.png" group-title="BR Premiere",BR225:Premiere 5 FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65780
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65780
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="BR078:Premiere 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png" group-title="BR Premiere",BR078:Premiere 5 HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2454
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2454
 #EXTINF:-1 tvg-name="BR226:Premiere 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR226Premiere5SD.png" group-title="BR Premiere",BR226:Premiere 5 SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65781
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65781
 #EXTINF:-1 tvg-name="BR227:Premiere Clubes FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR227PremiereClubesFHD.png" group-title="BR Premiere",BR227:Premiere Clubes FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65782
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65782
 #EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="BR081:Premiere Clubes HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png" group-title="BR Premiere",BR081:Premiere Clubes HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2451
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2451
 #EXTINF:-1 tvg-name="BR228:Premiere Clubes SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR228PremiereClubesSD.png" group-title="BR Premiere",BR228:Premiere Clubes SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65783
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65783
 #EXTINF:-1 tvg-name="BR:-----|Infantis|---------------------------------" group-title="BR Infantis",BR:-----|Infantis|---------------------------------
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66016
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/66016
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BR017:Baby TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" group-title="BR Infantis",BR017:Baby TV HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2515
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2515
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BR114:Baby tv SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR114BabytvSD.png" group-title="BR Infantis",BR114:Baby tv SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65669
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65669
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR118:Boomerang FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR118BoomerangFHD.png" group-title="BR Infantis",BR118:Boomerang FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65673
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65673
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR011:Boomerang HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" group-title="BR Infantis",BR011:Boomerang HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2521
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2521
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR119:Boomerang SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR119BoomerangSD.png" group-title="BR Infantis",BR119:Boomerang SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65674
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65674
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="BR120:Cartoon Network FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png" group-title="BR Infantis",BR120:Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65675
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65675
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="BR013:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR013CartoonNetworkBR.png" group-title="BR Infantis",BR013:Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2519
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2519
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="BR121:Cartoon Network SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR121CartoonNetworkSD.png" group-title="BR Infantis",BR121:Cartoon Network SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65676
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65676
 #EXTINF:-1 tvg-id="disney.br" tvg-name="BR147:Disney Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR147DisneyChannelFHD.png" group-title="BR Infantis",BR147:Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65702
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65702
 #EXTINF:-1 tvg-id="disney.br" tvg-name="BR026:Disney HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" group-title="BR Infantis",BR026:Disney HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2506
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2506
 #EXTINF:-1 tvg-id="disney.br" tvg-name="BR148:Disney Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR148DisneyChannelSD.png" group-title="BR Infantis",BR148:Disney Channel SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65703
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65703
 #EXTINF:-1 tvg-id="disney.junior.br" tvg-name="BR149:Disney JR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR149DisneyJRFHD.png" group-title="BR Infantis",BR149:Disney JR FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65704
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65704
 #EXTINF:-1 tvg-id="disney.junior.br" tvg-name="BR027:DISNEY JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" group-title="BR Infantis",BR027:DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2505
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2505
 #EXTINF:-1 tvg-name="BR150:Disney JR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR150DisneyJRSD.png" group-title="BR Infantis",BR150:Disney JR SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65705
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65705
 #EXTINF:-1 tvg-name="BR151:Disney XD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR151DisneyXDFHD.png" group-title="BR Infantis",BR151:Disney XD FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65706
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65706
 #EXTINF:-1 tvg-id="disney.xd.br" tvg-name="BR028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" group-title="BR Infantis",BR028:Disney XD HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2504
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2504
 #EXTINF:-1 tvg-name="BR152:Disney XD SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR152DisneyXDSD.png" group-title="BR Infantis",BR152:Disney XD SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65707
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65707
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR136:Discovery Kids FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR136DiscoveryKidsFHD.png" group-title="BR Infantis",BR136:Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65691
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65691
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR021:Discovery Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" group-title="BR Infantis",BR021:Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2511
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2511
 #EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="BR137:Discovery Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png" group-title="BR Infantis",BR137:Discovery Kids SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65692
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65692
 #EXTINF:-1 tvg-id="gloobinho.br" tvg-name="BR049:Gloobinho HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" group-title="BR Infantis",BR049:Gloobinho HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2483
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2483
 #EXTINF:-1 tvg-name="BR182:Gloobinho SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR182GloobinhoSD.png" group-title="BR Infantis",BR182:Gloobinho SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65737
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65737
 #EXTINF:-1 tvg-name="BR180:Gloob FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR180GloobFHD.png" group-title="BR Infantis",BR180:Gloob FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65735
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65735
 #EXTINF:-1 tvg-name="BR181:Gloob SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR181GloobSD.png" group-title="BR Infantis",BR181:Gloob SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65736
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65736
 #EXTINF:-1 tvg-name="BR210:Nat Geo Kids FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="BR Infantis",BR210:Nat Geo Kids FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65765
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65765
 #EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="BR069:NAT GEO Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR069NATGEOKidsBR.png" group-title="BR Infantis",BR069:NAT GEO Kids HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2463
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2463
 #EXTINF:-1 tvg-name="BR211:Nat Geo Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR211NatGeoKidsSD.png" group-title="BR Infantis",BR211:Nat Geo Kids SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65766
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65766
 #EXTINF:-1 tvg-name="BR214:Nick JR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR214NickJRFHD.png" group-title="BR Infantis",BR214:Nick JR FHD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65769
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65769
 #EXTINF:-1 tvg-id="nick.jr.br" tvg-name="BR071:NICK JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" group-title="BR Infantis",BR071:NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2461
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2461
 #EXTINF:-1 tvg-name="BR215:Nick JR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR215NickJRSD.png" group-title="BR Infantis",BR215:Nick JR SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65770
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65770
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="BR072:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR072NickelodeonBR.png" group-title="BR Infantis",BR072:Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2460
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2460
 #EXTINF:-1 tvg-name="BR216:Nickelodeon SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR216NickelodeonSD.png" group-title="BR Infantis",BR216:Nickelodeon SD
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65771
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/65771
 #EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="BR102:TV Ra Tim Bum" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" group-title="BR Infantis",BR102:TV Ra Tim Bum
-plugin://plugin.video.f4mTester/?name=[COR branca][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2430
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://c2.abcnew.site:8880/2Ke2X2bBjR/4ZjeuZj7mF/2430
