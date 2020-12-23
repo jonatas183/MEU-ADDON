@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC
+#EXTM3U#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83522
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/136797
@@ -159,102 +158,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83428
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner Channel HD" tvg-logo="https://i.imgur.com/jCMMmP9.png" group-title="Canais | Filmes e Séries",Warner Channel HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83277
-#EXTINF:-1 tvg-id="Baby Tv" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="Canais | Infantil",BabyTV
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83525
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83531
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126104
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD H.265" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83372
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83536
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126105
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD H.265" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83375
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83192
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83543
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126106
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD H.265" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83378
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83199
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83545
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126107
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD H.265" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney Channel FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83380
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney channel HD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney channel HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83204
-#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83546
-#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior FHD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126108
-#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior FHD H.265" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83381
-#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior HD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83205
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="Canais | Infantil",Disney XD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83547
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83570
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126109
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD H.265" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83392
-#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83221
-#EXTINF:-1 tvg-name="LOADING" tvg-logo="https://loading.com.br/assets/images/logotipo-loading.png" group-title="Canais | Infantil",LOADING
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83668
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83590
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126111
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD H.265" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83401
-#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83239
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83594
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR FHD" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126113
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD H.265" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83403
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83242
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83595
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126112
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD H.265" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon FHD H.265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83402
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83241
-#EXTINF:-1 tvg-id="AeE" tvg-name="Play Kids" tvg-logo="https://i.imgur.com/9ZMpOsy.png" group-title="Canais | Infantil",Play Kids
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83672
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/OwqPlhS.png" group-title="Canais | Infantil",Tooncast
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83640
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast FHD" tvg-logo="https://i.imgur.com/OwqPlhS.png" group-title="Canais | Infantil",Tooncast FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126116
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="TV Globinho" tvg-logo="https://i.imgur.com/bNaGiy1.png" group-title="Canais | Infantil",TV Globinho
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83666
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="TV Globinho FHD" tvg-logo="https://i.imgur.com/bNaGiy1.png" group-title="Canais | Infantil",TV Globinho FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126110
-#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra tim bum" tvg-logo="https://i.imgur.com/S0CVIGJ.png" group-title="Canais | Infantil",TV Ra tim bum
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83650
-#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/S0CVIGJ.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83272
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83662
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo FHD" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126114
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo HD" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126115
 #EXTINF:-1 tvg-name="All Sports" tvg-logo="https://i.imgur.com/eD2DQMT.png" group-title="Canais | Esportes",All Sports
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/84739
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="Canais | Esportes",Band Sports
@@ -421,6 +324,102 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83300
 #EXTINF:-1 tvg-name="Copa do Nordeste 2020 [Jogo 4]" tvg-logo="https://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Esportes",Copa do Nordeste 2020 [Jogo 4]
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83302
+#EXTINF:-1 tvg-id="Baby Tv" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="Canais | Infantil",BabyTV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83525
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83531
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126104
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD H.265" tvg-logo="https://i.imgur.com/moJBwgN.png" group-title="Canais | Infantil",Boomerang FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83372
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83536
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126105
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network FHD H.265" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83375
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | Infantil",Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83192
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83543
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126106
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD H.265" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83378
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="Canais | Infantil",Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83199
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83545
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126107
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD H.265" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney Channel FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83380
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney channel HD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="Canais | Infantil",Disney channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83204
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83546
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior FHD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126108
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior FHD H.265" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83381
+#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney Junior HD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="Canais | Infantil",Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83205
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="Canais | Infantil",Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83547
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83570
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126109
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD H.265" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83392
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="https://i.imgur.com/Xnek9Ys.png" group-title="Canais | Infantil",Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83221
+#EXTINF:-1 tvg-name="LOADING" tvg-logo="https://loading.com.br/assets/images/logotipo-loading.png" group-title="Canais | Infantil",LOADING
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83668
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83590
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126111
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids FHD H.265" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83401
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids HD" tvg-logo="https://i.imgur.com/M5nmqoi.png" group-title="Canais | Infantil",NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83239
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83594
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR FHD" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126113
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD H.265" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83403
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="https://i.imgur.com/Up1NKQt.png" group-title="Canais | Infantil",Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83242
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83595
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126112
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD H.265" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83402
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/z9U8Fen.png" group-title="Canais | Infantil",Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83241
+#EXTINF:-1 tvg-id="AeE" tvg-name="Play Kids" tvg-logo="https://i.imgur.com/9ZMpOsy.png" group-title="Canais | Infantil",Play Kids
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83672
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://i.imgur.com/OwqPlhS.png" group-title="Canais | Infantil",Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83640
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast FHD" tvg-logo="https://i.imgur.com/OwqPlhS.png" group-title="Canais | Infantil",Tooncast FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126116
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="TV Globinho" tvg-logo="https://i.imgur.com/bNaGiy1.png" group-title="Canais | Infantil",TV Globinho
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83666
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="TV Globinho FHD" tvg-logo="https://i.imgur.com/bNaGiy1.png" group-title="Canais | Infantil",TV Globinho FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126110
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra tim bum" tvg-logo="https://i.imgur.com/S0CVIGJ.png" group-title="Canais | Infantil",TV Ra tim bum
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83650
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://i.imgur.com/S0CVIGJ.png" group-title="Canais | Infantil",TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83272
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83662
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo FHD" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126114
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo HD" tvg-logo="https://i.imgur.com/R1qxumF.png" group-title="Canais | Infantil",ZooMoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/126115
 #EXTINF:-1 tvg-id="Conmenbol 01" tvg-name="Conmebol TV 01 FHD" tvg-logo="https://i.imgur.com/XNCkpsZ.png" group-title="Canais | Libertadores 2020",Conmebol TV 01 FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://cdn.swux.us:80/christos/3l3m3n74ry/83866
 #EXTINF:-1 tvg-id="Conmenbol 01" tvg-name="Conmebol TV 01 HD" tvg-logo="https://i.imgur.com/XNCkpsZ.png" group-title="Canais | Libertadores 2020",Conmebol TV 01 HD
