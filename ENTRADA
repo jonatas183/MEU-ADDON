@@ -10,13 +10,12 @@
 [COLOR green][B]VERDE[/B][/COLOR] - Online
 [COLOR red][B]VERMELHO[/B][/COLOR] - Offline
 [COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
-[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
 
 ##########•|DESENHOS 24H|•##########
 
 <channels>
 <channel>
-<name>[COLOR red][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]DESENHOS 24H[/B][/COLOR] - [COLOR blue][B]EM BREVE!!![/B][/COLOR]</name>
+<name>[COLOR red][B]||[/B][/COLOR] [COLOR blue][B]●[/B][/COLOR] [COLOR white][B]DESENHOS 24H[/B][/COLOR] - [COLOR yellow][B]EM BREVE!!![/B][/COLOR]</name>
 <thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -39,7 +38,6 @@
 [COLOR green][B]VERDE[/B][/COLOR] - Online
 [COLOR red][B]VERMELHO[/B][/COLOR] - Offline
 [COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
-[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando
 
 </info>
 
@@ -55,18 +53,6 @@
 [COLOR green][B]VERDE[/B][/COLOR] - Online
 [COLOR red][B]VERMELHO[/B][/COLOR] - Offline
 [COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
-[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
 
 ##########•|ANIMES|•##########
-<channels>
-<channel>
-<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR] [COLOR white][B]ANIMES[/B][/COLOR]</name>
-<thumbnail>https://logodetimes.com/times/internacional/logo-internacional-2048.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/SUBPASTA%20ANIMES</externallink>
-<fanart></fanart>
-<info>[COLOR white][B]Pontos em:[/B][/COLOR]
 
-[COLOR green][B]VERDE[/B][/COLOR] - Online
-[COLOR red][B]VERMELHO[/B][/COLOR] - Offline
-[COLOR yellow][B]AMARELO[/B][/COLOR] - Manutenção
-[COLOR blue][B]AZUL[/B][/COLOR] - Atualizando</info>
