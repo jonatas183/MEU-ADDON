@@ -1,4 +1,11 @@
 #EXTM3U
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.live/assistir_no_thanksgod.php?id=vintequatrohrs2</link>
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_cult.png</thumbnail>
+</item>
+
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_tbs_despues.jpg" group-title="Canais | Filmes e Séries ",TBS HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=http://needuhd.life:8080/live/Orlando/Orlando123/103123.m3u8
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="Canais | Filmes e Séries ",A&E FHD
