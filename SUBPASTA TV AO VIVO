@@ -1,8 +1,4 @@
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.live/assistir_no_thanksgod.php?id=vintequatrohrs2</link>
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_cult.png</thumbnail>
-</item>
+
 
 <channels>
 <channel>
@@ -27,3 +23,12 @@
 <externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203</externallink>
 <fanart></fanart>
 <info></info>
+
+<channels>
+<channel>
+<name>[COLOR white][B]||[/B][/COLOR] [COLOR green][B]●[/B][/COLOR][COLOR white][B] TV AO VIVO[/B][/COLOR] | [COLOR white][B]OPÇÃO 4[/B][/COLOR] - [COLOR yellow][B]TESTE[/B][/COLOR]</name>
+<thumbnail>https://i0.wp.com/dreamleaguesoccer.com.br/wp-content/uploads/2016/10/Internacional-escudo.png?fit=512,512&ssl=1</thumbnail>
+<externallink>https://raw.githubusercontent.com/jonatas183/MEU-ADDON/master/TV%20AO%20VIVO%20OP%C3%87%C3%83O%203</externallink>
+<fanart></fanart>
+<info></info>
+
