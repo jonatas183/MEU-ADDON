@@ -17,8 +17,9 @@
 </item>
 
 <item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<title>[B][COLOR white]TNT[/COLOR][/B]</title>
 <link>https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://topcanais.com/</link>
+<link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&amp;url=https://geralorigin.eu-central-1.edge.mycdn.live/live/tnthd/video.m3u8|Referer=https://topcanais.com/</link>
 <thumbnail></thumbnail>
 </item>
 
