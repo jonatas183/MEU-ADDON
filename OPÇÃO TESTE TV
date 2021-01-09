@@ -18,7 +18,8 @@
 
 <item>
 <title>[B][COLOR white]PREMIERE 2[/COLOR][/B]</title>
-<link>https://live.skygato.tv/PREMIERE2/video.m3u8|Referer=https://esporteone.com/</link>
+<link>https://live.skygato.tv/PREMIERE2/video.m3u8|Referer=https://multicanais.com/$$lsname=OPÇÃO 1</link>
+<link>https://live.skygato.tv/PREMIERE2/video.m3u8|Referer=https://esporteone.com/player/jogos.php?canal=PREMIERE2$$lsname=OPÇÃO 2</link>
 <thumbnail></thumbnail>
 </item>
 
