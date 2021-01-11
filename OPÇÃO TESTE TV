@@ -1,31 +1,869 @@
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]ABERTOS[/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/K8bQXjHq/Abertos.png</thumbnail>
 <item>
-<title>[B][COLOR white]GLOBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail></thumbnail>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]bandcampinassd/video.m3u8|Referer=https://topcanais.com/</link>
+
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/band.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]globorjhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_rj.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]globosphd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_sp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]sbthd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sbt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]recordhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/record.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w432861190.m3u8</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/redetv.png</thumbnail>
+</item>
+
+</channel>
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]NOTÍCIAS [/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/Dw1HJRfB/noticias1.png</thumbnail>
+
+
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]bandnewshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/band_news.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]CNN BRASIL[/COLOR][COLOR lime]HD[/COLOR][/B]</title>
+<link>https://streaming.cnnbrasil.com.br/cnndigital_mainOutput3.m3u8</link>
+
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png</thumbnail>
+<fanart>https://i.imgur.com/nDODjpn.jpg</fanart>
+<info>[COLOR white][B]CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro, em propriedade da WarnerMedia, uma subsidiária da AT&T. A CNN Brasil licenciada pela CNN rede de notícias estadunidense, será fundado em 2020, pelo proprietário da mídia e da MRV Engenharia Rubens Menin, e pelo ex-diretor de jornalismo da RecordTV Douglas Tavolaro, como um canal de notícias 24 horas. Sua sede fica na Avenida Paulista, em São Paulo, com filiais no Rio de Janeiro e em Brasília, além de filiais internacionais, com cerca de 400 jornalistas.[/B][/COLOR]</info>
+<genre>[COLOR White]CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro.[/COLOR]</genre>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]globonewshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globonews.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]recordnewshd/video.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]INFANTIL [/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/3Jm9bmn0/Infantil.png</thumbnail>
+
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]boomeranghd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]cartoonnetworkhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/cartoon_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoverykidshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]disneychannelhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]disneyjuniorhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_junior.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]disneyxdhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_xd.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]gloobhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]nickelodeonhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/nick.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]nickjrhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/nick_jr.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tooncasthd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tooncast.png</thumbnail>
+</item>
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/RVk20vmW/documentarios1.png</thumbnail>
+
+
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]animalplanethd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/animal_planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoveryhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoverycivilizationhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_civilization.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoverysiencehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoverytheaterhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]historyhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/history.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]h2hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/h2.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]nathd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]natgeowildhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/natgeo_wild.png</thumbnail>
+</item>
+
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]ESPORTES[/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/ryvQJQCL/Esportes.png</thumbnail>
+
+
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]bandsportshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/bandsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]combate/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoveryturbohd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]espn/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]espnmaishd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]espnbrasil/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn_brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxsports/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/foxsports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxsports2hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/foxsports2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/playlist.m3u8</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere2hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere3hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere4hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere5hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere6hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere7hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere8hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]premiere9hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]sportv/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]sportv2/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]sportv3/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
+</item>
+
+</channel>
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]FILMES & SÉRIES [/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/8CD3hwjD/filmes-e-series-1.png</thumbnail>
+
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]aehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]amchd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/amc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]axnhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/axn.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]cinemaxhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxpremium1hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxpremium2hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_premium.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]fxhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fx.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]hbohd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]hbo2hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]hbofamilyhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]hboplushd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_plus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]hbosignaturehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_signature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]maxhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]maxprimehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max_prime.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]maxuphd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max_up.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]megapixhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]paramountchannelhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]sonyhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sony.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]spacehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/space.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]studiouniversalhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/studio_universal.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]syfyhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/syfy.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tcmhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tcm.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]telecineactionhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_action.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]telecineculthd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_cult.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tcfunhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_fun.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail></thumbnail>
+<link>$doregex[CONEXAOPLAY]telecinepipocahd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_pipoca.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail></thumbnail>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]telecinepremiumhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_premium.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR][/B]</title>
-<link>https://live.skygato.tv/PREMIERE2/video.m3u8|Referer=https://multicanais.com/$$lsname=OPÇÃO 1</link>
-<link>https://live.skygato.tv/PREMIERE2/video.m3u8|Referer=https://esporteone.com/player/jogos.php?canal=PREMIERE2$$lsname=OPÇÃO 2</link>
-<thumbnail></thumbnail>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]telecinetouchhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_touch.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR white]TESTE[/COLOR][/B]</title>
-<link>https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8|Referer=https://futebolplayhd.com/</link>
-<thumbnail></thumbnail>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tnthd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tnt.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tntserieshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tnt_series.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]universalhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/universal_channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]warnerbrosshd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/warner_channel.png</thumbnail>
+</item>
+
+
+<channels>
+</channels><channel>
+<name>[B] [COLOR white]VARIEDADES [/COLOR][/B]</name>********************************************************************************
+<thumbnail>https://i.postimg.cc/Zng2pSyD/variedades1.png</thumbnail>
+
+<item>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]arte1hd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/arte1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]bishd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/bis.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]offhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/off.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]comedycentralhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/comedy_central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]curtahd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/curta!.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoveryhomeihealthhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_home_health.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]discoveryworldhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_world.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]fishtvhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fishtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foodnetworkhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/food_network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]foxlifehd.video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_life.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]gnthd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/gnt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]idhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_investigation.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]lifetimehd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/lifetime.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]LOADING[/COLOR] [COLOR lime][/COLOR][/B]</title>
+<link>https://cdn4.showcase.com.br/live/main_240p/index.m3u8</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://www.loading.com.br/assets/images/logotipo-loading.png</thumbnail>
+</item>
+
+https://cdn4.showcase.com.br/live/main_240p/index.m3u8
+<item>
+<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]maisbobosathd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/mais_globosat.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]mtvhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/mtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]multishowhd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/multishow.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]tlchd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tlc.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[CONEXAOPLAY]vivahd/video.m3u8|Referer=$doregex[BP0]</link>
+<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
+
+<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/viva.png</thumbnail>
+</item>
