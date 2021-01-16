@@ -1,0 +1,179 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="BR:A&E HD" group-title="BRASIL", BR:A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11309
+#EXTINF: -1 tvg-name="BR:ANIMAL PLANET HD" group-title="BRASIL", BR:ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11310
+#EXTINF: -1 tvg-name="BR:ARTE 1 HD" group-title="BRASIL", BR:ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11311
+#EXTINF: -1 tvg-name="BR:AXN HD" group-title="BRASIL", BR:AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11312
+#EXTINF: -1 tvg-name="BR:BAND HD" group-title="BRASIL", BR:BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11313
+#EXTINF: -1 tvg-name="BR:BAND NEWS HD" group-title="BRASIL", BR:BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11314
+#EXTINF: -1 tvg-name="BR:BAND SPORTS HD" group-title="BRASIL", BR:BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11315
+#EXTINF: -1 tvg-name="BR:BIS HD" group-title="BRASIL", BR:BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11316
+#EXTINF: -1 tvg-name="BR:BOOMERANG HD" group-title="BRASIL", BR:BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11317
+#EXTINF: -1 tvg-name="BR:CANAL BRASIL HD" group-title="BRASIL", BR:CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11318
+#EXTINF: -1 tvg-name="BR:CARTOON NETWORK HD" group-title="BRASIL", BR:CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11320
+#EXTINF: -1 tvg-name="BR:CINEMAX HD" group-title="BRASIL", BR:CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11321
+#EXTINF: -1 tvg-name="BR:COMEDY CENTRAL HD" group-title="BRASIL", BR:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11322
+#EXTINF: -1 tvg-name="BR:DISCOVERY CH. HD" group-title="BRASIL", BR:DISCOVERY CH. HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11324
+#EXTINF: -1 tvg-name="BR:DISCOVERY CIVILIZATION HD" group-title="BRASIL", BR:DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11325
+#EXTINF: -1 tvg-name="BR:DISCOVERY H&H HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_panregional.png" group-title="BRASIL", BR:DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11326
+#EXTINF: -1 tvg-name="BR:DISCOVERY KIDS HD" group-title="BRASIL", BR:DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11328
+#EXTINF: -1 tvg-name="BR:DISCOVERY SCIENCE HD" group-title="BRASIL", BR:DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11329
+#EXTINF: -1 tvg-name="BR:DISCOVERY THEATHER HD" group-title="BRASIL", BR:DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11330
+#EXTINF: -1 tvg-name="BR:DISCOVERY TURBO HD" group-title="BRASIL", BR:DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11331
+#EXTINF: -1 tvg-name="BR:DISNEY CHANNEL HD" group-title="BRASIL", BR:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11333
+#EXTINF: -1 tvg-name="BR:DISNEY JUNIOR HD" group-title="BRASIL", BR:DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11334
+#EXTINF: -1 tvg-name="BR:DISNEY XD HD" group-title="BRASIL", BR:DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11335
+#EXTINF: -1 tvg-name="BR:E! HD" group-title="BRASIL", BR:E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11336
+#EXTINF: -1 tvg-name="BR:ESPN 2 HD" group-title="BRASIL", BR:ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11337
+#EXTINF: -1 tvg-name="BR:ESPN HD" group-title="BRASIL", BR:ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11338
+#EXTINF: -1 tvg-name="BR:FISH TV HD" group-title="BRASIL", BR:FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11339
+#EXTINF: -1 tvg-name="BR:FOX HD" group-title="BRASIL", BR:FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11340
+#EXTINF: -1 tvg-name="BR:FOX PREMIUM 2 HD" group-title="BRASIL", BR:FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11343
+#EXTINF: -1 tvg-name="BR:FOX SPORTS 2 HD" group-title="BRASIL", BR:FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11344
+#EXTINF: -1 tvg-name="BR:FUTURA HD" group-title="BRASIL", BR:FUTURA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11345
+#EXTINF: -1 tvg-name="BR:FX HD" group-title="BRASIL", BR:FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11346
+#EXTINF: -1 tvg-name="BR:GLOOB HD" group-title="BRASIL", BR:GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11348
+#EXTINF: -1 tvg-name="BR:GNT HD" group-title="BRASIL", BR:GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11349
+#EXTINF: -1 tvg-name="BR:HBO 2 HD" group-title="BRASIL", BR:HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11350
+#EXTINF: -1 tvg-name="BR:HBO FAMILY HD" group-title="BRASIL", BR:HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11351
+#EXTINF: -1 tvg-name="BR:HBO HD" group-title="BRASIL", BR:HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11352
+#EXTINF: -1 tvg-name="BR:HBO PLUS HD" group-title="BRASIL", BR:HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11353
+#EXTINF: -1 tvg-name="BR:HBO SIGNATURE HD" group-title="BRASIL", BR:HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11354
+#EXTINF: -1 tvg-name="BR:HISTORY 2 HD" group-title="BRASIL", BR:HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11355
+#EXTINF: -1 tvg-name="BR:HISTORY HD" group-title="BRASIL", BR:HISTORY HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11356
+#EXTINF: -1 tvg-name="BR:LIFETIME HD" group-title="BRASIL", BR:LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11357
+#EXTINF: -1 tvg-name="BR:MAIS GLOBOSAT HD" group-title="BRASIL", BR:MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11358
+#EXTINF: -1 tvg-name="BR:MAX HD" group-title="BRASIL", BR:MAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11359
+#EXTINF: -1 tvg-name="BR:MAX PRIME HD" group-title="BRASIL", BR:MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11360
+#EXTINF: -1 tvg-name="BR:MAX UP HD" group-title="BRASIL", BR:MAX UP HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11361
+#EXTINF: -1 tvg-name="BR:MEGAPIX HD" group-title="BRASIL", BR:MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11362
+#EXTINF: -1 tvg-name="BR:MULTISHOW HD" group-title="BRASIL", BR:MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11364
+#EXTINF: -1 tvg-name="BR:NAT GEO KIDS HD" group-title="BRASIL", BR:NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11365
+#EXTINF: -1 tvg-name="BR:NAT GEO WILD HD" group-title="BRASIL", BR:NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11366
+#EXTINF: -1 tvg-name="BR:NATIONAL GEOGRAPHIC HD" group-title="BRASIL", BR:NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11367
+#EXTINF: -1 tvg-name="BR:NICK JR HD" group-title="BRASIL", BR:NICK JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11368
+#EXTINF: -1 tvg-name="BR:NICKELODEON HD" group-title="BRASIL", BR:NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11369
+#EXTINF: -1 tvg-name="BR:NOVO TEMPO" group-title="BRASIL", BR:NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11319
+#EXTINF: -1 tvg-name="BR:OFF HD" group-title="BRASIL", BR:OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11370
+#EXTINF: -1 tvg-name="BR:PARAMOUNT HD" group-title="BRASIL", BR:PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11371
+#EXTINF: -1 tvg-name="BR:PREMIERE 1 HD" group-title="BRASIL", BR:PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11373
+#EXTINF: -1 tvg-name="BR:PREMIERE 3 HD" group-title="BRASIL", BR:PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11374
+#EXTINF: -1 tvg-name="BR:PREMIERE 6 HD" group-title="BRASIL", BR:PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11375
+#EXTINF: -1 tvg-name="BR:PREMIERE 7 HD" group-title="BRASIL", BR:PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11376
+#EXTINF: -1 tvg-name="BR:PREMIERE 8 HD" group-title="BRASIL", BR:PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11377
+#EXTINF: -1 tvg-name="BR:RECORD HD" group-title="BRASIL", BR:RECORD HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11379
+#EXTINF: -1 tvg-name="BR:RECORD NEWS HD" group-title="BRASIL", BR:RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11380
+#EXTINF: -1 tvg-name="BR:REDE TV HD" group-title="BRASIL", BR:REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11382
+#EXTINF: -1 tvg-name="BR:REDE VIDA HD" group-title="BRASIL", BR:REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11383
+#EXTINF: -1 tvg-name="BR:SBT HD" group-title="BRASIL", BR:SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11384
+#EXTINF: -1 tvg-name="BR:SONY HD" group-title="BRASIL", BR:SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11385
+#EXTINF: -1 tvg-name="BR:SPACE HD" group-title="BRASIL", BR:SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11386
+#EXTINF: -1 tvg-name="BR:SPORTV 3 HD" group-title="BRASIL", BR:SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11387
+#EXTINF: -1 tvg-name="BR:SPORTV HD" group-title="BRASIL", BR:SPORTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11388
+#EXTINF: -1 tvg-name="BR:SYFY HD" group-title="BRASIL", BR:SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11390
+#EXTINF: -1 tvg-name="BR:TBS HD" group-title="BRASIL", BR:TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11391
+#EXTINF: -1 tvg-name="BR:TCM HD" group-title="BRASIL", BR:TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11392
+#EXTINF: -1 tvg-name="BR:TELECINE ACTION HD" group-title="BRASIL", BR:TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11393
+#EXTINF: -1 tvg-name="BR:TELECINE FUN HD" group-title="BRASIL", BR:TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11395
+#EXTINF: -1 tvg-name="BR:TELECINE PIPOCA HD" group-title="BRASIL", BR:TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11396
+#EXTINF: -1 tvg-name="BR:TELECINE PREMIUM HD" group-title="BRASIL", BR:TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11397
+#EXTINF: -1 tvg-name="BR:TELECINE TOUCH HD" group-title="BRASIL", BR:TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11398
+#EXTINF: -1 tvg-name="BR:TLC HD" group-title="BRASIL", BR:TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11399
+#EXTINF: -1 tvg-name="BR:TNT HD" group-title="BRASIL", BR:TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11400
+#EXTINF: -1 tvg-name="BR:TNT SERIES HD" group-title="BRASIL", BR:TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11401
+#EXTINF: -1 tvg-name="BR:TOONCAST HD" group-title="BRASIL", BR:TOONCAST HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11402
+#EXTINF: -1 tvg-name="BR:TRAVEL BOX HD" group-title="BRASIL", BR:TRAVEL BOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11403
+#EXTINF: -1 tvg-name="BR:TV CÂMARA HD" group-title="BRASIL", BR:TV CÂMARA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11405
+#EXTINF: -1 tvg-id="tvecola.br" tvg-name="BR:TV ESCOLA HD" tvg-logo="https://www.netcombo.com.br/cs/Satellite/NET/media/logotvescola.jpg" group-title="BRASIL", BR:TV ESCOLA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11407
+#EXTINF: -1 tvg-id="universal.br" tvg-name="BR:UNIVERSAL CHANNEL HD" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/99x38_LOG_SKY_UNIVERSAL.png/544d2fb4-6b6f-0e68-ea1e-64bceeb91460?t=1525027174318" group-title="BRASIL", BR:UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11409
+#EXTINF: -1 tvg-id="vh1.br" tvg-name="BR:VH1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/vh1_europa.png" group-title="BRASIL", BR:VH1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11410
+#EXTINF: -1 tvg-id="viva.br" tvg-name="BR:VIVA HD" tvg-logo="https://www.netcombo.com.br/cs/Satellite/NET/media/logoviva.png" group-title="BRASIL", BR:VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11411
+#EXTINF: -1 tvg-id="warnerchan.br" tvg-name="BR:WARNER HD" tvg-logo="https://warnerchannel.scdn7.secure.raxcdn.com/img/logo.svg" group-title="BRASIL", BR:WARNER HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://uruguayiptv.com:25461/leandro1/leandro123/11412
