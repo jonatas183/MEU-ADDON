@@ -1,0 +1,397 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/A&E%20HD.png",A&E HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/245.ts
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/A&E.png",A&E SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/246.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="All Sports TV HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Canal%20All%20Sports.png",All Sports TV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/477.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/AMC%20HD.png",AMC HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/247.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/AMC.png",AMC SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/248.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/AXN%20HD.png",AXN HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/249.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/AXN.png",AXN SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/250.ts
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Baby%20TV%20HD.png",Baby TV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/217.ts
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Baby%20TV.png",Baby TV SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/218.ts
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="Band Sports HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Bandsports%20HD.png",Band Sports HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/106.ts
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="Band Sports SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Band%20Sports.png",Band Sports SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/107.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 01: A Casa HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 01: A Casa HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164887.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 01: A Casa SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 01: A Casa SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164888.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 02: Confessionário HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 02: Confessionário HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164889.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 02: Confessionário SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 02: Confessionário SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164890.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 03: Quarto Cordel HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 03: Quarto Cordel HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164891.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 03: Quarto Cordel SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 03: Quarto Cordel SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164892.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 04: Quarto Colorido HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 04: Quarto Colorido HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164893.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 04: Quarto Colorido SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 04: Quarto Colorido SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164894.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 05: Chuveiro HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 05: Chuveiro HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164895.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 05: Chuveiro SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 05: Chuveiro SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164896.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 06: Cozinha Vip-Xepa HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 06: Cozinha Vip-Xepa HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164897.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 06: Cozinha Vip-Xepa SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 06: Cozinha Vip-Xepa SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164898.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 07: Sala de Estar HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 07: Sala de Estar HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164899.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 07: Sala de Estar SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 07: Sala de Estar SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164900.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 08: Piscina HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 08: Piscina HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164901.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 08: Piscina SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 08: Piscina SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164902.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 09: Jardim HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 09: Jardim HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164903.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 09: Jardim SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 09: Jardim SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164904.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 1 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 1 HD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/157796.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 1 SD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 1 SD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/158832.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 10: Academia HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 10: Academia HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164905.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 10: Academia SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 10: Academia SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164906.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 11: A Casa 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 11: A Casa 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164907.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 11: A Casa 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 11: A Casa 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/164908.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 2 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 2 HD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/157797.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 2 SD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 2 SD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/158833.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 3 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 3 HD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/157798.ts
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 3 SD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png",BBB 3 SD₂
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/158834.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Boomerang HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Boomerang%20HD.png",Boomerang HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/219.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Boomerang.png",Boomerang SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/220.ts
+#EXTINF:-1 tvg-id="SONY" tvg-name="Canal Sony HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Canal%20Sony%20HD.png",Canal Sony HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/251.ts
+#EXTINF:-1 tvg-id="SONY" tvg-name="Canal Sony SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Canal%20Sony.png",Canal Sony SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/252.ts
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Cartoon%20HD.png",Cartoon Network HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/221.ts
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Cartoon%20Network.png",Cartoon Network SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/222.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Cinemax%20HD.png",Cinemax HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/253.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Cinemax.png",Cinemax SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/254.ts
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Combate%20HD.png",Combate HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/108.ts
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Combate.png",Combate SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/109.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 01 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 01 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/114922.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 01 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 01 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/111210.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 02 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 02 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/114923.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 02 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 02 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/111211.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 03 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 03 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/114924.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 03 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 03 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/111212.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 04 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 04 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/114925.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 04 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png",Conmebol 04 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/111213.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Libertadores HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Copa%20Libertadores.jpg",Copa Libertadores HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97785.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Nordeste 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Copa%20Nordeste.jpg",Copa Nordeste 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97783.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Nordeste 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Copa%20Nordeste.jpg",Copa Nordeste 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97784.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Nordeste 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Copa%20Nordeste.jpg",Copa Nordeste 3 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97781.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Copa Nordeste 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Copa%20Nordeste.jpg",Copa Nordeste 4 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97782.ts
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Curta.png",Curta HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/85.ts
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Curta.png",Curta SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/86.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png",DAZN 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/13416.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png",DAZN 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/13417.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png",DAZN 3 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/13418.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png",DAZN 4 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/13415.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="Discovery Kids HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Discovery%20Kids%20HD.png",Discovery Kids HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/223.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="Discovery Kids SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Discovery%20Kids.png",Discovery Kids SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/224.ts
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney%20HD.png",Disney Channel HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/225.ts
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="Disney Channel SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney.png",Disney Channel SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/226.ts
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="Disney Jr HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney%20Junior%20HD.png",Disney Jr HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/227.ts
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="Disney Jr SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney%20Junior.png",Disney Jr SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/228.ts
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="Disney XD HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney%20XD%20HD.png",Disney XD HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/229.ts
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="Disney XD SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Disney%20XD.png",Disney XD SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/230.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Max 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/EI%20Maxx%20HD.png",Ei Max 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115129.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Max 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/EI%20Maxx%20HD.png",Ei Max 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115131.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Max 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/EI%20Maxx%20HD.png",Ei Max 3 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115133.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Max 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/EI%20Maxx%20HD.png",Ei Max 4 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115135.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Plus 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Ei%20Plus.png",Ei Plus 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115137.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Ei Plus 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Ei%20Plus.png",Ei Plus 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115152.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png",ESPN 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/110.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN.png",ESPN 1 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/111.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png",ESPN 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/112.ts
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202.png",ESPN 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/113.ts
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png",ESPN Brasil HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/114.ts
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil.png",ESPN Brasil SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115.ts
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png",ESPN Extra HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/2836.ts
+#EXTINF:-1 tvg-id="semepg.br" tvg-name="Film & Arts SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Film%20&%20Arts.png",Film & Arts SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/284.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="FlaTV HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FlaTV.jpg",FlaTV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/97756.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20HD.png",Fox 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/255.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox.png",Fox 1 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/256.ts
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Premium%201.png",Fox Premium 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/257.ts
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Premium%202.png",Fox Premium 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/259.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%20HD.png",Fox Sports 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/120.ts
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports.png",Fox Sports 1 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/121.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202%20HD.png",Fox Sports 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/122.ts
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202.png",Fox Sports 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/123.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Furacão TV HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FuracaoTV.png",Furacão TV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/115070.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Futebol HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FutebolTV.png",Futebol HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/118566.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FX%20HD.png",FX HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/261.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FX.png",FX SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/262.ts
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Gloob%20HD.png",Gloob HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/231.ts
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="Gloob SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Gloob.png",Gloob SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/232.ts
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Gloobinho.png",Gloobinho HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/2842.ts
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Gloobinho.png",Gloobinho SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/2841.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20HD.png",HBO 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/36.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO.png",HBO 1 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/37.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO2%20HD.png",HBO 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/39.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO2.png",HBO 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/40.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Family%20HD.png",HBO Family HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/42.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO Family SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Family.png",HBO Family SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/43.ts
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO Mundi HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Mundi.png",HBO Mundi HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/51.ts
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO Mundi SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Mundi.png",HBO Mundi SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/52.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Plus%20HD.png",HBO Plus HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/45.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO Plus SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Plus.png",HBO Plus SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/46.ts
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO Pop HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Pop.png",HBO Pop HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/467.ts
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO Pop SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Pop.png",HBO Pop SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/58.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Signature%20HD.png",HBO Signature HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/48.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO Signature SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Signature.png",HBO Signature SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/49.ts
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO Xtreme HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Extreme.png",HBO Xtreme HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/54.ts
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO Xtreme SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/HBO%20Extreme.png",HBO Xtreme SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/55.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="Megapix HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/MegaPix%20HD.png",Megapix HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/263.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="Megapix SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/MegaPix.png",Megapix SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/264.ts
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/NatGeo%20Kids.png",NatGeo Kids HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/233.ts
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/NatGeo%20Kids.png",NatGeo Kids SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/234.ts
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Nick%20Jr.png",Nick Jr HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/235.ts
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Nick%20Jr.png",Nick Jr SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/236.ts
+#EXTINF:-1 tvg-id="NICK" tvg-name="Nickelodeon HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Nick%20HD.png",Nickelodeon HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/237.ts
+#EXTINF:-1 tvg-id="NICK" tvg-name="Nickelodeon SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Nickelodeon.png",Nickelodeon SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/238.ts
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/OFF%20HD.png",OFF HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/124.ts
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/OFF.png",OFF SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/125.ts
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="Paramount HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Paramount%20HD.png",Paramount HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/265.ts
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="Paramount SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Paramount.png",Paramount SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/266.ts
+#EXTINF:-1 tvg-id="semepg.br" tvg-name="Play Kids HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/PlayKids.png",Play Kids HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/801.ts
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere 1 Clubes HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 1 Clubes HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/134.ts
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="Premiere 1 Clubes SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 1 Clubes SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/135.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/136.ts
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/137.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 3 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/138.ts
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 3 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/139.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 4 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/140.ts
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 4 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/141.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 5 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/142.ts
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 5 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/143.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 6 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/144.ts
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 6 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/145.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201%20HD.png",Premiere 7 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/146.ts
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 7 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/147.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Premiere 8 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 8 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/525.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Premiere 9 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Premiere%201.png",Premiere 9 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/527.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Real Madrid TV  HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Real%20Madrid%20TV.png",Real Madrid TV  HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/478.ts
+#EXTINF:-1 tvg-name="Red Bull TV HD₁" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf2498c5f4acc68c6abe02e0047722b.jpg",Red Bull TV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/481.ts
+#EXTINF:-1 tvg-name="Red Bull TV SD₁" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ddf2498c5f4acc68c6abe02e0047722b.jpg",Red Bull TV SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/480.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Space%20HD.png",Space HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/267.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Space.png",Space SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/268.ts
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Sportv%20HD.png",SporTV 1 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/126.ts
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV.png",SporTV 1 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/127.ts
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202%20HD.png",SporTV 2 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/128.ts
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202.png",SporTV 2 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/129.ts
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203%20HD.png",SporTV 3 HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/130.ts
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203.png",SporTV 3 SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/131.ts
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="Studio Universal HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Studio%20Universal%20HD.png",Studio Universal HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/269.ts
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="Studio Universal SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Studio%20Universal.png",Studio Universal SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/270.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="Syfy HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Syfy%20HD.png",Syfy HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/271.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="Syfy SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Syfy.png",Syfy SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/272.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TCM.png",TCM HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/838.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TCM.png",TCM SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/285.ts
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action%20HD.png",Telecine Action HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/7.ts
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action.png",Telecine Action SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/9.ts
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult%20HD.png",Telecine Cult HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/12.ts
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult.png",Telecine Cult SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/14.ts
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun%20HD.png",Telecine Fun HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/17.ts
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun.png",Telecine Fun SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/19.ts
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png",Telecine Pipoca HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/23.ts
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca.png",Telecine Pipoca SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/24.ts
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium%20HD.png",Telecine Premium HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/27.ts
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium.png",Telecine Premium SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/29.ts
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch%20HD.png",Telecine Touch HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/32.ts
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch.png",Telecine Touch SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/34.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TNT%20HD.png",TNT HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/273.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TNT.png",TNT SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/274.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT Series HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TNT%20Series%20HD.png",TNT Series HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/275.ts
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT Series SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TNT%20Series.png",TNT Series SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/276.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Tooncast.png",Tooncast HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/239.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="Tooncast SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Tooncast.png",Tooncast SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/240.ts
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra Tim Bum HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TV%20Ra%20Tim%20Bum.png",TV Ra Tim Bum HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/241.ts
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Ra Tim Bum SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/TV%20Ra%20Tim%20Bum.png",TV Ra Tim Bum SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/242.ts
+#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="Universal Channel HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Universal%20HD.png",Universal Channel HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/277.ts
+#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-name="Universal Channel SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Universal.png",Universal Channel SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/278.ts
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Vasco TV HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/VascoTV.png",Vasco TV HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/858.ts
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Warner%20HD.png",Warner Channel HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/279.ts
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="Warner Channel SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Warner.png",Warner Channel SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/280.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="Woohoo HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/WooHoo.png",Woohoo HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/132.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="Woohoo SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/WooHoo.png",Woohoo SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/133.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ZooMoo.png",Zoomoo HD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/243.ts
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ZooMoo.png",Zoomoo SD₁
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://sv1.vtvp2.top:8880/live/0931750139/05210414/244.ts
