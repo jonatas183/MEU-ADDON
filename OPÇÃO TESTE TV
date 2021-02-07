@@ -1,869 +1,955 @@
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]ABERTOS[/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/K8bQXjHq/Abertos.png</thumbnail>
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]bandcampinassd/video.m3u8|Referer=https://topcanais.com/</link>
-
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/band.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]globorjhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_rj.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]globosphd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globo_sp.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sbthd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sbt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]recordhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-https://canaismax.com/img/canais/899b5f5f08a0b7659ecd7ddbefd69785.png
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/record.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]REDE TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w432861190.m3u8</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/redetv.png</thumbnail>
-</item>
-
-</channel>
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]NOTÍCIAS [/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/Dw1HJRfB/noticias1.png</thumbnail>
-
-
-
-<item>
-<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]bandnewshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/band_news.png</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]CNN BRASIL[/COLOR][COLOR lime]HD[/COLOR][/B]</title>
-<link>https://streaming.cnnbrasil.com.br/cnndigital_mainOutput3.m3u8</link>
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png</thumbnail>
-<fanart>https://i.imgur.com/nDODjpn.jpg</fanart>
-<info>[COLOR white][B]CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro, em propriedade da WarnerMedia, uma subsidiária da AT&T. A CNN Brasil licenciada pela CNN rede de notícias estadunidense, será fundado em 2020, pelo proprietário da mídia e da MRV Engenharia Rubens Menin, e pelo ex-diretor de jornalismo da RecordTV Douglas Tavolaro, como um canal de notícias 24 horas. Sua sede fica na Avenida Paulista, em São Paulo, com filiais no Rio de Janeiro e em Brasília, além de filiais internacionais, com cerca de 400 jornalistas.[/B][/COLOR]</info>
-<genre>[COLOR White]CNN Brasil é um canal de notícias através de televisão por assinatura brasileiro.[/COLOR]</genre>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]globonewshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/globonews.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]recordnewshd/video.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]INFANTIL [/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/3Jm9bmn0/Infantil.png</thumbnail>
-
-
-<item>
-<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]boomeranghd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/boomerang.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]cartoonnetworkhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/cartoon_network.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoverykidshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_kids.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]disneychannelhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]disneyjuniorhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_junior.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]disneyxdhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/disney_xd.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]gloobhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/gloob.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]nickelodeonhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/nick.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]nickjrhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/nick_jr.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tooncasthd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tooncast.png</thumbnail>
-</item>
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/RVk20vmW/documentarios1.png</thumbnail>
-
-
-
-<item>
-<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]animalplanethd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/animal_planet.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoveryhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoverycivilizationhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_civilization.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoverysiencehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_science.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoverytheaterhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_theater.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]historyhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/history.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]h2hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/h2.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]nathd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/natgeo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]natgeowildhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/natgeo_wild.png</thumbnail>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]ESPORTES[/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/ryvQJQCL/Esportes.png</thumbnail>
-
-
-
-<item>
-<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]bandsportshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/bandsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMBATE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]combate/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/combate.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoveryturbohd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]espn/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]espnmaishd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]espnbrasil/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/espn_brasil.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxsports/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/foxsports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxsports2hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/foxsports2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/playlist.m3u8</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere2hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais1</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere3hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere4hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere5hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere6hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere7hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere8hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]premiere9hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/premiere.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sportv/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sportv2/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sportv3/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sportv.png</thumbnail>
-</item>
-
-</channel>
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]FILMES & SÉRIES [/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/8CD3hwjD/filmes-e-series-1.png</thumbnail>
-
-
-<item>
-<title>[B][COLOR white]A&E[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]aehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]amchd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/amc.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]AXN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]axnhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/axn.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]cinemaxhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/cinemax.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxpremium1hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxpremium2hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]fxhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fx.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]hbohd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]hbo2hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]hbofamilyhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_family.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]hboplushd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_plus.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]hbosignaturehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/hbo_signature.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]maxhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]maxprimehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max_prime.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MAX UP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]maxuphd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/max_up.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]megapixhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/megapix.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]paramountchannelhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/paramount.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sonyhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/sony.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]spacehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/space.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]studiouniversalhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/studio_universal.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]syfyhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/syfy.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tcmhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tcm.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]telecineactionhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_action.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]telecineculthd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_cult.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tcfunhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_fun.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]telecinepipocahd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_pipoca.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]telecinepremiumhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_premium.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]telecinetouchhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tc_touch.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tnthd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tntserieshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tnt_series.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]universalhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/universal_channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]warnerbrosshd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/warner_channel.png</thumbnail>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[B] [COLOR white]VARIEDADES [/COLOR][/B]</name>********************************************************************************
-<thumbnail>https://i.postimg.cc/Zng2pSyD/variedades1.png</thumbnail>
-
-<item>
-<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]arte1hd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/arte1.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]bishd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/bis.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]offhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/off.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]comedycentralhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/comedy_central.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]curtahd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/curta!.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoveryhomeihealthhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_home_health.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]discoveryworldhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_world.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]fishtvhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fishtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foodnetworkhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/food_network.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]foxlifehd.video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/fox_life.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]gnthd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/gnt.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]ID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]idhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/discovery_investigation.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]lifetimehd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/lifetime.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B][COLOR white]LOADING[/COLOR] [COLOR lime][/COLOR][/B]</title>
-<link>https://cdn4.showcase.com.br/live/main_240p/index.m3u8</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://www.loading.com.br/assets/images/logotipo-loading.png</thumbnail>
-</item>
-
-https://cdn4.showcase.com.br/live/main_240p/index.m3u8
-<item>
-<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]maisbobosathd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/mais_globosat.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]mtvhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/mtv.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]multishowhd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/multishow.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]tlchd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/tlc.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]vivahd/video.m3u8|Referer=$doregex[BP0]</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/AnawZ4is</page></regex>
-
-<thumbnail>https://raw.githubusercontent.com/conexaoplay/conexaoplay/master/viva.png</thumbnail>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/f0e", Animal Planet [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/588.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW", AXN [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50863.ts
+#EXTINF:-1, Baby TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/53220.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q", Baby TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/149.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ6", Band SP [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/580.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/mPu", Band Sport FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/247.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Band Sports FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30275.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/mPu", Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/256.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/mPu", Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/265.ts
+#EXTINF:-1, BBB Acompanhe A Casa
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60677.ts
+#EXTINF:-1, BBB Acompanhe a Casa EXTRA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60682.ts
+#EXTINF:-1, BBB Cam 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60678.ts
+#EXTINF:-1, BBB Cam 11
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60687.ts
+#EXTINF:-1, BBB Cam Mosaico 01
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60676.ts
+#EXTINF:-1, BBB Cam Mosaico 02
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60692.ts
+#EXTINF:-1, BBB Cozinha XEPA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60683.ts
+#EXTINF:-1, BBB Make Off
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60679.ts
+#EXTINF:-1, BBB Mosaico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/59556.ts
+#EXTINF:-1, BBB Quarto Colorido
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60681.ts
+#EXTINF:-1, BBB Quarto Colorido Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60685.ts
+#EXTINF:-1, BBB Quarto Cordel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60680.ts
+#EXTINF:-1, BBB Quarto Cordel Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60686.ts
+#EXTINF:-1, BBB Sala de Estar
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/60684.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg", BooMerang FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/125.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg", Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30267.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg", Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/138.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg", Boomerang SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/150.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN", Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/126.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN", Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30268.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN", Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/139.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN", Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/151.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0h", Cartoon Network [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/591.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ5", CNN Brasil [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50865.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/na3", Combate FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/249.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Combate FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30276.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/na3", Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/257.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/na3", Combate SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/266.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ7", Combate [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/581.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0u", Comedy Central [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50868.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/conmebol.png", Conmebol [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/49110.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0b", Discovery Channel [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/585.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/y3l", Discovery Home&Health [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50866.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y", Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/127.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y", Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/140.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y", Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/152.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y", Discovery Kids[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30269.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/1cS", Discovery Turbo [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50869.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/135.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6MT", Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30270.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6MT", Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/141.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6MT", Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/153.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6", Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/134.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6", Disney Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30271.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6", Disney Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/146.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6", Disney Jr SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/154.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T", Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/49126.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T", Disney XD FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30273.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T", Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/49125.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T", Disney XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/155.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png", ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/254.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png", ESPN 2 FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30277.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png", ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/258.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn2.png", ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/268.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png", ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/250.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png", ESPN Brasil FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30280.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png", ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/259.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnbrasil.png", ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/269.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/2zo", ESPN Brasil [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50872.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png", ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/248.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png", ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30278.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png", ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/260.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espnextra.png", ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/270.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png", ESPN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/251.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png", ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30281.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png", ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/261.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/espn.png", ESPN SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/267.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0l", ESPN [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/595.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen", Fox Sport 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/252.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0j", Fox Sport 2 [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/593.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Fox Sports 2 FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30282.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen", Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/263.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/Qen", Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/272.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk", Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/255.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Fox Sports FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30283.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk", Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/262.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/nWk", Fox Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/271.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0c", Fox Sports [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/586.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/yeh", FOX [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/5346.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0n", Gazeta [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/600.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ4", Globo News [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50864.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ8", Globo SP[4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/582.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT", Gloob FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/136.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT", Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30266.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT", Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/142.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT", Gloob SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/156.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globinho.png", Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/128.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globinho.png", Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30274.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globinho.png", Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/1068.ts
+#EXTINF:-1 tvg-logo="http://logos.pfsv.io/globinho.png", Gloobinho SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/1069.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0s", GNT [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50870.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0w", HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/470.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0w", HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30234.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0w", HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/472.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0w", HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/481.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0x", HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/464.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0x", HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30235.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0x", HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/473.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0x", HBO Family SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/483.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y", HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/471.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y", HBO FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30236.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y", HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/474.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0B", HBO Mundi FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/467.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0B", HBO Mundi FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30239.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0B", HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/477.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0B", HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/485.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0z", HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/465.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0z", HBO Plus FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30237.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0z", HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/475.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0z", HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/482.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0D", HBO POP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/469.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0D", HBO Pop FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30241.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0D", HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/479.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0D", HBO Pop SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/487.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y", HBO SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/480.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0A", HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/466.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0A", HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30238.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0A", HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/476.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0A", HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/484.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0C", HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/468.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0C", HBO Xtreme FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30240.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0C", HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/478.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0C", HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/486.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0C", HBO Xtreme [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/5344.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0y", HBO [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/599.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0i", Megapix [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/592.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0g", MultiShow [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/590.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi", NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/129.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi", NatGeo KIDS FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30272.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi", NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/143.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi", NatGeo Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/157.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0k", National Geographic [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/594.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/HZk", Nick JR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/130.ts
+#EXTINF:-1, Nick JR FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30263.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/HZk", Nick JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/144.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/HZk", Nick Jr SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/158.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/NFO", Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/131.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/NFO", Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30264.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/NFO", Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/145.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/NFO", Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/159.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2", OFF FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/253.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", OFF FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30279.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2", OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/264.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/DH2", OFF SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/273.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", PlayKids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/137.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/147.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", PlayKids SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/162.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/525.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30284.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/531.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/538.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 3  FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30285.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/526.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/532.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/539.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/527.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30288.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/533.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/540.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/528.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30286.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/534.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/541.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/529.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30289.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/535.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/542.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/530.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30290.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/536.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/543.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere Club [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/584.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/524.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30287.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/l5p", Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/537.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0a", Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/544.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/fZ9", RecordTV SP [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/583.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", RedeTV News [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/598.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0d", SBT SP [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/587.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0m", Space [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/596.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E", SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/553.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E", SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30291.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E", SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/557.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0E", SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/560.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F", SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/554.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F", SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30292.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F", SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/558.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0F", SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/561.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f", SporTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/555.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f", SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30293.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f", SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/556.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f", SporTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/559.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0f", SporTV [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/589.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc", Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/562.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc", Telecine Action FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30242.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc", Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/568.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc", Telecine Action SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/574.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sc", Telecine Action [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50871.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/JWO", Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/567.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sd", Telecine Cult FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30243.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/JWO", Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/569.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/JWO", Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/575.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Se", Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/563.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Se", Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30244.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Se", Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/570.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Se", Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/576.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf", Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/564.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf", Telecine Pipoca FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30245.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf", Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/572.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf", Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/578.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sf", Telecine Pipoca [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/5345.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg", Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/565.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg", Telecine Premium FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30246.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg", Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/573.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg", Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/579.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sg", Telecine Premium [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/597.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sh", Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/566.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sh", Telecine Touch FHD[H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30247.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sh", Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/571.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/Sh", Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/577.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0p", TNT Series [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/602.ts
+#EXTINF:-1 tvg-logo="http://p6.vc/f0o", TNT [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/601.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA", Tooncast FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/48756.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA", Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/48755.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA", Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/160.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O", TV RA TIM BUM [H265]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/30265.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O", TV RA-TIM-BUM FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/132.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O", TV RA-TIM-BUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/148.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O", TV RA-TIM-BUM SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/161.ts
+#EXTINF:-1 tvg-logo="http://z4.vc/6NU", VIVA [4K]
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/50867.ts
+#EXTINF:-1 tvg-logo="LINK_LOGO", Zoomoo SD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/163.ts
+#EXTINF:-1, [24H] 3 Palavrinhas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43931.ts
+#EXTINF:-1, [24H] A Cobrinha Azul
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58161.ts
+#EXTINF:-1, [24H] A Familía Hathaways
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58273.ts
+#EXTINF:-1, [24H] A Grande Familia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43932.ts
+#EXTINF:-1, [24H] A historia de Deus com Morgan Freeman 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43973.ts
+#EXTINF:-1, [24H] A historia de Deus com Morgan Freeman 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43974.ts
+#EXTINF:-1, [24H] A Mumia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43942.ts
+#EXTINF:-1, [24H] A Pantera Cor De Rosa
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43950.ts
+#EXTINF:-1, [24H] A Turma Da Monica
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43964.ts
+#EXTINF:-1, [24H] A Turma Do Pateta
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43943.ts
+#EXTINF:-1, [24H] Aladdin
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43857.ts
+#EXTINF:-1, [24H] American Horror 3 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43976.ts
+#EXTINF:-1, [24H] American Horror 5 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43978.ts
+#EXTINF:-1, [24H] American Horror 6 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43979.ts
+#EXTINF:-1, [24H] American Horror 7 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43980.ts
+#EXTINF:-1, [24H] American Housewife
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58285.ts
+#EXTINF:-1, [24H] As Aventuras De Jackie Chan
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43884.ts
+#EXTINF:-1, [24H] As Aventuras De Piggley Winks
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43945.ts
+#EXTINF:-1, [24H] As Aventuras de Tintim
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58311.ts
+#EXTINF:-1, [24H] As Meninas Superpoderosas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43858.ts
+#EXTINF:-1, [24H] As Tartarugas Ninja
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43918.ts
+#EXTINF:-1, [24H] As Telefonistas 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43982.ts
+#EXTINF:-1, [24H] As Telefonistas 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43983.ts
+#EXTINF:-1, [24H] As Telefonistas 3 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43984.ts
+#EXTINF:-1, [24H] Baby Shark
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43961.ts
+#EXTINF:-1, [24H] Bates Motel 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43986.ts
+#EXTINF:-1, [24H] Bates Motel 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43987.ts
+#EXTINF:-1, [24H] Bates Motel 3 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43988.ts
+#EXTINF:-1, [24H] Bates Motel 4 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43989.ts
+#EXTINF:-1, [24H] Bates Motel 5 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43990.ts
+#EXTINF:-1, [24H] Batman e Robin Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58271.ts
+#EXTINF:-1, [24H] BEN 10
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43859.ts
+#EXTINF:-1, [24H] Ben E Holly
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43969.ts
+#EXTINF:-1, [24H] Big Mouth
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43936.ts
+#EXTINF:-1, [24H] Black Lightning
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43991.ts
+#EXTINF:-1, [24H] BOB ESPONJA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43860.ts
+#EXTINF:-1, [24H] Bob Zoom
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43992.ts
+#EXTINF:-1, [24H] Bones
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58284.ts
+#EXTINF:-1, [24H] Breaking Bad
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43861.ts
+#EXTINF:-1, [24H] Capitão Tsubasa
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43954.ts
+#EXTINF:-1, [24H] Carcereiros
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43996.ts
+#EXTINF:-1, [24H] Carga Pesada
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58277.ts
+#EXTINF:-1, [24H] Cascão Maratona
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43997.ts
+#EXTINF:-1, [24H] Cavalo de Fogo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43998.ts
+#EXTINF:-1, [24H] Caverna do Dragao
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43863.ts
+#EXTINF:-1, [24H] Caçadores de Mitos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58237.ts
+#EXTINF:-1, [24H] Chapolin Colorado
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43864.ts
+#EXTINF:-1, [24H] CHAVES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43865.ts
+#EXTINF:-1, [24H] CHAVES DESENHO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43866.ts
+#EXTINF:-1, [24H] Chicago Med 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43999.ts
+#EXTINF:-1, [24H] Chicago Med 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44000.ts
+#EXTINF:-1, [24H] Cine 007
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58282.ts
+#EXTINF:-1, [24H] Classicos Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44129.ts
+#EXTINF:-1, [24H] Construções Primitivas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58260.ts
+#EXTINF:-1, [24H] Coragem o Cao Covarde
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43862.ts
+#EXTINF:-1, [24H] CSI Las Vegas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43948.ts
+#EXTINF:-1, [24H] Cybercops
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58269.ts
+#EXTINF:-1, [24H] Daniel Tigre
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43970.ts
+#EXTINF:-1, [24H] Demolidor 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44005.ts
+#EXTINF:-1, [24H] Demolidor 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44006.ts
+#EXTINF:-1, [24H] Denis o Pimentinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43867.ts
+#EXTINF:-1, [24H] Desenhos Biblicos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43971.ts
+#EXTINF:-1, [24H] Desenhos Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43868.ts
+#EXTINF:-1, [24H] Digimon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43869.ts
+#EXTINF:-1, [24H] Doctor Who 1 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44011.ts
+#EXTINF:-1, [24H] Doctor Who 2 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44012.ts
+#EXTINF:-1, [24H] Doctor Who 3 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44013.ts
+#EXTINF:-1, [24H] Doctor Who 4 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44014.ts
+#EXTINF:-1, [24H] Doctor Who 5 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44015.ts
+#EXTINF:-1, [24H] Doctor Who 6 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44016.ts
+#EXTINF:-1, [24H] Doctor Who 7 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44017.ts
+#EXTINF:-1, [24H] Doctor Who 8 TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44018.ts
+#EXTINF:-1, [24H] Dois Homens e Meio
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43870.ts
+#EXTINF:-1, [24H] Doug
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43871.ts
+#EXTINF:-1, [24H] DRAGON BALL
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43872.ts
+#EXTINF:-1, [24H] Dragon Ball Super
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43951.ts
+#EXTINF:-1, [24H] DRAGON BALL Z
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43873.ts
+#EXTINF:-1, [24H] Drake & Josh
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58268.ts
+#EXTINF:-1, [24H] Eu a Patroa e as Criancas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43939.ts
+#EXTINF:-1, [24H] Faisca E Fumaça
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43963.ts
+#EXTINF:-1, [24H] Flash Gordon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43957.ts
+#EXTINF:-1, [24H] Formiga Atómica
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43874.ts
+#EXTINF:-1, [24H] Futurama
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44131.ts
+#EXTINF:-1, [24H] Galinha Pintadinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43875.ts
+#EXTINF:-1, [24H] Gigantes da Industria
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58292.ts
+#EXTINF:-1, [24H] Guardiões da Galaxia
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43876.ts
+#EXTINF:-1, [24H] He-Man
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43877.ts
+#EXTINF:-1, [24H] Heroes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58280.ts
+#EXTINF:-1, [24H] High Score Girl
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43956.ts
+#EXTINF:-1, [24H] Hilda Furacão
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58275.ts
+#EXTINF:-1, [24H] Historias Disney
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43879.ts
+#EXTINF:-1, [24H] Homem Aranha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43880.ts
+#EXTINF:-1, [24H] Homem de Ferro
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43881.ts
+#EXTINF:-1, [24H] HOMEMS DE PRETO
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43882.ts
+#EXTINF:-1, [24H] House of Cards
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58302.ts
+#EXTINF:-1, [24H] Hércules
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43878.ts
+#EXTINF:-1, [24H] Icarly
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44138.ts
+#EXTINF:-1, [24H] Incrível Hulk
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43883.ts
+#EXTINF:-1, [24H] Irmãos a Obra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58303.ts
+#EXTINF:-1, [24H] Jaspion
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43885.ts
+#EXTINF:-1, [24H] Jiban
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58283.ts
+#EXTINF:-1, [24H] JIRAYA O Incrível Ninja
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43886.ts
+#EXTINF:-1, [24H] Jonny Quest
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43937.ts
+#EXTINF:-1, [24H] Jose Rei Do Egito
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43934.ts
+#EXTINF:-1, [24H] Kenan e Kel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43887.ts
+#EXTINF:-1, [24H] Largados e Pelados
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58287.ts
+#EXTINF:-1, [24H] Largados e Pelados a Tribo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58288.ts
+#EXTINF:-1, [24H] Log Horizon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43965.ts
+#EXTINF:-1, [24H] Luluzinha
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43888.ts
+#EXTINF:-1, [24H] Malhação 1990
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58265.ts
+#EXTINF:-1, [24H] Manual do Mundo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58293.ts
+#EXTINF:-1, [24H] Maria Madalena
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58291.ts
+#EXTINF:-1, [24H] Masha e o Urso
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44056.ts
+#EXTINF:-1, [24H] Medabots
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43889.ts
+#EXTINF:-1, [24H] MegaMan
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43890.ts
+#EXTINF:-1, [24H] Meu Amigoozao
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43972.ts
+#EXTINF:-1, [24H] Mickey e Donald
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44008.ts
+#EXTINF:-1, [24H] Mickey Mouse
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43953.ts
+#EXTINF:-1, [24H] Mortal Kombat
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43891.ts
+#EXTINF:-1, [24H] Mr.Ben
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43892.ts
+#EXTINF:-1, [24H] Mundo Bita
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43959.ts
+#EXTINF:-1, [24H] Naruto
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43893.ts
+#EXTINF:-1, [24H] Naruto Shippuden DUB
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43894.ts
+#EXTINF:-1, [24H] O Fantástico Mundo de Bobby
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43895.ts
+#EXTINF:-1, [24H] O INSPETOR
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43896.ts
+#EXTINF:-1, [24H] O Mandaloriano
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58272.ts
+#EXTINF:-1, [24H] O Maskara
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43935.ts
+#EXTINF:-1, [24H] O Sócio
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58276.ts
+#EXTINF:-1, [24H] Onde esta Chicky?
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58300.ts
+#EXTINF:-1, [24H] Os Cavaleiros do Zodiaco
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43899.ts
+#EXTINF:-1, [24H] Os Flinstones
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44148.ts
+#EXTINF:-1, [24H] OS FLINTSTONES
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43900.ts
+#EXTINF:-1, [24H] Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43968.ts
+#EXTINF:-1, [24H] Os Roni
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58274.ts
+#EXTINF:-1, [24H] Os Simpsons
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43901.ts
+#EXTINF:-1, [24H] Os Trapalhoes
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43949.ts
+#EXTINF:-1, [24H] Os Vingadores
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43902.ts
+#EXTINF:-1, [24H] Papa-Leguas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43903.ts
+#EXTINF:-1, [24H] Patati Patata
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43960.ts
+#EXTINF:-1, [24H] Patrulha Canina
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43938.ts
+#EXTINF:-1, [24H] Peppa Pig
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43904.ts
+#EXTINF:-1, [24H] PERNALONGA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43905.ts
+#EXTINF:-1, [24H] Phineas e Ferb
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43906.ts
+#EXTINF:-1, [24H] Pica Pau
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43907.ts
+#EXTINF:-1, [24H] Pica Pau Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44150.ts
+#EXTINF:-1, [24H] Pink-e-Cerebro
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43908.ts
+#EXTINF:-1, [24H] POKEMON
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43909.ts
+#EXTINF:-1, [24H] Policia 24 horas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58267.ts
+#EXTINF:-1, [24H] Popeye O Marinheiro
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43910.ts
+#EXTINF:-1, [24H] Punky a Levada da Breca
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58279.ts
+#EXTINF:-1, [24H] Rambo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43911.ts
+#EXTINF:-1, [24H] Retro Cartoon
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44149.ts
+#EXTINF:-1, [24H] Rick And Morty
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43955.ts
+#EXTINF:-1, [24H] Rick And Morty 2TEMP
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43966.ts
+#EXTINF:-1, [24H] Rugrats Os Anjinhos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43898.ts
+#EXTINF:-1, [24H] Scooby-Doo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43912.ts
+#EXTINF:-1, [24H] Senran Kagura Shinovi
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43967.ts
+#EXTINF:-1, [24H] Sitio Do Pica Pau Amarelo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43947.ts
+#EXTINF:-1, [24H] Smallville
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43913.ts
+#EXTINF:-1, [24H] Sobrenatural
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43914.ts
+#EXTINF:-1, [24H] South Park
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43915.ts
+#EXTINF:-1, [24H] Spartacus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58290.ts
+#EXTINF:-1, [24H] Steven Universe
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43916.ts
+#EXTINF:-1, [24H] Superman
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43917.ts
+#EXTINF:-1, [24H] Tarzan
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58289.ts
+#EXTINF:-1, [24H] The Big Bang Theory
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44082.ts
+#EXTINF:-1, [24H] Thundercats
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43919.ts
+#EXTINF:-1, [24H] TIMAO E PUMBA
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43920.ts
+#EXTINF:-1, [24H] TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43921.ts
+#EXTINF:-1, [24H] Tom & Jerry
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43922.ts
+#EXTINF:-1, [24H] Tres Espias Demais
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43923.ts
+#EXTINF:-1, [24H] Um Maluco No Pedaço
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43924.ts
+#EXTINF:-1, [24H] Uma Família da Pesada
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43925.ts
+#EXTINF:-1, [24H] Ursinhos Carinhos
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43926.ts
+#EXTINF:-1, [24H] V a Batalha Final
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58286.ts
+#EXTINF:-1, [24H] Verdades Secretas
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58266.ts
+#EXTINF:-1, [24H] X-MAN
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44151.ts
+#EXTINF:-1, [24H] X-MAN Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43927.ts
+#EXTINF:-1, [24H] X-Men Antigo
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43952.ts
+#EXTINF:-1, [24H] Xena
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43928.ts
+#EXTINF:-1, [24H] Xena a Princesa Guerreira
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58278.ts
+#EXTINF:-1, [24H] YU-GI-OH
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43929.ts
+#EXTINF:-1, [24H] YU-YU-Hakusho
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/43930.ts
+#EXTINF:-1, [24H] Zorro Classico
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58270.ts
+#EXTINF:-1, [24H][US] Black Jesus
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44147.ts
+#EXTINF:-1, [24H][US] Eric Andre Show
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44146.ts
+#EXTINF:-1, [24H][US] Mr. Pickles
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44145.ts
+#EXTINF:-1, [24H][US] Rick and Morty
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44144.ts
+#EXTINF:-1, [24H][US] Squidbillies
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44143.ts
+#EXTINF:-1, [24H][US] Tim and Eric
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44142.ts
+#EXTINF:-1, [24H][US] Venture Bros.
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44141.ts
+#EXTINF:-1, [24H][US] Williams Stream
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/44140.ts
+#EXTINF:-1, [ARG]  TNT Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/59964.ts
+#EXTINF:-1, [IT] Rai Sport 1 UHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58209.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL] Sport 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58187.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Extra
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58188.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Extra 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58189.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Golf HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58190.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Racing
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58191.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Voetbal HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58192.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport 1 Votbal HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58193.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport Channel
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58194.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport Klub 7
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58195.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport Select HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58196.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport Voetbal
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58197.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport Voetbal 1
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58198.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport1 Extra 2
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58199.ts
+#EXTINF:-1 tvg-logo="MUDAR", [NL]Sport1 Select HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58200.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58169.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58168.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58162.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58163.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58164.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58165.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58166.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58167.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58170.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58171.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] EuroSport News FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58172.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] FIGHT BOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58173.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] FIGHT Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58174.ts
+#EXTINF:-1 tvg-logo="MUDAR", [PT] FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58175.ts
+#EXTINF:-1, [US] AT&T SportNet HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58212.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] beIN Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58179.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] BTN FOX SPORT
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58180.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] CBS Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58178.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] ELEVEN SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58176.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] ELEVEN SPORTS Network
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58177.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] FOX SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58183.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58185.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58184.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58186.ts
+#EXTINF:-1, [US] Jim Jam HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58211.ts
+#EXTINF:-1, [US] NBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58264.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] SPORT NBA TV
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58181.ts
+#EXTINF:-1 tvg-logo="MUDAR", [US] SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/58182.ts
+#EXTINF:-1, [US] WWE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/live/515152836/5638/674.ts
