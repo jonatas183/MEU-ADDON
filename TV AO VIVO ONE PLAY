@@ -408,7 +408,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="http://natv.pw/logo/19076.jpg", DISCOVERY TURBO FHD H265
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19076
 #EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD H265", DISCOVERY WORLD FHD H265
-rtmp://148.251.131.26:25462/live/48661?username=Marcooani6358&password=eBwJi8yef3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48661
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://natv.pw/logo/2171.jpg", DISNEY CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2171
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265", DISNEY CHANNEL FHD H265
@@ -826,7 +826,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://natv.pw/logo/2201.jpg", PARAMOUNT FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2201
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265", PARAMOUNT FHD H265
-rtmp://148.251.185.38:25462/live/48699?username=Marcooani6358&password=eBwJi8yef3
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48699
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD²" tvg-logo="http://natv.pw/logo/18825.jpg", PARAMOUNT FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18825
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://natv.pw/logo/1948.jpg", PARAMOUNT HD
