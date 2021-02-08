@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://natv.pw/logo/18398.jpg", A&E FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18398
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265 DUAL AUDIO" tvg-logo="http://natv.pw/logo/19051.jpg", A&E FHD H265 DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19051
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://natv.pw/logo/2243.jpg", A&E FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2243
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://natv.pw/logo/2017.jpg", A&E HD
@@ -15,8 +13,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18589
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://natv.pw/logo/2242.jpg", AMC FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2242
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265 DUAL AUDIO" tvg-logo="http://natv.pw/logo/19052.jpg", AMC FHD H265 DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19052
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://natv.pw/logo/2016.jpg", AMC HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2016
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="http://natv.pw/logo/18332.jpg", AMC HD²
@@ -25,14 +21,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2134
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD²" tvg-logo="http://natv.pw/logo/18590.jpg", AMC SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18590
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://natv.pw/logo/18487.jpg", ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18487
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265 DUAL AUDIO" tvg-logo="http://natv.pw/logo/19053.jpg", ANIMAL PLANET FHD H265 DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19053
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://natv.pw/logo/19055.jpg", AXN FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19055
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265", AXN FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48653
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://natv.pw/logo/18472.jpg", AXN FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18472
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://natv.pw/logo/2013.jpg", AXN HD
@@ -43,178 +33,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2131
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD²" tvg-logo="http://natv.pw/logo/18305.jpg", AXN SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18305
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://natv.pw/logo/2012.jpg", BABY TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2012
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://natv.pw/logo/2130.jpg", BABY TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2130
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="http://natv.pw/logo/18481.jpg", BAND 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18481
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="http://natv.pw/logo/19057.jpg", BAND NEWS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19057
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://natv.pw/logo/18473.jpg", BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18473
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD H265", BAND SPORTS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48654
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://natv.pw/logo/2009.jpg", BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2009
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://natv.pw/logo/18620.jpg", BAND SPORTS HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18620
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="http://natv.pw/logo/2128.jpg", BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2128
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://natv.pw/logo/19044.jpg", BAND SPORTS SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19044
-#EXTINF:-1 tvg-name="BBB MOSAICO HD", BBB MOSAICO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/58041
-#EXTINF:-1 tvg-name="BBB21 A CASA 1 FHD" tvg-logo="http://natv.pw/logo/57177.jpg", BBB21 A CASA 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57177
-#EXTINF:-1 tvg-name="BBB21 A CASA 1 HD" tvg-logo="http://natv.pw/logo/56879.jpg", BBB21 A CASA 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56879
-#EXTINF:-1 tvg-name="BBB21 A CASA 1 HD²" tvg-logo="http://natv.pw/logo/57219.jpg", BBB21 A CASA 1 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57219
-#EXTINF:-1 tvg-name="BBB21 A CASA 1 SD" tvg-logo="http://natv.pw/logo/57198.jpg", BBB21 A CASA 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57198
-#EXTINF:-1 tvg-name="BBB21 A CASA 1 SD²" tvg-logo="http://natv.pw/logo/57230.jpg", BBB21 A CASA 1 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57230
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 FHD" tvg-logo="http://natv.pw/logo/57178.jpg", BBB21 A CASA 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57178
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 FHD²" tvg-logo="http://natv.pw/logo/57209.jpg", BBB21 A CASA 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57209
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 HD" tvg-logo="http://natv.pw/logo/57188.jpg", BBB21 A CASA 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57188
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 HD²" tvg-logo="http://natv.pw/logo/57220.jpg", BBB21 A CASA 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57220
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 SD" tvg-logo="http://natv.pw/logo/57199.jpg", BBB21 A CASA 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57199
-#EXTINF:-1 tvg-name="BBB21 A CASA 2 SD²" tvg-logo="http://natv.pw/logo/57231.jpg", BBB21 A CASA 2 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57231
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA FHD" tvg-logo="http://natv.pw/logo/57186.jpg", BBB21 ACADEMIA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57186
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA FHD²" tvg-logo="http://natv.pw/logo/57217.jpg", BBB21 ACADEMIA FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57217
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA HD" tvg-logo="http://natv.pw/logo/57196.jpg", BBB21 ACADEMIA HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57196
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA HD²" tvg-logo="http://natv.pw/logo/57228.jpg", BBB21 ACADEMIA HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57228
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA SD" tvg-logo="http://natv.pw/logo/57207.jpg", BBB21 ACADEMIA SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57207
-#EXTINF:-1 tvg-name="BBB21 ACADEMIA SD²" tvg-logo="http://natv.pw/logo/57239.jpg", BBB21 ACADEMIA SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57239
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO FHD" tvg-logo="http://natv.pw/logo/57179.jpg", BBB21 CHUVEIRO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57179
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO FHD²" tvg-logo="http://natv.pw/logo/57210.jpg", BBB21 CHUVEIRO FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57210
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO HD" tvg-logo="http://natv.pw/logo/57189.jpg", BBB21 CHUVEIRO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57189
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO HD²" tvg-logo="http://natv.pw/logo/57221.jpg", BBB21 CHUVEIRO HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57221
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO SD" tvg-logo="http://natv.pw/logo/57200.jpg", BBB21 CHUVEIRO SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57200
-#EXTINF:-1 tvg-name="BBB21 CHUVEIRO SD²" tvg-logo="http://natv.pw/logo/57232.jpg", BBB21 CHUVEIRO SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57232
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONARIO HD" tvg-logo="http://natv.pw/logo/57190.jpg", BBB21 CONFESSIONARIO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57190
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONARIO HD²" tvg-logo="http://natv.pw/logo/57222.jpg", BBB21 CONFESSIONARIO HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57222
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONÁRIO FHD" tvg-logo="http://natv.pw/logo/57180.jpg", BBB21 CONFESSIONÁRIO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57180
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONÁRIO FHD²" tvg-logo="http://natv.pw/logo/57211.jpg", BBB21 CONFESSIONÁRIO FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57211
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONÁRIO SD" tvg-logo="http://natv.pw/logo/57201.jpg", BBB21 CONFESSIONÁRIO SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57201
-#EXTINF:-1 tvg-name="BBB21 CONFESSIONÁRIO SD²" tvg-logo="http://natv.pw/logo/57233.jpg", BBB21 CONFESSIONÁRIO SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57233
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP FHD" tvg-logo="http://natv.pw/logo/57181.jpg", BBB21 COZINHA VIP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57181
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP FHD²" tvg-logo="http://natv.pw/logo/57212.jpg", BBB21 COZINHA VIP FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57212
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP HD" tvg-logo="http://natv.pw/logo/57191.jpg", BBB21 COZINHA VIP HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57191
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP HD²" tvg-logo="http://natv.pw/logo/57223.jpg", BBB21 COZINHA VIP HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57223
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP SD" tvg-logo="http://natv.pw/logo/57202.jpg", BBB21 COZINHA VIP SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57202
-#EXTINF:-1 tvg-name="BBB21 COZINHA VIP SD²" tvg-logo="http://natv.pw/logo/57234.jpg", BBB21 COZINHA VIP SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57234
-#EXTINF:-1 tvg-name="BBB21 JARDIM FHD" tvg-logo="http://natv.pw/logo/57182.jpg", BBB21 JARDIM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57182
-#EXTINF:-1 tvg-name="BBB21 JARDIM FHD²" tvg-logo="http://natv.pw/logo/57213.jpg", BBB21 JARDIM FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57213
-#EXTINF:-1 tvg-name="BBB21 JARDIM HD" tvg-logo="http://natv.pw/logo/57192.jpg", BBB21 JARDIM HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57192
-#EXTINF:-1 tvg-name="BBB21 JARDIM HD²" tvg-logo="http://natv.pw/logo/57224.jpg", BBB21 JARDIM HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57224
-#EXTINF:-1 tvg-name="BBB21 JARDIM SD" tvg-logo="http://natv.pw/logo/57203.jpg", BBB21 JARDIM SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57203
-#EXTINF:-1 tvg-name="BBB21 JARDIM SD²" tvg-logo="http://natv.pw/logo/57235.jpg", BBB21 JARDIM SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57235
-#EXTINF:-1 tvg-name="BBB21 PISCINA FHD" tvg-logo="http://natv.pw/logo/57183.jpg", BBB21 PISCINA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57183
-#EXTINF:-1 tvg-name="BBB21 PISCINA FHD²" tvg-logo="http://natv.pw/logo/57214.jpg", BBB21 PISCINA FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57214
-#EXTINF:-1 tvg-name="BBB21 PISCINA HD" tvg-logo="http://natv.pw/logo/57193.jpg", BBB21 PISCINA HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57193
-#EXTINF:-1 tvg-name="BBB21 PISCINA HD²" tvg-logo="http://natv.pw/logo/57225.jpg", BBB21 PISCINA HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57225
-#EXTINF:-1 tvg-name="BBB21 PISCINA SD" tvg-logo="http://natv.pw/logo/57204.jpg", BBB21 PISCINA SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57204
-#EXTINF:-1 tvg-name="BBB21 PISCINA SD²" tvg-logo="http://natv.pw/logo/57236.jpg", BBB21 PISCINA SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57236
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO FHD" tvg-logo="http://natv.pw/logo/57184.jpg", BBB21 QUARTO COLORIDO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57184
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO FHD²" tvg-logo="http://natv.pw/logo/57215.jpg", BBB21 QUARTO COLORIDO FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57215
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO HD" tvg-logo="http://natv.pw/logo/57194.jpg", BBB21 QUARTO COLORIDO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57194
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO HD²" tvg-logo="http://natv.pw/logo/57226.jpg", BBB21 QUARTO COLORIDO HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57226
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO SD" tvg-logo="http://natv.pw/logo/57205.jpg", BBB21 QUARTO COLORIDO SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57205
-#EXTINF:-1 tvg-name="BBB21 QUARTO COLORIDO SD²" tvg-logo="http://natv.pw/logo/57237.jpg", BBB21 QUARTO COLORIDO SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57237
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL FHD" tvg-logo="http://natv.pw/logo/57185.jpg", BBB21 QUARTO CORDEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57185
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL FHD²" tvg-logo="http://natv.pw/logo/57216.jpg", BBB21 QUARTO CORDEL FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57216
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL HD" tvg-logo="http://natv.pw/logo/57195.jpg", BBB21 QUARTO CORDEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57195
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL HD²" tvg-logo="http://natv.pw/logo/57227.jpg", BBB21 QUARTO CORDEL HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57227
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL SD" tvg-logo="http://natv.pw/logo/57206.jpg", BBB21 QUARTO CORDEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57206
-#EXTINF:-1 tvg-name="BBB21 QUARTO CORDEL SD²" tvg-logo="http://natv.pw/logo/57238.jpg", BBB21 QUARTO CORDEL SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57238
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR FHD" tvg-logo="http://natv.pw/logo/57187.jpg", BBB21 SALA DE ESTAR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57187
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR FHD²" tvg-logo="http://natv.pw/logo/57218.jpg", BBB21 SALA DE ESTAR FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57218
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR HD" tvg-logo="http://natv.pw/logo/57197.jpg", BBB21 SALA DE ESTAR HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57197
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR HD²" tvg-logo="http://natv.pw/logo/57229.jpg", BBB21 SALA DE ESTAR HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57229
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR SD" tvg-logo="http://natv.pw/logo/57208.jpg", BBB21 SALA DE ESTAR SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57208
-#EXTINF:-1 tvg-name="BBB21 SALA DE ESTAR SD²" tvg-logo="http://natv.pw/logo/57240.jpg", BBB21 SALA DE ESTAR SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/57240
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265" tvg-logo="http://natv.pw/logo/19062.jpg", BIS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19062
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://natv.pw/logo/2169.jpg", BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2169
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="http://natv.pw/logo/19063.jpg", BOOMERANG FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19063
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD²" tvg-logo="http://natv.pw/logo/18624.jpg", BOOMERANG FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18624
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://natv.pw/logo/2007.jpg", BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2007
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD²" tvg-logo="http://natv.pw/logo/18625.jpg", BOOMERANG HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18625
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://natv.pw/logo/18626.jpg", BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18626
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD²" tvg-logo="http://natv.pw/logo/19046.jpg", BOOMERANG SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19046
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://natv.pw/logo/2234.jpg", CANAL BRASIL FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2234
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265", CANAL BRASIL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48655
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://natv.pw/logo/18298.jpg", CANAL BRASIL HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18298
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="http://natv.pw/logo/2029.jpg", CANAL BRASIL SD
@@ -223,30 +43,12 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19041
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="http://natv.pw/logo/18509.jpg", CANAL SONY FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18509
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="http://natv.pw/logo/2233.jpg", CANAL SONY FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2233
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://natv.pw/logo/2006.jpg", CANAL SONY HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2006
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD²" tvg-logo="http://natv.pw/logo/18629.jpg", CANAL SONY HD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18629
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="http://natv.pw/logo/2124.jpg", CANAL SONY SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2124
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON 4K" tvg-logo="http://natv.pw/logo/18488.jpg", CARTOON 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18488
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://natv.pw/logo/2168.jpg", CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2168
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD DUAL AUDIO" tvg-logo="http://natv.pw/logo/18630.jpg", CARTOON NETWORK FHD DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18630
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265", CARTOON NETWORK FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48656
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://natv.pw/logo/18296.jpg", CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18296
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="http://natv.pw/logo/18631.jpg", CARTOON NETWORK HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18631
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="http://natv.pw/logo/2123.jpg", CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2123
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="http://natv.pw/logo/18645.jpg", CARTOON NETWORK SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18645
 #EXTINF:-1 tvg-name="CINE SKY 1" tvg-logo="http://natv.pw/logo/38246.jpg", CINE SKY 1
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/38246
 #EXTINF:-1 tvg-name="CINE SKY 10" tvg-logo="http://natv.pw/logo/39403.jpg", CINE SKY 10
@@ -269,8 +71,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/39402
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://natv.pw/logo/2167.jpg", CINEMAX FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2167
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265", CINEMAX FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48657
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD²" tvg-logo="http://natv.pw/logo/18633.jpg", CINEMAX FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18633
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://natv.pw/logo/2004.jpg", CINEMAX HD
@@ -281,254 +81,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2122
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="http://natv.pw/logo/18644.jpg", CINEMAX SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18644
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://natv.pw/logo/56002.jpg", CNN BRASIL 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56002
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL FHD H265", CNN BRASIL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48706
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="http://natv.pw/logo/18474.jpg", COMBATE 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18474
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="http://natv.pw/logo/2232.jpg", COMBATE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2232
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265" tvg-logo="http://natv.pw/logo/18511.jpg", COMBATE FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18511
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD²" tvg-logo="http://natv.pw/logo/18636.jpg", COMBATE FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18636
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://natv.pw/logo/2003.jpg", COMBATE HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2003
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD²" tvg-logo="http://natv.pw/logo/18369.jpg", COMBATE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18369
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://natv.pw/logo/2121.jpg", COMBATE SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2121
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD²" tvg-logo="http://natv.pw/logo/18368.jpg", COMBATE SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18368
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://natv.pw/logo/19068.jpg", COMEDY CENTRAL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19068
-#EXTINF:-1 tvg-name="CONMEBOL TV 1 FHD " tvg-logo="http://natv.pw/logo/49331.jpg", CONMEBOL TV 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/49331
-#EXTINF:-1 tvg-name="CONMEBOL TV 1 HD " tvg-logo="http://natv.pw/logo/49332.jpg", CONMEBOL TV 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/49332
-#EXTINF:-1 tvg-name="CONMEBOL TV 2 FHD " tvg-logo="http://natv.pw/logo/49334.jpg", CONMEBOL TV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/49334
-#EXTINF:-1 tvg-name="CONMEBOL TV 2 HD" tvg-logo="http://natv.pw/logo/49335.jpg", CONMEBOL TV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/49335
-#EXTINF:-1 tvg-name="CONMEBOL TV 3 FHD" tvg-logo="http://natv.pw/logo/52994.jpg", CONMEBOL TV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/52994
-#EXTINF:-1 tvg-name="CONMEBOL TV 3 HD" tvg-logo="http://natv.pw/logo/52993.jpg", CONMEBOL TV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/52993
-#EXTINF:-1 tvg-name="CONMEBOL TV 4 FHD  " tvg-logo="http://natv.pw/logo/52996.jpg", CONMEBOL TV 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/52996
-#EXTINF:-1 tvg-name="CONMEBOL TV 4 HD" tvg-logo="http://natv.pw/logo/52995.jpg", CONMEBOL TV 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/52995
-#EXTINF:-1 tvg-name="COPA CATARINENSE HD" tvg-logo="http://natv.pw/logo/20427.jpg", COPA CATARINENSE HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/20427
-#EXTINF:-1 tvg-name="COPA CATARINENSE HD²" tvg-logo="http://natv.pw/logo/20428.jpg", COPA CATARINENSE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/20428
-#EXTINF:-1 tvg-name="COPA NORDESTE 1 HD" tvg-logo="http://natv.pw/logo/22625.jpg", COPA NORDESTE 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/22625
-#EXTINF:-1 tvg-name="COPA NORDESTE 2 HD" tvg-logo="http://natv.pw/logo/43646.jpg", COPA NORDESTE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/43646
-#EXTINF:-1 tvg-name="COPA NORDESTE 3 HD" tvg-logo="http://natv.pw/logo/43647.jpg", COPA NORDESTE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/43647
-#EXTINF:-1 tvg-name="COPA NORDESTE 4 HD" tvg-logo="http://natv.pw/logo/43648.jpg", COPA NORDESTE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/43648
-#EXTINF:-1 tvg-name="DAZN 1 4K" tvg-logo="http://natv.pw/logo/45703.jpg", DAZN 1 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/45703
-#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://natv.pw/logo/46400.jpg", DAZN 1 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/46400
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://natv.pw/logo/18364.jpg", DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18364
-#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://natv.pw/logo/46075.jpg", DAZN 1 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/46075
-#EXTINF:-1 tvg-name="DAZN 2 4K" tvg-logo="http://natv.pw/logo/47375.jpg", DAZN 2 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47375
-#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://natv.pw/logo/47372.jpg", DAZN 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47372
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://natv.pw/logo/18365.jpg", DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18365
-#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://natv.pw/logo/47371.jpg", DAZN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47371
-#EXTINF:-1 tvg-name="DAZN 3 4K" tvg-logo="http://natv.pw/logo/47376.jpg", DAZN 3 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47376
-#EXTINF:-1 tvg-name="DAZN 3 FHD" tvg-logo="http://natv.pw/logo/47374.jpg", DAZN 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47374
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-logo="http://natv.pw/logo/23866.jpg", DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/23866
-#EXTINF:-1 tvg-name="DAZN 3 SD" tvg-logo="http://natv.pw/logo/47373.jpg", DAZN 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/47373
-#EXTINF:-1 tvg-name="DAZN 4 4K" tvg-logo="http://natv.pw/logo/54985.jpg", DAZN 4 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54985
-#EXTINF:-1 tvg-name="DAZN 4 FHD" tvg-logo="http://natv.pw/logo/54986.jpg", DAZN 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54986
-#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-logo="http://natv.pw/logo/54995.jpg", DAZN 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54995
-#EXTINF:-1 tvg-name="DAZN 4 SD" tvg-logo="http://natv.pw/logo/54996.jpg", DAZN 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54996
-#EXTINF:-1 tvg-name="DAZN 5 4K" tvg-logo="http://natv.pw/logo/54989.jpg", DAZN 5 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54989
-#EXTINF:-1 tvg-name="DAZN 5 FHD" tvg-logo="http://natv.pw/logo/54990.jpg", DAZN 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54990
-#EXTINF:-1 tvg-name="DAZN 5 HD" tvg-logo="http://natv.pw/logo/54991.jpg", DAZN 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54991
-#EXTINF:-1 tvg-name="DAZN 5 SD" tvg-logo="http://natv.pw/logo/54992.jpg", DAZN 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54992
-#EXTINF:-1 tvg-name="DAZN 6 4K" tvg-logo="http://natv.pw/logo/54993.jpg", DAZN 6 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54993
-#EXTINF:-1 tvg-name="DAZN 6 FHD" tvg-logo="http://natv.pw/logo/54994.jpg", DAZN 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54994
-#EXTINF:-1 tvg-name="DAZN 6 HD" tvg-logo="http://natv.pw/logo/54987.jpg", DAZN 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54987
-#EXTINF:-1 tvg-name="DAZN 6 SD" tvg-logo="http://natv.pw/logo/54988.jpg", DAZN 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/54988
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://natv.pw/logo/18484.jpg", DISCOVERY CHANNEL 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18484
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265 DUAL AUDIO" tvg-logo="http://natv.pw/logo/19070.jpg", DISCOVERY CHANNEL FHD H265 DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19070
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://natv.pw/logo/56001.jpg", DISCOVERY H&H 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56001
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD H265", DISCOVERY H&H FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48659
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://natv.pw/logo/2163.jpg", DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2163
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265", DISCOVERY KIDS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48660
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="http://natv.pw/logo/18657.jpg", DISCOVERY KIDS FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18657
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://natv.pw/logo/1997.jpg", DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1997
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="http://natv.pw/logo/18287.jpg", DISCOVERY KIDS HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18287
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://natv.pw/logo/2027.jpg", DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2027
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://natv.pw/logo/18659.jpg", DISCOVERY KIDS SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18659
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="http://natv.pw/logo/19073.jpg", DISCOVERY SCIENCE FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19073
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="http://natv.pw/logo/19074.jpg", DISCOVERY THEATER FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19074
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="http://natv.pw/logo/19076.jpg", DISCOVERY TURBO FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19076
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD H265", DISCOVERY WORLD FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48661
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://natv.pw/logo/2171.jpg", DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2171
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265", DISNEY CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48662
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD²" tvg-logo="http://natv.pw/logo/18520.jpg", DISNEY CHANNEL FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18520
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://natv.pw/logo/1992.jpg", DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1992
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD²" tvg-logo="http://natv.pw/logo/18284.jpg", DISNEY CHANNEL HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18284
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://natv.pw/logo/18285.jpg", DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18285
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD²" tvg-logo="http://natv.pw/logo/18674.jpg", DISNEY CHANNEL SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18674
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD" tvg-logo="http://natv.pw/logo/2227.jpg", DISNEY JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2227
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR FHD²" tvg-logo="http://natv.pw/logo/18521.jpg", DISNEY JR FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18521
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="http://natv.pw/logo/1991.jpg", DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1991
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD²" tvg-logo="http://natv.pw/logo/18282.jpg", DISNEY JR HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18282
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="http://natv.pw/logo/2115.jpg", DISNEY JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2115
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD²" tvg-logo="http://natv.pw/logo/18677.jpg", DISNEY JR SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18677
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265", DISNEY JUNIOR FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48663
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="http://natv.pw/logo/1990.jpg", DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1990
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="http://natv.pw/logo/2114.jpg", DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2114
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265", E! FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48664
-#EXTINF:-1 tvg-name="EI PLUS 1 HD" tvg-logo="http://natv.pw/logo/18513.jpg", EI PLUS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18513
-#EXTINF:-1 tvg-name="EI PLUS 2 HD" tvg-logo="http://natv.pw/logo/19047.jpg", EI PLUS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19047
-#EXTINF:-1 tvg-name="EI PLUS 3 HD" tvg-logo="http://natv.pw/logo/23867.jpg", EI PLUS 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/23867
-#EXTINF:-1 tvg-name="EI PLUS 4 HD" tvg-logo="http://natv.pw/logo/53147.jpg", EI PLUS 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53147
-#EXTINF:-1 tvg-name="EI PLUS 5 HD" tvg-logo="http://natv.pw/logo/53148.jpg", EI PLUS 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53148
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="ESPN 2 FHD" tvg-logo="http://natv.pw/logo/2226.jpg", ESPN 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2226
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265", ESPN 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48667
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="ESPN 2 FHD²" tvg-logo="http://natv.pw/logo/18684.jpg", ESPN 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18684
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="ESPN 2 HD" tvg-logo="http://natv.pw/logo/1989.jpg", ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1989
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="http://natv.pw/logo/18685.jpg", ESPN 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18685
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="ESPN 2 SD" tvg-logo="http://natv.pw/logo/42406.jpg", ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/42406
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 4K" tvg-logo="http://natv.pw/logo/18479.jpg", ESPN 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18479
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://natv.pw/logo/2224.jpg", ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2224
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD²" tvg-logo="http://natv.pw/logo/18687.jpg", ESPN BRASIL FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18687
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL H265", ESPN BRASIL H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48668
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://natv.pw/logo/1988.jpg", ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1988
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="http://natv.pw/logo/18688.jpg", ESPN BRASIL HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18688
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="http://natv.pw/logo/2111.jpg", ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2111
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD²" tvg-logo="http://natv.pw/logo/18686.jpg", ESPN BRASIL SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18686
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://natv.pw/logo/2161.jpg", ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2161
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265", ESPN EXTRA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48665
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://natv.pw/logo/18278.jpg", ESPN EXTRA HD
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="http://natv.pw/logo/25155.jpg", ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/25155
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="http://natv.pw/logo/2223.jpg", ESPN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2223
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD H265", ESPN FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48666
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD²" tvg-logo="http://natv.pw/logo/18523.jpg", ESPN FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18523
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="http://natv.pw/logo/19048.jpg", ESPN HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19048
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="http://natv.pw/logo/1987.jpg", ESPN HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1987
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="http://natv.pw/logo/2112.jpg", ESPN SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2112
-#EXTINF:-1 tvg-name="FACEBOOK 1 HD" tvg-logo="http://natv.pw/logo/44730.jpg", FACEBOOK 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/44730
-#EXTINF:-1 tvg-name="FACEBOOK 2 HD" tvg-logo="http://natv.pw/logo/44731.jpg", FACEBOOK 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/44731
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://natv.pw/logo/2222.jpg", FISH TV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2222
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://natv.pw/logo/1986.jpg", FISH TV HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1986
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="http://natv.pw/logo/18689.jpg", FISH TV HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18689
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://natv.pw/logo/2109.jpg", FISH TV SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2109
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="http://natv.pw/logo/18690.jpg", FISH TV SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18690
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV FHD H265", FISHTV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48669
-#EXTINF:-1 tvg-name="FLATV HD" tvg-logo="http://natv.pw/logo/39396.jpg", FLATV HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/39396
-#EXTINF:-1 tvg-name="FLATV HD²" tvg-logo="http://natv.pw/logo/44729.jpg", FLATV HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/44729
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265", FOOD NETWORK FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48670
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX 4K" tvg-logo="http://natv.pw/logo/53275.jpg", FOX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53275
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="http://natv.pw/logo/2221.jpg", FOX FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2221
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD H265", FOX FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48671
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD²" tvg-logo="http://natv.pw/logo/18529.jpg", FOX FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18529
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://natv.pw/logo/1984.jpg", FOX HD
@@ -545,8 +99,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18700
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://natv.pw/logo/2218.jpg", FOX PREMIUM 1 FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2218
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD H265", FOX PREMIUM 1 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48672
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD²" tvg-logo="http://natv.pw/logo/18531.jpg", FOX PREMIUM 1 FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18531
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://natv.pw/logo/1982.jpg", FOX PREMIUM 1 HD
@@ -555,8 +107,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19464
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://natv.pw/logo/2217.jpg", FOX PREMIUM 2 FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2217
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD H265", FOX PREMIUM 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48673
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD²" tvg-logo="http://natv.pw/logo/18532.jpg", FOX PREMIUM 2 FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18532
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://natv.pw/logo/1981.jpg", FOX PREMIUM 2 HD
@@ -569,194 +119,18 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18697
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD²" tvg-logo="http://natv.pw/logo/18698.jpg", FOX SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18698
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://natv.pw/logo/18478.jpg", FOX SPORTS 2 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18478
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://natv.pw/logo/2215.jpg", FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2215
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265", FOX SPORTS 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48675
-#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://natv.pw/logo/18706.jpg", FOX SPORTS 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18706
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://natv.pw/logo/1980.jpg", FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1980
-#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://natv.pw/logo/18707.jpg", FOX SPORTS 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18707
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://natv.pw/logo/2105.jpg", FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2105
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="http://natv.pw/logo/18477.jpg", FOX SPORTS 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18477
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="http://natv.pw/logo/18596.jpg", FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18596
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265", FOX SPORTS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48674
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="http://natv.pw/logo/18709.jpg", FOX SPORTS FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18709
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://natv.pw/logo/1979.jpg", FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1979
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD²" tvg-logo="http://natv.pw/logo/18710.jpg", FOX SPORTS HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18710
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://natv.pw/logo/2025.jpg", FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2025
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD²" tvg-logo="http://natv.pw/logo/18711.jpg", FOX SPORTS SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18711
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="http://natv.pw/logo/2219.jpg", FX FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2219
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD²" tvg-logo="http://natv.pw/logo/18712.jpg", FX FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18712
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX H265", FX H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48676
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://natv.pw/logo/1978.jpg", FX HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1978
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="http://natv.pw/logo/2104.jpg", FX SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2104
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD²" tvg-logo="http://natv.pw/logo/18714.jpg", FX SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18714
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA 4K" tvg-logo="http://natv.pw/logo/53277.jpg", GAZETA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53277
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO 4K" tvg-logo="http://natv.pw/logo/18480.jpg", GLOBO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18480
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265", GLOBO NEWS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48677
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="http://natv.pw/logo/18716.jpg", GLOBO SP FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18716
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://natv.pw/logo/2156.jpg", GLOOB FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2156
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265", GLOOB FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48678
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD²" tvg-logo="http://natv.pw/logo/18725.jpg", GLOOB FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18725
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://natv.pw/logo/1971.jpg", GLOOB HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1971
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD²" tvg-logo="http://natv.pw/logo/18726.jpg", GLOOB HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18726
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="http://natv.pw/logo/2098.jpg", GLOOB SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2098
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD²" tvg-logo="http://natv.pw/logo/18727.jpg", GLOOB SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18727
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="http://natv.pw/logo/23888.jpg", GLOOBINHO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/23888
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://natv.pw/logo/23889.jpg", GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/23889
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="http://natv.pw/logo/23890.jpg", GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/23890
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 4K" tvg-logo="http://natv.pw/logo/56003.jpg", H2 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56003
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD H265", H2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48685
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://natv.pw/logo/2206.jpg", HBO 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2206
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265", HBO 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48683
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD²" tvg-logo="http://natv.pw/logo/18772.jpg", HBO 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18772
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://natv.pw/logo/1964.jpg", HBO 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1964
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://natv.pw/logo/18773.jpg", HBO 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18773
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://natv.pw/logo/2090.jpg", HBO 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2090
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="http://natv.pw/logo/18774.jpg", HBO 2 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18774
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K" tvg-logo="http://natv.pw/logo/25160.jpg", HBO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/25160
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://natv.pw/logo/2209.jpg", HBO FAMILY FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2209
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY H265", HBO FAMILY H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48679
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://natv.pw/logo/1968.jpg", HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1968
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://natv.pw/logo/2094.jpg", HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2094
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://natv.pw/logo/2210.jpg", HBO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2210
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD²" tvg-logo="http://natv.pw/logo/18777.jpg", HBO FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18777
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265", HBO H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48680
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://natv.pw/logo/1967.jpg", HBO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1967
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://natv.pw/logo/18778.jpg", HBO HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18778
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://natv.pw/logo/2152.jpg", HBO MUNDI FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2152
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI H265", HBO MUNDI H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48687
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://natv.pw/logo/1959.jpg", HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1959
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://natv.pw/logo/2085.jpg", HBO MUNDI SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2085
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://natv.pw/logo/2208.jpg", HBO PLUS FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2208
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD²" tvg-logo="http://natv.pw/logo/18542.jpg", HBO PLUS FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18542
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS H265", HBO PLUS H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48681
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://natv.pw/logo/1966.jpg", HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1966
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD²" tvg-logo="http://natv.pw/logo/18783.jpg", HBO PLUS HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18783
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://natv.pw/logo/18265.jpg", HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18265
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD²" tvg-logo="http://natv.pw/logo/18785.jpg", HBO PLUS SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18785
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="HBO POP FHD" tvg-logo="http://natv.pw/logo/2153.jpg", HBO POP FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2153
-#EXTINF:-1 tvg-name="HBO POP H265", HBO POP H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48689
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="HBO POP HD" tvg-logo="http://natv.pw/logo/1958.jpg", HBO POP HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1958
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="HBO POP SD" tvg-logo="http://natv.pw/logo/2083.jpg", HBO POP SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2083
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://natv.pw/logo/2095.jpg", HBO SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2095
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="http://natv.pw/logo/18780.jpg", HBO SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18780
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://natv.pw/logo/2207.jpg", HBO SIGNATURE FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2207
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD²" tvg-logo="http://natv.pw/logo/18786.jpg", HBO SIGNATURE FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18786
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE H265", HBO SIGNATURE H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48682
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://natv.pw/logo/1965.jpg", HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1965
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://natv.pw/logo/18787.jpg", HBO SIGNATURE HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18787
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://natv.pw/logo/18264.jpg", HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18264
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="http://natv.pw/logo/18788.jpg", HBO SIGNATURE SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18788
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="http://natv.pw/logo/2151.jpg", HBO XTREME FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2151
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD²" tvg-logo="http://natv.pw/logo/18798.jpg", HBO XTREME FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18798
-#EXTINF:-1 tvg-name="HBO XTREME H265", HBO XTREME H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48688
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://natv.pw/logo/18260.jpg", HBO XTREME HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18260
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="http://natv.pw/logo/18799.jpg", HBO XTREME HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18799
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://natv.pw/logo/2023.jpg", HBO XTREME SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2023
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD²" tvg-logo="http://natv.pw/logo/18797.jpg", HBO XTREME SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18797
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="HGTV FHD H265", HGTV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48658
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://natv.pw/logo/56004.jpg", HISTORY CHANNEL 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56004
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265", HISTORY FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48684
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY FHD H265" tvg-logo="http://natv.pw/logo/1962.jpg", INVESTIGATION DISCOVERY FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1962
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265", LIFETIME FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48686
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGA PIX 4K" tvg-logo="http://natv.pw/logo/53276.jpg", MEGA PIX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53276
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://natv.pw/logo/18491.jpg", MEGAPIX 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18491
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://natv.pw/logo/2205.jpg", MEGAPIX FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2205
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265", MEGAPIX FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48690
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD²" tvg-logo="http://natv.pw/logo/18804.jpg", MEGAPIX FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18804
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://natv.pw/logo/1957.jpg", MEGAPIX HD
@@ -767,66 +141,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2022
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="http://natv.pw/logo/18802.jpg", MEGAPIX SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18802
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265", MTV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48691
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://natv.pw/logo/18489.jpg", MULTISHOW 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18489
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265", MULTISHOW FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48692
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD DUA AUDIO" tvg-logo="http://natv.pw/logo/2202.jpg", NAT GEO KIDS FHD DUA AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2202
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD²" tvg-logo="http://natv.pw/logo/18812.jpg", NAT GEO KIDS FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18812
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://natv.pw/logo/1954.jpg", NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1954
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD²" tvg-logo="http://natv.pw/logo/18811.jpg", NAT GEO KIDS HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18811
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="http://natv.pw/logo/2081.jpg", NAT GEO KIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2081
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="http://natv.pw/logo/18490.jpg", NATGEO 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18490
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD H265", NATGEO FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48693
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS FHD H265", NATGEO KIDS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48695
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD H265", NATGEO WILD FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48694
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD" tvg-logo="http://natv.pw/logo/1951.jpg", NICK JR FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1951
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD H265", NICK JR FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48697
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD²" tvg-logo="http://natv.pw/logo/18820.jpg", NICK JR FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18820
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://natv.pw/logo/18557.jpg", NICK JR HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18557
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD²" tvg-logo="http://natv.pw/logo/18821.jpg", NICK JR HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18821
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="http://natv.pw/logo/2077.jpg", NICK JR SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2077
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD²" tvg-logo="http://natv.pw/logo/18822.jpg", NICK JR SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18822
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD" tvg-logo="http://natv.pw/logo/18559.jpg", NICKELODEON FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18559
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD H265", NICKELODEON FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48696
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://natv.pw/logo/1950.jpg", NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1950
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="http://natv.pw/logo/2076.jpg", NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2076
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF 4K" tvg-logo="http://natv.pw/logo/56006.jpg", OFF 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56006
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD" tvg-logo="http://natv.pw/logo/2148.jpg", OFF FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2148
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265", OFF FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48698
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://natv.pw/logo/1949.jpg", OFF HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1949
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://natv.pw/logo/2075.jpg", OFF SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2075
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://natv.pw/logo/2201.jpg", PARAMOUNT FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2201
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265", PARAMOUNT FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48699
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD²" tvg-logo="http://natv.pw/logo/18825.jpg", PARAMOUNT FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18825
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="http://natv.pw/logo/1948.jpg", PARAMOUNT HD
@@ -835,120 +151,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2074
 #EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD²" tvg-logo="http://natv.pw/logo/18827.jpg", PARAMOUNT SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18827
-#EXTINF:-1 tvg-name="PLAYKIDS HD" tvg-logo="http://natv.pw/logo/41787.jpg", PLAYKIDS HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/41787
-#EXTINF:-1 tvg-name="PLAYKIDS SD" tvg-logo="http://natv.pw/logo/41832.jpg", PLAYKIDS SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/41832
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="http://natv.pw/logo/2200.jpg", PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2200
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://natv.pw/logo/19135.jpg", PREMIERE 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19135
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="http://natv.pw/logo/18828.jpg", PREMIERE 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18828
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://natv.pw/logo/19136.jpg", PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19136
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://natv.pw/logo/1947.jpg", PREMIERE 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1947
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://natv.pw/logo/2072.jpg", PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2072
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="http://natv.pw/logo/2199.jpg", PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2199
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://natv.pw/logo/19134.jpg", PREMIERE 3 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19134
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://natv.pw/logo/18832.jpg", PREMIERE 3 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18832
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://natv.pw/logo/19137.jpg", PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19137
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://natv.pw/logo/1946.jpg", PREMIERE 3 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1946
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://natv.pw/logo/2071.jpg", PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2071
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="http://natv.pw/logo/2198.jpg", PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2198
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://natv.pw/logo/19133.jpg", PREMIERE 4 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19133
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="http://natv.pw/logo/18836.jpg", PREMIERE 4 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18836
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://natv.pw/logo/19138.jpg", PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19138
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://natv.pw/logo/1945.jpg", PREMIERE 4 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1945
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://natv.pw/logo/2070.jpg", PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2070
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://natv.pw/logo/18839.jpg", PREMIERE 4 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18839
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="http://natv.pw/logo/2197.jpg", PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2197
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://natv.pw/logo/19132.jpg", PREMIERE 5 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19132
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://natv.pw/logo/18840.jpg", PREMIERE 5 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18840
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://natv.pw/logo/1944.jpg", PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1944
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://natv.pw/logo/19139.jpg", PREMIERE 5 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19139
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://natv.pw/logo/2069.jpg", PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2069
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="http://natv.pw/logo/2175.jpg", PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2175
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://natv.pw/logo/19131.jpg", PREMIERE 6 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19131
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://natv.pw/logo/18844.jpg", PREMIERE 6 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18844
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://natv.pw/logo/1943.jpg", PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1943
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://natv.pw/logo/19140.jpg", PREMIERE 6 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19140
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://natv.pw/logo/2068.jpg", PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2068
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="http://natv.pw/logo/2174.jpg", PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2174
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://natv.pw/logo/19130.jpg", PREMIERE 7 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19130
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://natv.pw/logo/19141.jpg", PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19141
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://natv.pw/logo/2067.jpg", PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2067
-#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="http://natv.pw/logo/18241.jpg", PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18241
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES 4K" tvg-logo="http://natv.pw/logo/18475.jpg", PREMIERE CLUBES 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18475
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://natv.pw/logo/2196.jpg", PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2196
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://natv.pw/logo/19129.jpg", PREMIERE CLUBES FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/19129
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://natv.pw/logo/18846.jpg", PREMIERE CLUBES FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18846
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://natv.pw/logo/1941.jpg", PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1941
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://natv.pw/logo/18847.jpg", PREMIERE CLUBES HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18847
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://natv.pw/logo/18240.jpg", PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18240
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://natv.pw/logo/18988.jpg", PREMIERE CLUBES SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18988
-#EXTINF:-1 tvg-name="R2: CANAL TESTE DE ROTA", R2: CANAL TESTE DE ROTA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/58044
-#EXTINF:-1 tvg-name="RAI ITALIA" tvg-logo="http://natv.pw/logo/39437.jpg", RAI ITALIA
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/39437
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K" tvg-logo="http://natv.pw/logo/18483.jpg", RECORD 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18483
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV 4K" tvg-logo="http://natv.pw/logo/18486.jpg", REDETV 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18486
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV FHD H265", REDETV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48700
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RÁ-TIM-BUM HD" tvg-logo="http://natv.pw/logo/18211.jpg", RÁ-TIM-BUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18211
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RÁ-TIM-BUM SD" tvg-logo="http://natv.pw/logo/18212.jpg", RÁ-TIM-BUM SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18212
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://natv.pw/logo/18482.jpg", SBT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18482
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="http://natv.pw/logo/18493.jpg", SPACE 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18493
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://natv.pw/logo/2195.jpg", SPACE FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2195
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="http://natv.pw/logo/18569.jpg", SPACE FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18569
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD²" tvg-logo="http://natv.pw/logo/18850.jpg", SPACE FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18850
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://natv.pw/logo/1935.jpg", SPACE HD
@@ -959,54 +163,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2056
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD²" tvg-logo="http://natv.pw/logo/18852.jpg", SPACE SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18852
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="http://natv.pw/logo/2193.jpg", SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2193
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="http://natv.pw/logo/18570.jpg", SPORTV 2 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18570
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD²" tvg-logo="http://natv.pw/logo/18853.jpg", SPORTV 2 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18853
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://natv.pw/logo/1934.jpg", SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1934
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://natv.pw/logo/18854.jpg", SPORTV 2 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18854
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="http://natv.pw/logo/2054.jpg", SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2054
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://natv.pw/logo/18855.jpg", SPORTV 2 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18855
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="http://natv.pw/logo/2192.jpg", SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2192
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="http://natv.pw/logo/18571.jpg", SPORTV 3 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18571
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD²" tvg-logo="http://natv.pw/logo/18858.jpg", SPORTV 3 FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18858
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="http://natv.pw/logo/1933.jpg", SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1933
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://natv.pw/logo/18859.jpg", SPORTV 3 HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18859
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="http://natv.pw/logo/2052.jpg", SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2052
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://natv.pw/logo/18860.jpg", SPORTV 3 SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18860
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://natv.pw/logo/18476.jpg", SPORTV 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18476
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="http://natv.pw/logo/2194.jpg", SPORTV FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2194
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://natv.pw/logo/18572.jpg", SPORTV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18572
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://natv.pw/logo/18861.jpg", SPORTV FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18861
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="http://natv.pw/logo/1932.jpg", SPORTV HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1932
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://natv.pw/logo/18862.jpg", SPORTV HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18862
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="http://natv.pw/logo/2055.jpg", SPORTV SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2055
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD²" tvg-logo="http://natv.pw/logo/18863.jpg", SPORTV SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18863
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://natv.pw/logo/2143.jpg", STUDIO UNIVERSAL FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2143
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://natv.pw/logo/18573.jpg", STUDIO UNIVERSAL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18573
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD²" tvg-logo="http://natv.pw/logo/18864.jpg", STUDIO UNIVERSAL FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18864
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://natv.pw/logo/1931.jpg", STUDIO UNIVERSAL HD
@@ -1019,8 +177,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18866
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://natv.pw/logo/2142.jpg", SYFY FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2142
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265", SYFY FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48701
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD²" tvg-logo="http://natv.pw/logo/18867.jpg", SYFY FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18867
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://natv.pw/logo/1930.jpg", SYFY HD
@@ -1033,8 +189,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18869
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="http://natv.pw/logo/2173.jpg", TBS FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2173
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265", TBS FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48702
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://natv.pw/logo/1929.jpg", TBS HD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1929
 #EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="http://natv.pw/logo/2019.jpg", TBS SD
@@ -1043,108 +197,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48707
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://natv.pw/logo/2050.jpg", TCM SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2050
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="http://natv.pw/logo/56007.jpg", TELECINE ACTION 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56007
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://natv.pw/logo/2191.jpg", TELECINE ACTION FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2191
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://natv.pw/logo/18470.jpg", TELECINE ACTION FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18470
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD²" tvg-logo="http://natv.pw/logo/18870.jpg", TELECINE ACTION FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18870
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://natv.pw/logo/1928.jpg", TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1928
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://natv.pw/logo/18871.jpg", TELECINE ACTION HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18871
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="http://natv.pw/logo/2049.jpg", TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2049
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="http://natv.pw/logo/18873.jpg", TELECINE ACTION SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18873
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://natv.pw/logo/2190.jpg", TELECINE CULT FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2190
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE CULT FHD H265", TELECINE CULT FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48703
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD²" tvg-logo="http://natv.pw/logo/18874.jpg", TELECINE CULT FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18874
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://natv.pw/logo/1927.jpg", TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1927
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://natv.pw/logo/18875.jpg", TELECINE CULT HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18875
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://natv.pw/logo/2048.jpg", TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2048
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD²" tvg-logo="http://natv.pw/logo/18876.jpg", TELECINE CULT SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18876
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://natv.pw/logo/2189.jpg", TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2189
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="http://natv.pw/logo/18577.jpg", TELECINE FUN FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18577
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD²" tvg-logo="http://natv.pw/logo/18877.jpg", TELECINE FUN FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18877
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://natv.pw/logo/1926.jpg", TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1926
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://natv.pw/logo/18878.jpg", TELECINE FUN HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18878
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="http://natv.pw/logo/2047.jpg", TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2047
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD²" tvg-logo="http://natv.pw/logo/18974.jpg", TELECINE FUN SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18974
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://natv.pw/logo/56008.jpg", TELECINE PIPOCA 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/56008
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://natv.pw/logo/2188.jpg", TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2188
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://natv.pw/logo/18578.jpg", TELECINE PIPOCA FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18578
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD²" tvg-logo="http://natv.pw/logo/18879.jpg", TELECINE PIPOCA FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18879
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://natv.pw/logo/1925.jpg", TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1925
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="http://natv.pw/logo/18880.jpg", TELECINE PIPOCA HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18880
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://natv.pw/logo/2046.jpg", TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2046
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://natv.pw/logo/18881.jpg", TELECINE PIPOCA SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18881
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://natv.pw/logo/25159.jpg", TELECINE PREMIUM 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/25159
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://natv.pw/logo/2187.jpg", TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2187
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://natv.pw/logo/18579.jpg", TELECINE PREMIUM FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18579
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD²" tvg-logo="http://natv.pw/logo/18882.jpg", TELECINE PREMIUM FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18882
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://natv.pw/logo/1924.jpg", TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1924
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="http://natv.pw/logo/18883.jpg", TELECINE PREMIUM HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18883
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://natv.pw/logo/2045.jpg", TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2045
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="http://natv.pw/logo/18884.jpg", TELECINE PREMIUM SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18884
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://natv.pw/logo/2186.jpg", TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2186
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://natv.pw/logo/18580.jpg", TELECINE TOUCH FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18580
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD²" tvg-logo="http://natv.pw/logo/18885.jpg", TELECINE TOUCH FHD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18885
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://natv.pw/logo/1923.jpg", TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/1923
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="http://natv.pw/logo/18886.jpg", TELECINE TOUCH HD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18886
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://natv.pw/logo/2044.jpg", TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2044
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="http://natv.pw/logo/18887.jpg", TELECINE TOUCH SD²
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18887
-#EXTINF:-1 tvg-name="TIGO SPORTS 1 HD" tvg-logo="http://natv.pw/logo/39662.jpg", TIGO SPORTS 1 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/39662
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="http://natv.pw/logo/18581.jpg", TLC FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18581
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://natv.pw/logo/18485.jpg", TNT 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18485
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K DUAL AUDIO" tvg-logo="http://natv.pw/logo/53278.jpg", TNT 4K DUAL AUDIO
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/53278
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://natv.pw/logo/2185.jpg", TNT FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2185
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265", TNT FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48704
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD²" tvg-logo="http://natv.pw/logo/18888.jpg", TNT FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18888
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://natv.pw/logo/1921.jpg", TNT HD
@@ -1155,12 +209,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2042
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD²" tvg-logo="http://natv.pw/logo/18890.jpg", TNT SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18890
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="http://natv.pw/logo/18492.jpg", TNT SERIES 4K
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18492
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://natv.pw/logo/2184.jpg", TNT SERIES FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2184
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://natv.pw/logo/18583.jpg", TNT SERIES FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18583
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD²" tvg-logo="http://natv.pw/logo/18892.jpg", TNT SERIES FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18892
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://natv.pw/logo/18215.jpg", TNT SERIES HD
@@ -1171,10 +221,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2041
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD²" tvg-logo="http://natv.pw/logo/18891.jpg", TNT SERIES SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18891
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://natv.pw/logo/18214.jpg", TOONCAST HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18214
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://natv.pw/logo/2040.jpg", TOONCAST SD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2040
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://natv.pw/logo/2183.jpg", UNIVERSAL CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2183
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD²" tvg-logo="http://natv.pw/logo/18896.jpg", UNIVERSAL CHANNEL FHD²
@@ -1187,14 +233,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2038
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD²" tvg-logo="http://natv.pw/logo/18898.jpg", UNIVERSAL CHANNEL SD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18898
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265", UNIVERSAL TV FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/48705
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="VH1 FHD H265" tvg-logo="http://natv.pw/logo/18584.jpg", VH1 FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18584
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://natv.pw/logo/2180.jpg", WARNER CHANNEL FHD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2180
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://natv.pw/logo/18586.jpg", WARNER CHANNEL FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18586
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD²" tvg-logo="http://natv.pw/logo/18899.jpg", WARNER CHANNEL FHD²
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18899
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://natv.pw/logo/1918.jpg", WARNER CHANNEL HD
@@ -1203,13 +243,3 @@ plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR r
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18900
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="http://natv.pw/logo/2035.jpg", WARNER CHANNEL SD
 plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2035
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="http://natv.pw/logo/18587.jpg", WOOHOO FHD H265
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18587
-#EXTINF:-1 tvg-name="YOUTUBE 2 HD" tvg-logo="http://natv.pw/logo/45150.jpg", YOUTUBE 2 HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/45150
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="YOUTUBE HD" tvg-logo="http://natv.pw/logo/18683.jpg", YOUTUBE HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18683
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO FHD" tvg-logo="http://natv.pw/logo/2033.jpg", ZOOMOO FHD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/2033
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="http://natv.pw/logo/18195.jpg", ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://natv.pw:80/Marcooani6358/eBwJi8yef3/18195
