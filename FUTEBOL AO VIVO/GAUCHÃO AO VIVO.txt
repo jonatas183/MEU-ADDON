@@ -1,0 +1,63 @@
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Inter[/B][/COLOR] x [COLOR white][B]São Luiz[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail></thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 08 de Março de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 20:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Beira-Rio
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Pelotas[/B][/COLOR] x [COLOR white][B]Ypiranga[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail></thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 08 de Março de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 20:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Estádio Boca do Lobo
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Novo Hamburgo[/B][/COLOR] x [COLOR white][B]Juventude[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail></thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 08 de Março de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 22:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Estádio do Vale
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Caxias[/B][/COLOR] x [COLOR white][B]Aimoré[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail></thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 08 de Março de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 22:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Estádio Centenário
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>

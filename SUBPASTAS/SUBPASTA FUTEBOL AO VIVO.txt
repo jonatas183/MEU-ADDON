@@ -1,0 +1,28 @@
+<item>
+    <title>[COLOR yellow][B]JOGOS DO BRASILEIRÃO[/B][/COLOR]</title>
+       <link>http://</link>
+    <thumbnail>https://www.campeonatobrasileiro.com.br/uploads/noticias/serie-a-tabela-times.png</thumbnail>
+    <info></info>
+</item>
+
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Bahia - BA[/B][/COLOR] x [COLOR white][B]Grêmio - RS[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+       <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/tamires123/tamires321/856251
+$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/5860306580/fireurl.co/72262.ts
+$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD [ALT][/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/tamires123/tamires321/856249
+$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://b5.vc:80/5860306580/fireurl.co/72265.ts
+$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD [ALT][/B][/COLOR]</link>
+    <thumbnail>https://www.minhatorcida.com.br/imagens/post/14311/bahia-x-gremio.jpg</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Sexta, 26 de Novembro de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 19:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Arena Fonte Nova - Salvador - BA
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>

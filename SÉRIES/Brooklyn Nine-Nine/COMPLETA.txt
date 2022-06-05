@@ -1,0 +1,47 @@
+<item>
+<title>BROOKLYN NINE-NINE | 1 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f482ed3993d5a635a000f39e947a1af8c0b2101</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BROOKLYN NINE-NINE | 2 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46e1656c386cdd889de56c587f14890da149657f</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BROOKLYN NINE-NINE | 3 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d1becf73c3cfe5019689d2e145cd462fc2f6df2</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BROOKLYN NINE-NINE | 4 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a8875d97c2136ec668e56fc6b002c6015ab14c9</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BROOKLYN NINE-NINE | 5 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:646e704ac63ff344f747fbcccdc7d977315a3528</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>BROOKLYN NINE-NINE | 6 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd176aa05769c41e99be1da06da7b227e468f1eb</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

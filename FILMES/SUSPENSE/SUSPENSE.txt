@@ -1,0 +1,24 @@
+<item>
+<title>Amizade Maldita - (2020) [COLOR yellow][B]FULL HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0c40e7659f12d13bbd267b02c2271948a6900ce7</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dp1L8ifSSKnkXMGLCMUvXjKdxQk.jpg</thumbnail>
+<info>Kevin e Beth notam que seu filho de oito anos, Josh, tem passado bastante tempo brincando com um novo amigo imaginário, chamado Z. O que a princípio parece uma relação inofensiva, rapidamente se transforma em algo destrutivo e perigoso. É quando Beth começa a desvendar o seu próprio passado, que ela descobre que Z pode não estar apenas na imaginação do filho.</info>
+</item>
+
+<item>
+<title>O Segredo de Alcatraz - (2020)</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:b2f2c54412e889cc98f54efe41db7cc0b94b868d$$lsname=1080p</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:c0947b1230a218b78cf1b3efd795411f60d470a9$$lsname=720p</link>
+<thumbnail>https://i.imgur.com/T8y5jIv.jpg</thumbnail>
+<fanart></fanart>
+<info>O Segredo de Alcatraz – Alcatraz, 1937. Um jovem guarda penitenciário que trabalha no turno da noite experimenta uma série de perturbações arrepiantes que culminam na morte bizarra de um preso na prisão mais famosa do mundo.</info>
+</item>
+
+<item>
+<title>Ameaça Profunda - (2020)</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a9d87ab7b4fb9ef9e579b1f108f0dbdde6f6460d$$lsname=1080p</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a82a7c760938a984b9fc9c43d0adb2daa26b19f8$$lsname=720p</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9QVsMxpZX6qyYE0yRptbyiR9YOl.jpg</thumbnail>
+<fanart></fanart>
+<info>Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.</info>
+</item>

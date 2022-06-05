@@ -1,0 +1,12 @@
+<item>
+<title>RESIDENT EVIL: NO ESCURO ABSOLUTO | 1 TEMPORADA -[COLOR yellow][B]FULL HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5B3F49F839C39DFD2F9A17B423E7E24AAB2D783B&dn</link>
+<thumbnail>https://pbs.twimg.com/media/Ei7tAKLWoAAta0e.jpg</thumbnail>
+<fanart></fanart>
+<info>
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] 2021
+
+[COLOR lime][B]Gênero:[/B][/COLOR] Animação, Action & Adventure, Sci-Fi & Fantasy
+
+[COLOR lime][B]Qualidade de Áudio e Vídeo:[/B][/COLOR] 10</info>
+</item>

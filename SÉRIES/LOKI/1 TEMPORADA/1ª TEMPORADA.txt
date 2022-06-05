@@ -1,0 +1,15 @@
+<item>
+<title>LOKI | 1ª TEMPORADA</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a9310c8d2bd0433524209f5b276ab505478ae0c4$$lsname=[COLOR white][B]LOKI | EP 01[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a95f5215f23e9ecdf6fd06adbcf9bd05d0ffb9f4$$lsname=[COLOR white][B]LOKI | EP 02[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f1850a67dcfc039bc564de40070933923070268a$$lsname=[COLOR white][B]LOKI | EP 03[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:4c4d81599c97b493e8eda09aab6dba0c2b8ea7e5$$lsname=[COLOR white][B]LOKI | EP 04[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:ID_URL$$lsname=[COLOR white][B]LOKI | EP 05[/B][/COLOR] - [COLOR yellow][B]EM BREVE[/B][/COLOR]</link>
+<thumbnail>https://torrentsfilmes4k.net/wp-content/uploads/2021/06/ukR0MkCQE6IylzBPd61txJi1L3E-250x375.jpg</thumbnail>
+<info>
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] 2021
+
+[COLOR lime][B]Gênero:[/B][/COLOR] Ação, Aventura, Comédia, Fantasia
+
+[COLOR lime][B]Qualidade de Áudio e Vídeo:[/B][/COLOR] 10</info>
+</item>

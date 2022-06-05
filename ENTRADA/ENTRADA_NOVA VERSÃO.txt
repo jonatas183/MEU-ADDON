@@ -1,0 +1,23 @@
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]TV AO VIVO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Q6nxHXF/tv-ao-vivo.png</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=12p7U_T5uVflNzF4V9zbHGxCLEp-9z2JC&export=download</externallink>
+<info>Os melhores servidores de canais IPTV você encontra aqui totalmente de graça.</info>
+<date>04/06/2022</date>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/vZrDZ8r/Filmes.png</thumbnail>
+<externallink></externallink>
+<info></info>
+<date></date>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/12XfC9f/S-ries.png</thumbnail>
+<externallink></externallink>
+<info></info>
+<date></date>

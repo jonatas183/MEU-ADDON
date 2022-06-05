@@ -1,0 +1,51 @@
+<item>
+<title>WANDAVISION | EPISÓDIOS 1 e 2</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 3</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 4</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:06508e218642ea1fb3e05d3a6b6e5bb2ce1f5916</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 5</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:62c2bb254abef758fc6b3d71fa7ab1a03fef1ff7</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 6</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f9fb854e55bb2c52a7a61521ffd5fd74809979e6</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 7</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:2a88e6ff0ba8a53aa3e8156e14d6275ce1034277</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 8</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a88db44f69411ef58409843cab90434da6561e17</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+<item>
+<title>WANDAVISION | EPISÓDIO 9</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:2b17de61d3c08701ccab7c29d03b8831bb1335fc</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+</item>
+
+
+
+

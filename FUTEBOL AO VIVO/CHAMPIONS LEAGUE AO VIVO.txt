@@ -1,0 +1,31 @@
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Atlético de Madrid[/B][/COLOR] x [COLOR white][B]Chelsea[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]TNT Sports[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]TNT Sports[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/C7fbHKX/atletico-de-madrid-x-chelsea.png</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Terça, 23 de Fevereiro de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 17:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Arena Națională
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: TNT Sports
+    </info>
+</item>
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Lazio[/B][/COLOR] x [COLOR white][B]Bayern[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]TNT Sports[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]TNT Sports[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/9b5pHMn/lazio-x-bayern.png</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Terça, 23 de Fevereiro de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 17:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Stadio Olimpico
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: TNT Sports
+    </info>
+</item>

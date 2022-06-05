@@ -1,0 +1,31 @@
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Palmeiras - SP[/B][/COLOR] x [COLOR white][B]Atlético - GO[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/WKSbz70/palmeiras-x-atletico-goianiense.png</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 22 de Fevereiro de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 18:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Allianz Parque - Sao Paulo - SP 
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>
+
+<item>
+    <title>[COLOR red][B]●[/B][/COLOR] [COLOR white][B]Botafogo - RJ[/B][/COLOR] x [COLOR white][B]São Paulo - SP[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>$$lsname=[COLOR white][B]Premiere[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://i.ibb.co/X7J1YQw/botafogo-x-sao-paulo.png</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Segunda, 22 de Fevereiro de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 21:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Nilton Santos - Rio de Janeiro - RJ 
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Premiere
+    </info>
+</item>

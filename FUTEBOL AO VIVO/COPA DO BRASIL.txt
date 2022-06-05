@@ -1,0 +1,16 @@
+<item>
+    <title>[COLOR lime][B]●[/B][/COLOR] [COLOR white][B]Palmeiras - SP[/B][/COLOR] x [COLOR white][B]Grêmio - RS[/B][/COLOR] - [COLOR lime][B]FHD[/B][/COLOR]|[COLOR lime][B]HD[/B][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://play.cmsdz.life:80/live/8191909194/9124201943/351463.ts$$lsname=[COLOR white][B]Globo[/B][/COLOR] - [COLOR yellow][B]FHD[/B][/COLOR]</link>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=TSDOWNLOADER&amp;url=http://play.cmsdz.life:80/live/8191909194/9124201943/351124.ts$$lsname=[COLOR white][B]Globo[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR]</link>
+    <thumbnail>https://sportbuzz.uol.com.br/media/_versions/palmeiras_e_gremio_widelg.png</thumbnail>
+    <info>
+[COLOR lime][B]Dia[/B][/COLOR]: Domingo, 07 de Março de 2021
+
+[COLOR lime][B]Horário[/B][/COLOR]: 18:00
+
+[COLOR lime][B]Local[/B][/COLOR]: Allianz Parque
+
+[COLOR lime][B]Transmissão[/B][/COLOR]: Globo
+    </info>
+</item>
+

@@ -1,0 +1,21 @@
+<item>
+<title>WANDAVISION | 1ª TEMPORADA</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:36b560c3d3b970116ac9303cd7e678cc55fb185c$$lsname=[COLOR white][B]WANDAVISION | EP 01 & 02[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e70ee7cf3e0eea2939bb97ea65b62d396e9ee44a$$lsname=[COLOR white][B]WANDAVISION | EP 03[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:06508e218642ea1fb3e05d3a6b6e5bb2ce1f5916$$lsname=[COLOR white][B]WANDAVISION | EP 04[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:62c2bb254abef758fc6b3d71fa7ab1a03fef1ff7$$lsname=[COLOR white][B]WANDAVISION | EP 05[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f9fb854e55bb2c52a7a61521ffd5fd74809979e6$$lsname=[COLOR white][B]WANDAVISION | EP 06[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:2a88e6ff0ba8a53aa3e8156e14d6275ce1034277$$lsname=[COLOR white][B]WANDAVISION | EP 07[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:a88db44f69411ef58409843cab90434da6561e17$$lsname=[COLOR white][B]WANDAVISION | EP 08[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:2b17de61d3c08701ccab7c29d03b8831bb1335fc$$lsname=[COLOR white][B]WANDAVISION | EP 09[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR]</link>
+<thumbnail>http://br.web.img3.acsta.net/pictures/20/12/11/10/34/0902853.jpg</thumbnail>
+<info>
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] 2021
+
+[COLOR lime][B]Gênero:[/B][/COLOR] Ação, Aventura, Comédia, Fantasia
+
+[COLOR lime][B]Qualidade de Áudio e Vídeo:[/B][/COLOR] 10
+
+[COLOR lime][B]Temporada Completa Dublada[/B][/COLOR]</info>
+</item>
+

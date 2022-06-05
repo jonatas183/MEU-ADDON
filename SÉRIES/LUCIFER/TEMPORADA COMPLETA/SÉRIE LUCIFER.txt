@@ -1,0 +1,40 @@
+<item>
+<title>LUCIFER | 1 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5B3F49F839C39DFD2F9A17B423E7E24AAB2D783B&dn</link>
+<thumbnail>https://i.ytimg.com/vi/Cu5PUoUgct4/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>LUCIFER | 2 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:67CD11B0CF92B35A99058B754C6EDECC3B5D8666&dn</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/11/26/12/36/1776927.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>LUCIFER | 3 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:D32F6B735B8F0FE4857977082E268655EF506D6F&dn</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/13/Lucifer_Temporada_3_Poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>LUCIFER | 4 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:B9238AAEBD75B66B515B5E2B28B6376E2CC5EE54&&dn</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Lucifer_Temporada_4_Poster.jpg/220px-Lucifer_Temporada_4_Poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>LUCIFER | 5 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:fae5510c71dd215176a293d33eee2ecffbdd693d$$lsname=[COLOR lime][B]PARTE 1 HD[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:1db9d4c1ae940e1f456310baff36143c8187a61f$$lsname=[COLOR lime][B]PARTE 2 FULL HD[/B][/COLOR]</link>
+<thumbnail>https://static1.purebreak.com.br/articles/8/87/23/8/@/328705--lucifer-tem-5-temporada-confirmada-pe-diapo-1.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

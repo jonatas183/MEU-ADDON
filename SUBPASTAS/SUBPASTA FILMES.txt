@@ -1,0 +1,82 @@
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | LANÇAMENTO - 2021[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/LAN%C3%87AMENTOS%202021/LAN%C3%87AMENTOS%202021.txt</externallink>
+<info></info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | LANÇAMENTO - 2020[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/LAN%C3%87AMENTOS%202020/LAN%C3%87AMENTOS%202020.txt</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | AÇÃO[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/A%C3%87%C3%83O/A%C3%87%C3%83O.txt</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | AVENTURA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/AVENTURA/AVENTURA.txt</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | CRIME[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/CRIME/CRIME.txt</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]●[/B][/COLOR][COLOR white][B] FILMES | COMÉDIA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://drive.google.com/u/0/uc?id=LINK&export=download
+</externallink>
+<fanart></fanart>
+<info>
+
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | DRAMA[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/DRAMA/DRAMA.txt</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | ROMANCE[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/ROMANCE/ROMANCE.txt</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | SUSPENSE[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/SUSPENSE/SUSPENSE.txt</externallink>
+<fanart></fanart>
+<info>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]●[/B][/COLOR][COLOR white][B] FILMES | TERROR[/B][/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/DESDE1909/DESDE1909/main/FILMES/TERROR/TERROR.txt</externallink>
+<fanart></fanart>
+<info>

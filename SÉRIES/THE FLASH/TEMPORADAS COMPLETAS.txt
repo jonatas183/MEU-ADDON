@@ -1,0 +1,88 @@
+<item>
+<title>THE FLASH | 1 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:6B1103D90F32A83FE5724157014D8B94556E1742</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The-Flash-primeira-temporada-poster-793x1024.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 2 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:298783737bac096404e6a7129696246f68510e01</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2017/05/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 3 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:d0d544e859b7020e70da4fbafdc612b61de67944</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2016/10/f3t43-223x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 4 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f9c96a50a20979dd4f5513665e0a4920e52c6854</link>
+<thumbnail>https://i.imgur.com/GRYXmYI.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 5 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:de1f5ba6263a8179986154009e7939966cbc75f6</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2018/12/aTIrEF4-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 6 TEMPORADA -[COLOR yellow][B] HD[/B][/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:8240837b0faf680ecf0decf14288f1a5e0b00bbb</link>
+<thumbnail>https://torrentsfilmeshd.tv/wp-content/uploads/2018/12/aTIrEF4-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>THE FLASH | 7 TEMPORADA</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:98f6a563aee4d9220f52e0a9f0ef9b6ca5f04506$$lsname=[COLOR white][B]THE FLASH | EP 01[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:C902C8245C61F7551529A59112F3E146A26163CD$$lsname=[COLOR white][B]THE FLASH | EP 01[/B][/COLOR] - [COLOR blue][B]HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:422063b75474f8c4c89ad0ede5fe39938094a598$$lsname=[COLOR white][B]THE FLASH | EP 02[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:948209167995e21f23d589f056b9d1a3539446be$$lsname=[COLOR white][B]THE FLASH | EP 02[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:3db9368f1c2fa3059f52add12e9266a1f22db20a$$lsname=[COLOR white][B]THE FLASH | EP 03[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:bc3f83c068a7323fd3c8066fcdaeeb91d3f53042$$lsname=[COLOR white][B]THE FLASH | EP 03[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e16744c43b0e90c0e2844474b49369c2f21d28ab$$lsname=[COLOR white][B]THE FLASH | EP 04[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:454c06a6b70367c68de42f05098d84230112d050$$lsname=[COLOR white][B]THE FLASH | EP 04[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f9215dbe5ea4ffe3d70d34b85d5112dfdbcf808b$$lsname=[COLOR white][B]THE FLASH | EP 05[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5ae1c2faa036bb2e500a0419291925a887c522c7$$lsname=[COLOR white][B]THE FLASH | EP 05[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:680efc3c669b37992956cbf3b102ee1a3c6b9885$$lsname=[COLOR white][B]THE FLASH | EP 06[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:4de463319cafcfcc4a7289334e0beca412e65656$$lsname=[COLOR white][B]THE FLASH | EP 06[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:11057caa9cc95d77281364417f9d34539c2781ca$$lsname=[COLOR white][B]THE FLASH | EP 07[/B][/COLOR] - [COLOR yellow][B]HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:3bf0c1275355e32842fc4898bd9d65deac7d683d$$lsname=[COLOR white][B]THE FLASH | EP 07[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:2418a01f5dd39093280d0db2e7fdd021bfebf5ac$$lsname=[COLOR white][B]THE FLASH | EP 08[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:43b0b17491203fcccc357e063aed113b72db0b9d$$lsname=[COLOR white][B]THE FLASH | EP 08[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:bd56f26e7873e1695e781123f75f4666a4ac2162$$lsname=[COLOR white][B]THE FLASH | EP 09[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:fa241630a776f09900518d48978bafec6099719d$$lsname=[COLOR white][B]THE FLASH | EP 09[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:3e493246afe4df4809c8fea27aaee21b562c5985$$lsname=[COLOR white][B]THE FLASH | EP 10[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:cd58136d36ff4440b1c6973676af08947fddfd4d$$lsname=[COLOR white][B]THE FLASH | EP 10[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:607dead49d383d804fe2db926dbc6a62f4e9d52a$$lsname=[COLOR white][B]THE FLASH | EP 11[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:bfdcb6e7eee556ae93b191cb6d19c7a7948c01b5$$lsname=[COLOR white][B]THE FLASH | EP 11[/B][/COLOR] - [COLOR blue][B]FULL HD[/B][/COLOR] - [COLOR blue][B]DUBLADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:607dead49d383d804fe2db926dbc6a62f4e9d52a$$lsname=[COLOR white][B]THE FLASH | EP 12[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:deddffe2ccf9d45b9327ea6bdc5e71ae2f8548dd$$lsname=[COLOR white][B]THE FLASH | EP 13[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:cf036f6ca6b7c64e4716c5440e40145ae707ab04$$lsname=[COLOR white][B]THE FLASH | EP 14[/B][/COLOR] - [COLOR yellow][B]FULL HD[/B][/COLOR] - [COLOR yellow][B]LEGENDADO[/B][/COLOR]</link>
+<thumbnail>https://cinepop.com.br/wp-content/uploads/2021/02/the-flash.jpg</thumbnail>
+<info>
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] 2021
+
+[COLOR lime][B]Gênero:[/B][/COLOR] Aventura, Drama, Ficção, Ação
+
+[COLOR lime][B]Qualidade de Áudio e Vídeo:[/B][/COLOR] 10
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Episódio 14 (NOVO) Legendado[/B][/COLOR]
+
+[COLOR blue][B]●[/B][/COLOR] [COLOR white][B]Episódio 11 (NOVO) Dublado[/B][/COLOR]</info>
+</item>
+

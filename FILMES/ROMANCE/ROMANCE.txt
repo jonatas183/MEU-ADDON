@@ -1,0 +1,8 @@
+<item>
+<title>Nasce uma Estrela - (2018)</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0097c21ba738867b36fc3b8c60fee025b7a4ee93$$lsname=1080p</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e48232ac744300e7108b43de1424ba43cea75f02$$lsname=720p</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/d8CNgb0AtZz7CSORffdwODK66iK.jpg</thumbnail>
+<fanart></fanart>
+<info>Um músico ajuda uma jovem cantora a encontrar fama quando a idade e o alcoolismo enviam sua própria carreira para uma espiral descendente.</info>
+</item>
